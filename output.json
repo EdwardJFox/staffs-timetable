@@ -1,0 +1,3318 @@
+[
+    {
+        "moduleName": "Game Theory &amp; Mechanics",
+        "moduleCode": "GAME30160",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Photoshop for Game Development",
+        "moduleCode": "GAME30161",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Computer Games in Society",
+        "moduleCode": "GAME30245",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Introductory Modelling &amp; Rendering",
+        "moduleCode": "GAME30268",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Games Engine Creation",
+        "moduleCode": "COSE40638",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D011",
+                "lessonType": "Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Matte Painting 1: Environment Design",
+        "moduleCode": "FILM40125",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "D012",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "F005",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Pre-Production Technology",
+        "moduleCode": "FILM40134",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Production Technology 1",
+        "moduleCode": "FILM40135",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "16:00",
+                "endTime": "18:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "",
+                "lessonType": "1Film Showing",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Post Production Technology",
+        "moduleCode": "FILM40136",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "F005",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "F005",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Business &amp; Production Management for Film &amp; TV 1",
+        "moduleCode": "FILM40216",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "11:30",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Character Concept Design 1",
+        "moduleCode": "FVFX40150",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Photography for VFX",
+        "moduleCode": "FVFX40153",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to CGI",
+        "moduleCode": "FVFX40154",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "D012",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "F005",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Compositing 1",
+        "moduleCode": "FVFX40207",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "13:00",
+                "date": [
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "22 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "D115",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "D012",
+                "lessonType": "1PracA",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Image Production",
+        "moduleCode": "FVFX40225",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Production Skills for VFX",
+        "moduleCode": "FVFX40301",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Animation &amp; Mocap",
+        "moduleCode": "GAME40212",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "G001A",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to 3D Games Engines",
+        "moduleCode": "GAME40213",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "28 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "30 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Games Design",
+        "moduleCode": "GAME40214",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "28 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "Red Lecture Theatre 1",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Narratology for Games",
+        "moduleCode": "GAME40246",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "D116",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Rapid Games Prototyping",
+        "moduleCode": "GAME40250",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Scripting for 3D Applications",
+        "moduleCode": "GAME40260",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "14:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Art Fundamentals for Games",
+        "moduleCode": "GAME40262",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "30 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "G001A",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "30 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Realism in Games &amp; Militainment",
+        "moduleCode": "GAME40361",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "G001A, G001B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to 3D Modelling for Games",
+        "moduleCode": "GAME40400",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "G001B, G001C",
+                "lessonType": "1PracB",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "1PracC",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "MUSI40128",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Music Law",
+        "moduleCode": "MUSI40154",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "E008B",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "MUSI40181",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Audio Visual Technology",
+        "moduleCode": "MUSI40182",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014"
+                ],
+                "day": "Tuesday",
+                "room": "K130",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014"
+                ],
+                "day": "Friday",
+                "room": "K130",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Audio Processing",
+        "moduleCode": "MUSI40188",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:30",
+                "endTime": "12:30",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E008A",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Computer Sound",
+        "moduleCode": "MUSI40272",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E008B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "MUSI4300 ",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Computer Sound - taught with MUSI40272",
+        "moduleCode": "MUSI40344",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Character Concept Design 2",
+        "moduleCode": "FILM50126",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014"
+                ],
+                "day": "Friday",
+                "room": "",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014"
+                ],
+                "day": "Friday",
+                "room": "",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Studio Production Technology",
+        "moduleCode": "FILM50138",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "Television Centre",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Documentary Production Technology",
+        "moduleCode": "FILM50139",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "11:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "Television Centre",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Production Technology",
+        "moduleCode": "FILM50140",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014"
+                ],
+                "day": "Friday",
+                "room": "Television Centre",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014"
+                ],
+                "day": "Friday",
+                "room": "Television Centre",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Scriptwriting for Technologists",
+        "moduleCode": "FILM50204",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "11:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "C317",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "F011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Business &amp; Production Management for Film &amp; TV 2",
+        "moduleCode": "FILM50215",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "16:00",
+                "endTime": "18:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "F011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Film Technology 2",
+        "moduleCode": "FILM50224",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "16:00",
+                "endTime": "18:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "",
+                "lessonType": "1Film Showing",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "F011",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Post Production for Digital Film",
+        "moduleCode": "FILM50300",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "F011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Matte Painting 2",
+        "moduleCode": "FVFX50155",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "3D Modelling for VFX",
+        "moduleCode": "FVFX50156",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D012",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Compositing 2",
+        "moduleCode": "FVFX50157",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "22 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "F005",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Junior VFX Project",
+        "moduleCode": "FVFX50158",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Lighting &amp; Rendering",
+        "moduleCode": "FVFX50159",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "3D Character Modelling for Games",
+        "moduleCode": "GAME50168",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "G001B, G001C",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "G001B, G001C",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "GAME50170",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Game Shaders &amp; Texturing",
+        "moduleCode": "GAME50171",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "28 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "D011",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Gameplay Applications",
+        "moduleCode": "GAME50172",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced 3D Games Engines &amp; Scripting",
+        "moduleCode": "GAME50180",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E006",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "E006",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Social &amp; Mobile Game Development (taught with GAME60252",
+        "moduleCode": "GAME50251",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Rapid Games Prototyping",
+        "moduleCode": "GAME50253",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Character Animation &amp; MOCAP for Games",
+        "moduleCode": "GAME50265",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "30 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Games Audio",
+        "moduleCode": "GAME50270",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "30 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "3D Hard Surface Modelling for Games",
+        "moduleCode": "GAME50356",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "G001B, G001C",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Acoustics in Music Technology",
+        "moduleCode": "MUSI50129",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D116",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "E008B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Studio Technology &amp; Techniques",
+        "moduleCode": "MUSI50131",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E010",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "17:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "22 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "E010",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Event Management Marketing &amp; Promotion",
+        "moduleCode": "MUSI50133",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E008B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Film Sound - taught with MUSI50194",
+        "moduleCode": "MUSI50146",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Digital Performance Applications 1 - taught with MUSI50275",
+        "moduleCode": "MUSI50148",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Studio Technology - taught with MUSI50131",
+        "moduleCode": "MUSI50163",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Principles of Acoustics - taught with MUSI50129",
+        "moduleCode": "MUSI50191",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Sound Design for Film",
+        "moduleCode": "MUSI50194",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "E008A",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Digital Audio Workstation Production Techniques",
+        "moduleCode": "MUSI50195",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "22 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "E008A",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "E008A",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Digital Performance Applications",
+        "moduleCode": "MUSI50275",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "E008A",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Contemporary Composition",
+        "moduleCode": "MUSI50370",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "14:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E008B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Contemporary Composition - taught with MUSI50370",
+        "moduleCode": "MUSI50371",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Preparation for Teacher Training",
+        "moduleCode": "EDUC60230",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "C346",
+                "lessonType": "Sem1",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Games Concept",
+        "moduleCode": "FILM60127",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "F005",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Business Production &amp; Management for Film &amp; TV 3",
+        "moduleCode": "FILM60143",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F011",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F011",
+                "lessonType": "1PracB",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Video Recording &amp; Production",
+        "moduleCode": "FILM60200",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "F011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Group Film Production &amp; Television Project",
+        "moduleCode": "FILM60301",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "11:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "1Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Senior Team VFX Project",
+        "moduleCode": "FVFX60162",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Dynamics &amp; Simulation",
+        "moduleCode": "FVFX60302",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "24 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "D012",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced 3D Modelling",
+        "moduleCode": "GAME60174",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "27 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E006",
+                "lessonType": "1PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "D011",
+                "lessonType": "1PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Games Prototyping &amp; AI Scripting",
+        "moduleCode": "GAME60175",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "MMOG Design Communities &amp; Narratology",
+        "moduleCode": "GAME60177",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": null,
+        "moduleCode": "GAME60247",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Social &amp; Mobile Games Development",
+        "moduleCode": "GAME60252",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Military Games Design Development &amp; Philosophy",
+        "moduleCode": "GAME60282",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "26 Sep 2014",
+                    "03 Oct 2014",
+                    "10 Oct 2014",
+                    "17 Oct 2014",
+                    "31 Oct 2014",
+                    "07 Nov 2014",
+                    "14 Nov 2014",
+                    "21 Nov 2014",
+                    "28 Nov 2014",
+                    "05 Dec 2014",
+                    "12 Dec 2014",
+                    "19 Dec 2014"
+                ],
+                "day": "Friday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Audio Visual Composition",
+        "moduleCode": "MUSI60138",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E008A",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Mixing &amp; Mastering Technology",
+        "moduleCode": "MUSI60139",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Individual Music Technology Project",
+        "moduleCode": "MUSI60152",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Audio for Computer Games",
+        "moduleCode": "MUSI60157",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Sep 2014",
+                    "29 Sep 2014",
+                    "06 Oct 2014",
+                    "13 Oct 2014",
+                    "20 Oct 2014",
+                    "03 Nov 2014",
+                    "10 Nov 2014",
+                    "17 Nov 2014",
+                    "24 Nov 2014",
+                    "01 Dec 2014",
+                    "08 Dec 2014",
+                    "15 Dec 2014"
+                ],
+                "day": "Monday",
+                "room": "E008A",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Mixing &amp; Production Techniques - taught with MUSI60139",
+        "moduleCode": "MUSI60193",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "The Music Entrepreneur",
+        "moduleCode": "MUSI60197",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "22 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "E008B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Film Technology",
+        "moduleCode": "FILM70110",
+        "level": 7,
+        "lessons": []
+    },
+    {
+        "moduleName": "Advanced Games Environment Design &amp; Research",
+        "moduleCode": "GAME70254",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "28 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "30 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "D011",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Character Prototyping",
+        "moduleCode": "GAME70255",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "28 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "24 Sep 2014",
+                    "01 Oct 2014",
+                    "08 Oct 2014",
+                    "15 Oct 2014",
+                    "29 Oct 2014",
+                    "05 Nov 2014",
+                    "12 Nov 2014",
+                    "19 Nov 2014",
+                    "26 Nov 2014",
+                    "03 Dec 2014",
+                    "10 Dec 2014",
+                    "17 Dec 2014"
+                ],
+                "day": "Wednesday",
+                "room": "E006",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Mastering &amp; Signal Processing in Music",
+        "moduleCode": "MUSI70160",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "9:30",
+                "endTime": "12:30",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E002",
+                "lessonType": "1Prac",
+                "group": ""
+            },
+            {
+                "startTime": "9:30",
+                "endTime": "11:00",
+                "date": [
+                    "04 Nov 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E008B",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Applied Acoustics",
+        "moduleCode": "MUSI70173",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "C330",
+                "lessonType": "1Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Recording Techniques",
+        "moduleCode": "MUSI70174",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "17:00",
+                "endTime": "20:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "E010",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Negotiated Study in Music Technology",
+        "moduleCode": "MUSI70334",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Sep 2014",
+                    "30 Sep 2014",
+                    "07 Oct 2014",
+                    "14 Oct 2014",
+                    "21 Oct 2014",
+                    "04 Nov 2014",
+                    "11 Nov 2014",
+                    "18 Nov 2014",
+                    "25 Nov 2014",
+                    "02 Dec 2014",
+                    "09 Dec 2014",
+                    "16 Dec 2014"
+                ],
+                "day": "Tuesday",
+                "room": "C328",
+                "lessonType": "1Tut",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Modern Composition in Context",
+        "moduleCode": "MUSI70357",
+        "level": 7,
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "25 Sep 2014",
+                    "02 Oct 2014",
+                    "09 Oct 2014",
+                    "16 Oct 2014",
+                    "23 Oct 2014",
+                    "06 Nov 2014",
+                    "13 Nov 2014",
+                    "20 Nov 2014",
+                    "27 Nov 2014",
+                    "04 Dec 2014",
+                    "11 Dec 2014",
+                    "18 Dec 2014"
+                ],
+                "day": "Thursday",
+                "room": "E002",
+                "lessonType": "1Prac",
+                "group": ""
+            }
+        ]
+    }
+]
