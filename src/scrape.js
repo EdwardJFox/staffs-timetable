@@ -16,16 +16,20 @@ async.series([
 	function(callback){
 		level = 2;
 		var url = "http://www.fcet.staffs.ac.uk/timetable/modsem1.htm";
+		var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,3}/;
 		request(url, function(error, response, html){
 			if(!error){
 				var $ = cheerio.load(html);
-				$('.enttable a').each(function (i, row) {
-					console.log($(row).attr('href'));
-					
-					/*moduleCode = $(result).html().substring(0, 9);;
-					tempModule = new ModuleObj(moduleCode, level);
-					data.push(tempModule);*/
-				})
+				$('.enttable a').each(function (i, row){
+					var moduleCode = modRegex.exec($(row).attr('href'));
+					try {
+						tempModule = new ModuleObj(moduleCode[0], moduleCode[0].charAt(4));
+						data.push(tempModule);
+					}
+					catch(err){
+						console.log("Problem with getting module code for " + $(row).attr('href'));
+					}
+				});
 				callback();
 			}
 			else {
@@ -33,7 +37,7 @@ async.series([
 			}
 		});
 	},
-	//Get FACT Module codes and levels
+	/*//Get FACT Module codes and levels
 	function(callback){
 		var url = "http://www.staffs.ac.uk/schools/art_and_design/Timetables/Stafford%20Module%20Sem%201.html";
 		request(url, function(error, response, html){
@@ -52,13 +56,14 @@ async.series([
 				console.log(error);
 			}
 		});
-	},
+	},*/
 	/*Scrape timetables*/
 	function(callback){
 		var weeksStart = moment("04/08/2014", "DD-MM-YYYY");
 		var now = moment();
 		var thisWeek = now.week();
 		var week = now.week() - weeksStart.week()+1;
+		week = 29;
 		scrapeTimes(0, week);
 		function scrapeTimes(i){
 			if(i < data.length){
