@@ -16,6 +16,9 @@ ModuleObj.prototype.setModuleName = function(name){
 ModuleObj.prototype.getModuleName = function(){
 	return this.moduleName;
 };
+ModuleObj.prototype.getModuleCode = function(){
+	return this.moduleCode;
+};
 
 // export the class
 module.exports = ModuleObj;

@@ -28,3 +28,6 @@ node_modules
 
 #Webstorm dir
 .idea
+
+#Heroku
+Procfile
