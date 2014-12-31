@@ -19,10 +19,10 @@ var FCETdata = JSON.parse(fs.readFileSync('./FCEToutput.json', 'utf8'));
 
 app.get('/timetable'), function(req, res){
 
-}
+};
 app.get(/\/timetable\/(?:([\w|\/|\?|\=]+))\//, function(req, res){
 	timetable.response(req, res, moment, FCETdata);
-})
+});
 
 app.listen(process.env.PORT || 5000);
 console.log('Server opened on page ' + process.env.PORT);

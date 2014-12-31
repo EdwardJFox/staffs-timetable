@@ -11107,5 +11107,3416 @@
         "moduleCode": "MECH70725",
         "level": "7",
         "lessons": []
+    },
+    {
+        "moduleName": "Game Theory &amp; Mechanics",
+        "moduleCode": "GAME30160",
+        "level": "3",
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E006",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Photoshop for Game Development",
+        "moduleCode": "GAME30161",
+        "level": "3",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Computer Games in Society",
+        "moduleCode": "GAME30245",
+        "level": "3",
+        "lessons": []
+    },
+    {
+        "moduleName": "Introductory Modelling &amp; Rendering",
+        "moduleCode": "GAME30268",
+        "level": "3",
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E006",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Games Engine Creation",
+        "moduleCode": "COSE40638",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D011",
+                "lessonType": "Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Matte Painting 1: Environment Design",
+        "moduleCode": "FILM40125",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "D012",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "F005",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Pre-Production Technology",
+        "moduleCode": "FILM40134",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Production Technology 1",
+        "moduleCode": "FILM40135",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "F005",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Post Production Technology",
+        "moduleCode": "FILM40136",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "F005",
+                "lessonType": "2Prac",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "F005",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Business &amp; Production Management for Film &amp; TV 1",
+        "moduleCode": "FILM40216",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "Television Centre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "11:30",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:30",
+                "endTime": "13:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Character Concept Design 1",
+        "moduleCode": "FVFX40150",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Photography for VFX",
+        "moduleCode": "FVFX40153",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to CGI",
+        "moduleCode": "FVFX40154",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "D012",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "F005",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Compositing 1",
+        "moduleCode": "FVFX40207",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "F011",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "13:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "D115",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "D012",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Image Production",
+        "moduleCode": "FVFX40225",
+        "level": "4",
+        "lessons": []
+    },
+    {
+        "moduleName": "Production Skills for VFX",
+        "moduleCode": "FVFX40301",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Animation &amp; Mocap",
+        "moduleCode": "GAME40212",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "G001A",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to 3D Games Engines",
+        "moduleCode": "GAME40213",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Games Design",
+        "moduleCode": "GAME40214",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "Red Lecture Theatre 1",
+                "lessonType": "2Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Narratology for Games",
+        "moduleCode": "GAME40246",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "D116",
+                "lessonType": "2Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Rapid Games Prototyping",
+        "moduleCode": "GAME40250",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Scripting for 3D Applications",
+        "moduleCode": "GAME40260",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "12:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E006",
+                "lessonType": "2Prac",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E006",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Art Fundamentals for Games",
+        "moduleCode": "GAME40262",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "G001A",
+                "lessonType": "2Prac",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to Realism in Games &amp; Militainment",
+        "moduleCode": "GAME40361",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "G001A, G001B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Introduction to 3D Modelling for Games",
+        "moduleCode": "GAME40400",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "G001B, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "2PracC",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Instrument Technology",
+        "moduleCode": "MUSI40128/MUSI40181",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "20 Feb 2015",
+                    "06 Mar 2015",
+                    "20 Mar 2015"
+                ],
+                "day": "Friday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "C346",
+                "lessonType": "2Tut",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "C346",
+                "lessonType": "2Tut",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Music Law",
+        "moduleCode": "MUSI40154",
+        "level": "4",
+        "lessons": []
+    },
+    {
+        "moduleName": "Instrument Technology",
+        "moduleCode": "MUSI40128/MUSI40181",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "10:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "20 Feb 2015",
+                    "06 Mar 2015",
+                    "20 Mar 2015"
+                ],
+                "day": "Friday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "C346",
+                "lessonType": "2Tut",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "C346",
+                "lessonType": "2Tut",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Audio Visual Technology",
+        "moduleCode": "MUSI40182",
+        "level": "4",
+        "lessons": []
+    },
+    {
+        "moduleName": "Audio Processing",
+        "moduleCode": "MUSI40188",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "9:30",
+                "endTime": "12:30",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E008A",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Computer Sound",
+        "moduleCode": "MUSI40272",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "13:30",
+                "endTime": "16:30",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Music Media &amp; the Web",
+        "moduleCode": "MUSI40300",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E008B",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Computer Sound",
+        "moduleCode": "MUSI40272",
+        "level": "4",
+        "lessons": [
+            {
+                "startTime": "13:30",
+                "endTime": "16:30",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Character Concept Design 2",
+        "moduleCode": "FILM50126",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015"
+                ],
+                "day": "Friday",
+                "room": "",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015"
+                ],
+                "day": "Friday",
+                "room": "",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Studio Production Technology",
+        "moduleCode": "FILM50138",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "Television Centre",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Documentary Production Technology",
+        "moduleCode": "FILM50139",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "11:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "Television Centre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "Television Centre",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Production Technology",
+        "moduleCode": "FILM50140",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015"
+                ],
+                "day": "Friday",
+                "room": "Television Centre",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015"
+                ],
+                "day": "Friday",
+                "room": "Television Centre",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Scriptwriting for Technologists",
+        "moduleCode": "FILM50204",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "11:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "C328",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "F011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Business &amp; Production Management for Film &amp; TV 2",
+        "moduleCode": "FILM50215",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "16:00",
+                "endTime": "18:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "F011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Film Technology 2",
+        "moduleCode": "FILM50224",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "15:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "2PracB",
+                "group": ""
+            },
+            {
+                "startTime": "17:00",
+                "endTime": "18:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "F011",
+                "lessonType": "2PracC",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Post Production for Digital Film",
+        "moduleCode": "FILM50300",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "F011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Matte Painting 2",
+        "moduleCode": "FVFX50155",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "3D Modelling for VFX",
+        "moduleCode": "FVFX50156",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D012",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "D012",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Compositing 2",
+        "moduleCode": "FVFX50157",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Junior VFX Project",
+        "moduleCode": "FVFX50158",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Lighting &amp; Rendering",
+        "moduleCode": "FVFX50159",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "18:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "3D Character Modelling for Games",
+        "moduleCode": "GAME50168",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "G001B, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "G001B, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Junior/Senior Collaborative Game Development &amp; Testing",
+        "moduleCode": "GAME50170/GAME60247",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "G001A, G001B, D011, E006, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "G001A, G001B, D011, E006, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "G001A, G001B, D011, F005, E006, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "G001A, G001B, D011, F005, E006, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Game Shaders &amp; Texturing",
+        "moduleCode": "GAME50171",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "14:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "G001A, G001B, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "D011",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Gameplay Applications",
+        "moduleCode": "GAME50172",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced 3D Games Engines &amp; Scripting",
+        "moduleCode": "GAME50180",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E006",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E006",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Social &amp; Mobile Game Development (taught with GAME60252)",
+        "moduleCode": "GAME50251",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Rapid Games Prototyping",
+        "moduleCode": "GAME50253",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Character Animation &amp; MOCAP for Games",
+        "moduleCode": "GAME50265",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "E006",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Games Audio",
+        "moduleCode": "GAME50270",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "3D Hard Surface Modelling for Games",
+        "moduleCode": "GAME50356",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "G001B, G001C",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Acoustics in Music Technology",
+        "moduleCode": "MUSI50129",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D116",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Studio Technology &amp; Techniques",
+        "moduleCode": "MUSI50131",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E010",
+                "lessonType": "2Prac",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "17:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E010",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Event Management Marketing &amp; Promotion",
+        "moduleCode": "MUSI50133",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "12:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Sound Design for Film",
+        "moduleCode": "MUSI50194",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "E008A",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Performance Applications",
+        "moduleCode": "MUSI50275",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E008A",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Studio Technology &amp; Techniques",
+        "moduleCode": "MUSI50131",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E010",
+                "lessonType": "2Prac",
+                "group": ""
+            },
+            {
+                "startTime": "9:00",
+                "endTime": "17:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E010",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Acoustics in Music Technology",
+        "moduleCode": "MUSI50129",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D116",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Sound Design for Film",
+        "moduleCode": "MUSI50194",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "E008A",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Audio Workstation Production Techniques",
+        "moduleCode": "MUSI50195",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E008A",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "10:00",
+                "endTime": "13:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E008A",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Digital Performance Applications",
+        "moduleCode": "MUSI50275",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "16:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E008A",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Contemporary Composition",
+        "moduleCode": "MUSI50370",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "14:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Contemporary Composition",
+        "moduleCode": "MUSI50370",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "14:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Preparation for Teacher Training",
+        "moduleCode": "EDUC60230",
+        "level": "6",
+        "lessons": []
+    },
+    {
+        "moduleName": "Advanced Games Concept",
+        "moduleCode": "FILM60127",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "17:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "F005",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Business Production &amp; Management for Film &amp; TV 3",
+        "moduleCode": "FILM60143",
+        "level": "6",
+        "lessons": []
+    },
+    {
+        "moduleName": "Video Recording &amp; Production",
+        "moduleCode": "FILM60200",
+        "level": "6",
+        "lessons": []
+    },
+    {
+        "moduleName": "Group Film Production &amp; Television Project",
+        "moduleCode": "FILM60301",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "10:00",
+                "endTime": "11:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "2Lec",
+                "group": ""
+            },
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "Television Centre",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Senior Team VFX Project",
+        "moduleCode": "FVFX60162",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "12:00",
+                "endTime": "15:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "D012",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Dynamics &amp; Simulation",
+        "moduleCode": "FVFX60302",
+        "level": "6",
+        "lessons": []
+    },
+    {
+        "moduleName": "Advanced 3D Modelling",
+        "moduleCode": "GAME60174",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "19 Jan 2015",
+                    "26 Jan 2015",
+                    "02 Feb 2015",
+                    "09 Feb 2015",
+                    "16 Feb 2015",
+                    "23 Feb 2015",
+                    "02 Mar 2015",
+                    "09 Mar 2015",
+                    "16 Mar 2015",
+                    "06 Apr 2015",
+                    "13 Apr 2015",
+                    "20 Apr 2015"
+                ],
+                "day": "Monday",
+                "room": "E006",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "15:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "D011",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Games Prototyping &amp; AI Scripting",
+        "moduleCode": "GAME60175",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "MMOG Design Communities &amp; Narratology",
+        "moduleCode": "GAME60177",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "17:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "E006",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Junior/Senior Collaborative Game Development &amp; Testing",
+        "moduleCode": "GAME50170/GAME60247",
+        "level": "5",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "17:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "G001A, G001B, D011, E006, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "G001A, G001B, D011, E006, G001C",
+                "lessonType": "2PracA",
+                "group": ""
+            },
+            {
+                "startTime": "13:00",
+                "endTime": "17:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "G001A, G001B, D011, F005, E006, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            },
+            {
+                "startTime": "18:00",
+                "endTime": "21:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "G001A, G001B, D011, F005, E006, G001C",
+                "lessonType": "2PracB",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Social &amp; Mobile Games Development",
+        "moduleCode": "GAME60252",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "11:00",
+                "endTime": "13:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Military Games Design Development &amp; Philosophy",
+        "moduleCode": "GAME60282",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "11:00",
+                "date": [
+                    "23 Jan 2015",
+                    "30 Jan 2015",
+                    "06 Feb 2015",
+                    "13 Feb 2015",
+                    "20 Feb 2015",
+                    "27 Feb 2015",
+                    "06 Mar 2015",
+                    "13 Mar 2015",
+                    "20 Mar 2015",
+                    "10 Apr 2015",
+                    "17 Apr 2015",
+                    "24 Apr 2015"
+                ],
+                "day": "Friday",
+                "room": "D011",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Audio Visual Composition",
+        "moduleCode": "MUSI60138",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "14:00",
+                "endTime": "16:00",
+                "date": [
+                    "20 Jan 2015",
+                    "27 Jan 2015",
+                    "03 Feb 2015",
+                    "10 Feb 2015",
+                    "17 Feb 2015",
+                    "24 Feb 2015",
+                    "03 Mar 2015",
+                    "10 Mar 2015",
+                    "17 Mar 2015",
+                    "07 Apr 2015",
+                    "14 Apr 2015",
+                    "21 Apr 2015"
+                ],
+                "day": "Tuesday",
+                "room": "E008A",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Mixing &amp; Mastering Technology",
+        "moduleCode": "MUSI60139",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Individual Music Technology Project",
+        "moduleCode": "MUSI60152",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "15:00",
+                "endTime": "16:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015"
+                ],
+                "day": "Thursday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Audio for Computer Games",
+        "moduleCode": "MUSI60157",
+        "level": "6",
+        "lessons": []
+    },
+    {
+        "moduleName": "Mixing &amp; Mastering Technology",
+        "moduleCode": "MUSI60139",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "13:00",
+                "endTime": "14:00",
+                "date": [
+                    "22 Jan 2015",
+                    "29 Jan 2015",
+                    "05 Feb 2015",
+                    "12 Feb 2015",
+                    "19 Feb 2015",
+                    "26 Feb 2015",
+                    "05 Mar 2015",
+                    "12 Mar 2015",
+                    "19 Mar 2015",
+                    "09 Apr 2015",
+                    "16 Apr 2015",
+                    "23 Apr 2015"
+                ],
+                "day": "Thursday",
+                "room": "The Ruxton Tech Ctr Lecture Theatre",
+                "lessonType": "2Lec",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "The Music Entrepreneur",
+        "moduleCode": "MUSI60197",
+        "level": "6",
+        "lessons": [
+            {
+                "startTime": "9:00",
+                "endTime": "12:00",
+                "date": [
+                    "21 Jan 2015",
+                    "28 Jan 2015",
+                    "04 Feb 2015",
+                    "11 Feb 2015",
+                    "18 Feb 2015",
+                    "25 Feb 2015",
+                    "04 Mar 2015",
+                    "11 Mar 2015",
+                    "18 Mar 2015",
+                    "08 Apr 2015",
+                    "15 Apr 2015",
+                    "22 Apr 2015"
+                ],
+                "day": "Wednesday",
+                "room": "E008B",
+                "lessonType": "2Prac",
+                "group": ""
+            }
+        ]
+    },
+    {
+        "moduleName": "Advanced Film Technology",
+        "moduleCode": "FILM70110",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Advanced Games Environment Design &amp; Research",
+        "moduleCode": "GAME70254",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Advanced Character Prototyping",
+        "moduleCode": "GAME70255",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Mastering &amp; Signal Processing in Music",
+        "moduleCode": "MUSI70160",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Applied Acoustics",
+        "moduleCode": "MUSI70173",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Advanced Recording Techniques",
+        "moduleCode": "MUSI70174",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Negotiated Study in Music Technology",
+        "moduleCode": "MUSI70334",
+        "level": "7",
+        "lessons": []
+    },
+    {
+        "moduleName": "Modern Composition in Context",
+        "moduleCode": "MUSI70357",
+        "level": "7",
+        "lessons": []
     }
 ]

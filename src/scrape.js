@@ -10,13 +10,12 @@ var ModuleObj = require('./moduleobj');
 var Lesson = require('./lesson');
 var app = express();
 var data = [];
+var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,3}/;
 
 async.series([
-	//Get FCET Module codes and levels 
+	//Get FCET Module codes and levels
 	function(callback){
-		level = 2;
 		var url = "http://www.fcet.staffs.ac.uk/timetable/modsem1.htm";
-		var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,3}/;
 		request(url, function(error, response, html){
 			if(!error){
 				var $ = cheerio.load(html);
@@ -37,26 +36,30 @@ async.series([
 			}
 		});
 	},
-	/*//Get FACT Module codes and levels
+	//Get FACT Module codes and levels
 	function(callback){
 		var url = "http://www.staffs.ac.uk/schools/art_and_design/Timetables/Stafford%20Module%20Sem%201.html";
 		request(url, function(error, response, html){
 			if(!error){
 				var $ = cheerio.load(html);
 				$('.enttable a').each(function (i, row) {
-					moduleCode = $(row).text().substring(0, 9);
-					if(moduleCode != "" || moduleCode != null){
-						tempModule = new ModuleObj(moduleCode, level);
-						data.push(tempModule);
+					if(!$(row).is(':empty')){
+						//moduleCode = $(row).text().substring(0, 9);
+						var moduleCode = modRegex.exec($(row).attr('href'))[0];
+						console.log(moduleCode);
+						if (moduleCode != "" || moduleCode != null) {
+							tempModule = new ModuleObj(moduleCode, moduleCode.charAt(4));
+							data.push(tempModule);
+						}
 					}
-				})
+				});
 				callback();
 			}
 			else {
 				console.log(error);
 			}
 		});
-	},*/
+	},
 	/*Scrape timetables*/
 	function(callback){
 		var weeksStart = moment("04/08/2014", "DD-MM-YYYY");
