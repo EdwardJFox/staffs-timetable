@@ -11,7 +11,7 @@ moment().format();
 var ModuleObj = require('./moduleobj');
 var Lesson = require('./lesson');
 var app = express();
-var FCETdata = JSON.parse(fs.readFileSync('./FCEToutput.json', 'utf8'));
+var FCETdata = JSON.parse(fs.readFileSync('./output.json', 'utf8'));
 
 //app.set('views', __dirname + '/views')
 //app.set('view engine', 'jade')

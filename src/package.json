@@ -1,15 +1,35 @@
 {
-  "name"         : "node-web-scrape",
-  "version"      : "0.0.1",
-  "description"  : "Scrape the web.",
-  "main"         : "server.js",
-  "author"       : "Scotch",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest",
-    "async"      : "latest",
-    "moment"     : "latest",
-    "jade"       : "latest"
-  }
+  "name": "node-staffs-scrape",
+  "version": "0.0.1",
+  "description": "Scrape from Staffs Uni",
+  "main": "server.js",
+  "author": "EdwardJFox",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest",
+    "async": "latest",
+    "moment": "latest",
+    "jade": "latest"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwardJFox/staffs-timetable"
+  },
+  "keywords": [
+    "scrape",
+    "staffordshire"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdwardJFox/staffs-timetable/issues"
+  },
+  "homepage": "https://github.com/EdwardJFox/staffs-timetable"
 }
