@@ -3,7 +3,13 @@ function ModuleObj(moduleCode) {
 	// always initialize all instance properties
 	this.moduleName = "";
 	this.moduleCode = moduleCode;
-	this.level = moduleCode.charAt(4);
+	var tempChar = moduleCode.charAt(4);
+	if(!isNaN(parseInt(tempChar))){
+		this.level = parseInt(tempChar);
+	}
+	else {
+		this.level = 0;
+	}
 	this.lessons = [];
 }
 // class methods

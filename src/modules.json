@@ -1,0 +1,6567 @@
+[
+    {
+        "name": "Old Medium, New Media",
+        "code": "AABM40076",
+        "level": 4
+    },
+    {
+        "name": "Employability &amp; Study Skills",
+        "code": "ACCT40155",
+        "level": 4
+    },
+    {
+        "name": "Financial Services Environment",
+        "code": "ACCT40210",
+        "level": 4
+    },
+    {
+        "name": "Fundamentals of Management Accounting",
+        "code": "ACCT40211",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Financial Accounting",
+        "code": "ACCT40212",
+        "level": 4
+    },
+    {
+        "name": "Small Business  &amp; Enterprise",
+        "code": "ACCT50060",
+        "level": 5
+    },
+    {
+        "name": "Financial Services",
+        "code": "ACCT50145",
+        "level": 5
+    },
+    {
+        "name": "Small Business  &amp; Enterprise",
+        "code": "ACCT50147",
+        "level": 5
+    },
+    {
+        "name": "Advanced Management Accounting",
+        "code": "ACCT50213",
+        "level": 5
+    },
+    {
+        "name": "Financial Reporting",
+        "code": "ACCT50215",
+        "level": 5
+    },
+    {
+        "name": "Personal &amp; Business Taxation",
+        "code": "ACCT50216",
+        "level": 5
+    },
+    {
+        "name": "Professional Development(Enterprise Entrepreneurialism&amp;Employability)",
+        "code": "ACCT50218",
+        "level": 5
+    },
+    {
+        "name": "Fraud Risk Management &amp; Legal Framework",
+        "code": "ACCT50227",
+        "level": 5
+    },
+    {
+        "name": "Computerised Accounting",
+        "code": "ACCT50270",
+        "level": 5
+    },
+    {
+        "name": "International Corporate Finance (with BLB00102-5)",
+        "code": "ACCT60055",
+        "level": 6
+    },
+    {
+        "name": "Fraud Risk Management &amp; Legal Framework",
+        "code": "ACCT60172",
+        "level": 6
+    },
+    {
+        "name": "Strategic Management Accounting",
+        "code": "ACCT60186",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Issues in Accounting",
+        "code": "ACCT60221",
+        "level": 6
+    },
+    {
+        "name": "Financial Strategy",
+        "code": "ACCT60222",
+        "level": 6
+    },
+    {
+        "name": "Audit &amp; Corporate Governance",
+        "code": "ACCT60225",
+        "level": 6
+    },
+    {
+        "name": "Financial Research",
+        "code": "ACCT60232",
+        "level": 6
+    },
+    {
+        "name": "Computerised Accounting with Sage Accounting Software",
+        "code": "ACCT60283",
+        "level": 6
+    },
+    {
+        "name": "Brand Values and Agency Practice",
+        "code": "ACTAD50418-4",
+        "level": 0
+    },
+    {
+        "name": "Brand Experience",
+        "code": "ACTAD50420-5",
+        "level": 0
+    },
+    {
+        "name": "Creative Practice in Context",
+        "code": "ACTAD50482-6",
+        "level": 0
+    },
+    {
+        "name": "The Chaos Engine",
+        "code": "ACTFSV25913-6",
+        "level": 0
+    },
+    {
+        "name": "Crime Scene America",
+        "code": "ACTJHS20005-5",
+        "level": 0
+    },
+    {
+        "name": "Make it New: American Writing, 1900-1950",
+        "code": "ACTJHS20009-5",
+        "level": 0
+    },
+    {
+        "name": "Professional Practice Placement",
+        "code": "ACTJHS25760-5",
+        "level": 0
+    },
+    {
+        "name": "Political Thought in C20th",
+        "code": "ACTJHS25899-5",
+        "level": 0
+    },
+    {
+        "name": "Pits, Pots and Poets",
+        "code": "ACTJHS25909-5",
+        "level": 0
+    },
+    {
+        "name": "The French Revolution and Napoleon",
+        "code": "ACTJHS25914-5",
+        "level": 0
+    },
+    {
+        "name": "Textual Art / Visual Poetry",
+        "code": "ACTJHS25916-5",
+        "level": 0
+    },
+    {
+        "name": "Extra Shorthand",
+        "code": "ACTJHS575513-5",
+        "level": 0
+    },
+    {
+        "name": "Team Project",
+        "code": "ADFD30046",
+        "level": 3
+    },
+    {
+        "name": "Imaging / Production Skills for Design",
+        "code": "ADFD30048",
+        "level": 3
+    },
+    {
+        "name": "Welfare Benefits &amp; Money Advice",
+        "code": "ADVC40151",
+        "level": 4
+    },
+    {
+        "name": "Consumer Protection",
+        "code": "ADVC40153",
+        "level": 4
+    },
+    {
+        "name": "Context of Advice Services",
+        "code": "ADVC40155",
+        "level": 4
+    },
+    {
+        "name": "Housing Rights",
+        "code": "ADVC40157",
+        "level": 4
+    },
+    {
+        "name": "Legal Theory &amp; Practice",
+        "code": "ADVC40159",
+        "level": 4
+    },
+    {
+        "name": "Money Advice 2",
+        "code": "ADVC50161",
+        "level": 5
+    },
+    {
+        "name": "Communication Skills",
+        "code": "ADVC50162",
+        "level": 5
+    },
+    {
+        "name": "Family Advice",
+        "code": "ADVC50164/ADVC60186",
+        "level": 5
+    },
+    {
+        "name": "Housing Rights 2",
+        "code": "ADVC50166",
+        "level": 5
+    },
+    {
+        "name": "Immigration and Asylum",
+        "code": "ADVC50168/ADVC60177",
+        "level": 5
+    },
+    {
+        "name": "Reflection on Experience",
+        "code": "ADVC50189",
+        "level": 5
+    },
+    {
+        "name": "Social Welfare &amp; Community Care",
+        "code": "ADVC51071",
+        "level": 5
+    },
+    {
+        "name": "Research &amp; Dissertation",
+        "code": "ADVC60113",
+        "level": 6
+    },
+    {
+        "name": "Equality &amp; Diversity",
+        "code": "ADVC60173",
+        "level": 6
+    },
+    {
+        "name": "Animation Fundamentals",
+        "code": "ANIM40098",
+        "level": 4
+    },
+    {
+        "name": "Stop Motion Production Pipeline",
+        "code": "ANIM40109",
+        "level": 4
+    },
+    {
+        "name": "Sculpture for Animation",
+        "code": "ANIM40110",
+        "level": 4
+    },
+    {
+        "name": "Drawing for Illustration",
+        "code": "ANIM40114",
+        "level": 4
+    },
+    {
+        "name": "Applied Timing and Movement",
+        "code": "ANIM40117",
+        "level": 4
+    },
+    {
+        "name": "The Fundamentals of Cartoons and Comics",
+        "code": "ANIM40134",
+        "level": 4
+    },
+    {
+        "name": "Audio, Sound &amp; Score for Animation",
+        "code": "ANIM50099",
+        "level": 5
+    },
+    {
+        "name": "Visual Storytelling",
+        "code": "ANIM50101",
+        "level": 5
+    },
+    {
+        "name": "Film, Shorts and Strings",
+        "code": "ANIM50105",
+        "level": 5
+    },
+    {
+        "name": "Character Animation &amp; Implementation",
+        "code": "ANIM50106",
+        "level": 5
+    },
+    {
+        "name": "Puppet Performance",
+        "code": "ANIM50107",
+        "level": 5
+    },
+    {
+        "name": "Digital Compositing: Intermediate Level",
+        "code": "ANIM50125",
+        "level": 5
+    },
+    {
+        "name": "Comic Narrative &amp; Art",
+        "code": "ANIM50129",
+        "level": 5
+    },
+    {
+        "name": "Individual Short Animation",
+        "code": "ANIM60118",
+        "level": 6
+    },
+    {
+        "name": "Animation Futures Destinations",
+        "code": "ANIM60120",
+        "level": 6
+    },
+    {
+        "name": "Final Major Signature Project",
+        "code": "ANIM60131",
+        "level": 6
+    },
+    {
+        "name": "Negotiated Programme of Study for Cartoon and Comic Arts (Part 1)",
+        "code": "ANIM60132",
+        "level": 6
+    },
+    {
+        "name": "Applied Accounting  Software",
+        "code": "BELBUS10353-6",
+        "level": 0
+    },
+    {
+        "name": "Business Economics",
+        "code": "BELBUS10518-4",
+        "level": 0
+    },
+    {
+        "name": "Advanced Corporate Finance",
+        "code": "BELBUS20330-7",
+        "level": 0
+    },
+    {
+        "name": "Business Analysis",
+        "code": "BELBUS20334-7",
+        "level": 0
+    },
+    {
+        "name": "Business Valuation &amp; Risk Management",
+        "code": "BELBUS20335-7",
+        "level": 0
+    },
+    {
+        "name": "Dissertation In Acc &amp; Finance",
+        "code": "BELBUS20336-7",
+        "level": 0
+    },
+    {
+        "name": "Financial Reporting &amp; Analysis",
+        "code": "BELBUS20337-7",
+        "level": 0
+    },
+    {
+        "name": "Management Control &amp; Audit",
+        "code": "BELBUS20338-7",
+        "level": 0
+    },
+    {
+        "name": "International Corporate Reporting",
+        "code": "BELBUS20339-7",
+        "level": 0
+    },
+    {
+        "name": "Governance Risk &amp; Ethics",
+        "code": "BELBUS20340-7",
+        "level": 0
+    },
+    {
+        "name": "Investment Game",
+        "code": "BELBUS20341-7",
+        "level": 0
+    },
+    {
+        "name": "Personal,Proffesional andAcademic Development",
+        "code": "BELEDU10480-4",
+        "level": 0
+    },
+    {
+        "name": "Introduction to Young Childrens Development",
+        "code": "BELEDU10485-4",
+        "level": 0
+    },
+    {
+        "name": "Community &amp; Informal Education",
+        "code": "BELEDU10486-4",
+        "level": 0
+    },
+    {
+        "name": "Behaviour for Learning in the inclusive Organisation.",
+        "code": "BELEDU10487-4",
+        "level": 0
+    },
+    {
+        "name": "Molecules to Cells",
+        "code": "BIOL40427",
+        "level": 4
+    },
+    {
+        "name": "Professional Practice for Biomedical Scientists",
+        "code": "BIOL40428",
+        "level": 4
+    },
+    {
+        "name": "Biology of Organisms",
+        "code": "BIOL40431",
+        "level": 4
+    },
+    {
+        "name": "Biological Processes",
+        "code": "BIOL40433",
+        "level": 4
+    },
+    {
+        "name": "Ecology",
+        "code": "BIOL40434",
+        "level": 4
+    },
+    {
+        "name": "Biological Principles of Forensic Science",
+        "code": "BIOL40450",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Scientific Practice",
+        "code": "BIOL40586",
+        "level": 4
+    },
+    {
+        "name": "Human Biochem and Physiology",
+        "code": "BIOL50435",
+        "level": 5
+    },
+    {
+        "name": "Genetics and Cell Biology",
+        "code": "BIOL50436",
+        "level": 5
+    },
+    {
+        "name": "Adaptation and Survival",
+        "code": "BIOL50437",
+        "level": 5
+    },
+    {
+        "name": "Ecology and Field Biology",
+        "code": "BIOL50438",
+        "level": 5
+    },
+    {
+        "name": "Public Health",
+        "code": "BIOL50440",
+        "level": 5
+    },
+    {
+        "name": "Behaviour",
+        "code": "BIOL50441",
+        "level": 5
+    },
+    {
+        "name": "Microbiology",
+        "code": "BIOL50443",
+        "level": 5
+    },
+    {
+        "name": "Infection Science",
+        "code": "BIOL50444",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice and Placement",
+        "code": "BIOL50445",
+        "level": 5
+    },
+    {
+        "name": "Invertebrate Conservation Management",
+        "code": "BIOL60439",
+        "level": 6
+    },
+    {
+        "name": "Forensic Toxicology",
+        "code": "BIOL60463",
+        "level": 6
+    },
+    {
+        "name": "Advanced DNA Profiling",
+        "code": "BIOL60496",
+        "level": 6
+    },
+    {
+        "name": "Medical Genetics",
+        "code": "BIOL60613",
+        "level": 6
+    },
+    {
+        "name": "Critical Immunology",
+        "code": "BIOL60614",
+        "level": 6
+    },
+    {
+        "name": "Human Infectious Disease",
+        "code": "BIOL60615",
+        "level": 6
+    },
+    {
+        "name": "Haematology and Transfusion Science",
+        "code": "BIOL60617",
+        "level": 6
+    },
+    {
+        "name": "Cellular Pathology",
+        "code": "BIOL60618",
+        "level": 6
+    },
+    {
+        "name": "Critical Biochemistry",
+        "code": "BIOL60619",
+        "level": 6
+    },
+    {
+        "name": "Toxicology",
+        "code": "BIOL60620",
+        "level": 6
+    },
+    {
+        "name": "Neurobiology",
+        "code": "BIOL60621",
+        "level": 6
+    },
+    {
+        "name": "Neuropharmacology",
+        "code": "BIOL60622",
+        "level": 6
+    },
+    {
+        "name": "Vertebrate Conservation",
+        "code": "BIOL60623",
+        "level": 6
+    },
+    {
+        "name": "Mircobial Ecology",
+        "code": "BIOL60624",
+        "level": 6
+    },
+    {
+        "name": "Applied Entomology",
+        "code": "BIOL60625",
+        "level": 6
+    },
+    {
+        "name": "Conservation Biology and Habitat Management",
+        "code": "BIOL60626",
+        "level": 6
+    },
+    {
+        "name": "Research Project",
+        "code": "BIOL60627",
+        "level": 6
+    },
+    {
+        "name": "Current Advances in the Biosciences",
+        "code": "BIOL60632",
+        "level": 6
+    },
+    {
+        "name": "Freshwater Habitat Management",
+        "code": "BIOL70458",
+        "level": 7
+    },
+    {
+        "name": "Greening the Grey",
+        "code": "BIOL70461",
+        "level": 7
+    },
+    {
+        "name": "Research Project (Project Planning)",
+        "code": "BIOL70462",
+        "level": 7
+    },
+    {
+        "name": "Managing Terrestrial Habitats",
+        "code": "BIOL70492",
+        "level": 7
+    },
+    {
+        "name": "Professional Practice",
+        "code": "BIOL70505",
+        "level": 7
+    },
+    {
+        "name": "GIS for Ecology and Conservation",
+        "code": "BIOL70524",
+        "level": 7
+    },
+    {
+        "name": "Ecological Survey &amp; ID Skills",
+        "code": "BIOL70525",
+        "level": 7
+    },
+    {
+        "name": "Invertebrate Taxonomy",
+        "code": "BIOL70605",
+        "level": 7
+    },
+    {
+        "name": "Computer Systems (Taught with COCS40681)",
+        "code": "COCS40582",
+        "level": 4
+    },
+    {
+        "name": "Computer Systems Fundamentals",
+        "code": "COCS40630",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Virtualisation",
+        "code": "COCS40678",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Digital Investigation",
+        "code": "COCS40680",
+        "level": 4
+    },
+    {
+        "name": "Hardware and Computer Systems",
+        "code": "COCS40681",
+        "level": 4
+    },
+    {
+        "name": "Fundamentals of Computer Networks",
+        "code": "COCS40683",
+        "level": 4
+    },
+    {
+        "name": "Fundamentals of Computing and Maths",
+        "code": "COCS40691",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Security Technologies",
+        "code": "COCS40708",
+        "level": 4
+    },
+    {
+        "name": "Advanced Programming Languages for Computer Systems",
+        "code": "COCS50592",
+        "level": 5
+    },
+    {
+        "name": "Digital Forensics - Tools",
+        "code": "COCS50595",
+        "level": 5
+    },
+    {
+        "name": "Routing and Switching",
+        "code": "COCS50605",
+        "level": 5
+    },
+    {
+        "name": "Systems Programming with C++",
+        "code": "COCS50633",
+        "level": 5
+    },
+    {
+        "name": "Biometrics (Taught with COCS50677)",
+        "code": "COCS50634",
+        "level": 5
+    },
+    {
+        "name": "Professional Skills for Networking",
+        "code": "COCS50673",
+        "level": 5
+    },
+    {
+        "name": "Network Security",
+        "code": "COCS50674",
+        "level": 5
+    },
+    {
+        "name": "Mobile Computing and Wireless",
+        "code": "COCS50675",
+        "level": 5
+    },
+    {
+        "name": "Ethical Hacking",
+        "code": "COCS50676",
+        "level": 5
+    },
+    {
+        "name": "Biometrics in a Security Environment",
+        "code": "COCS50677",
+        "level": 5
+    },
+    {
+        "name": "Digital Forensics - Systems",
+        "code": "COCS50685",
+        "level": 5
+    },
+    {
+        "name": "Networking Fundamentals",
+        "code": "COCS50694",
+        "level": 5
+    },
+    {
+        "name": "Digital and Embedded Software (Real-Time Systems) 2 (EPITA)",
+        "code": "COCS50695",
+        "level": 5
+    },
+    {
+        "name": "Networked Computer Systems",
+        "code": "COCS50701",
+        "level": 5
+    },
+    {
+        "name": "Digital Design and Embedded Software 2",
+        "code": "COCS60430",
+        "level": 6
+    },
+    {
+        "name": "Legal and Evidentiary Aspects of Forensic Computing",
+        "code": "COCS60431",
+        "level": 6
+    },
+    {
+        "name": "Advanced Wireless Networking",
+        "code": "COCS60491",
+        "level": 6
+    },
+    {
+        "name": "Biometrics 2",
+        "code": "COCS60499",
+        "level": 6
+    },
+    {
+        "name": "Malicious Software and Security Programming",
+        "code": "COCS60500",
+        "level": 6
+    },
+    {
+        "name": "Computer Systems Security",
+        "code": "COCS60534",
+        "level": 6
+    },
+    {
+        "name": "Safety Critical and Embedded Systems",
+        "code": "COCS60569",
+        "level": 6
+    },
+    {
+        "name": "Forensic Data Gathering, Reconstruction and Analysis",
+        "code": "COCS60570",
+        "level": 6
+    },
+    {
+        "name": "Networks and Protocols",
+        "code": "COCS60643",
+        "level": 6
+    },
+    {
+        "name": "Operating Systems",
+        "code": "COCS60644",
+        "level": 6
+    },
+    {
+        "name": "Real Time Systems",
+        "code": "COCS60656",
+        "level": 6
+    },
+    {
+        "name": "Troubleshooting a Converged IP Network",
+        "code": "COCS60667",
+        "level": 6
+    },
+    {
+        "name": "Advanced Switching",
+        "code": "COCS60692",
+        "level": 6
+    },
+    {
+        "name": "Computer Security - High Level (EFREI)",
+        "code": "COCS70442",
+        "level": 7
+    },
+    {
+        "name": "Wireless Networks (EFREI)",
+        "code": "COCS70443",
+        "level": 7
+    },
+    {
+        "name": "Embedded Real Time Systems",
+        "code": "COCS70513",
+        "level": 7
+    },
+    {
+        "name": "Computer Security - Low Level",
+        "code": "COCS70520",
+        "level": 7
+    },
+    {
+        "name": "Networking Concepts (Preliminary)",
+        "code": "COCS70637",
+        "level": 7
+    },
+    {
+        "name": "Professional Switched Networks",
+        "code": "COCS70638",
+        "level": 7
+    },
+    {
+        "name": "Cybercrime Forensic Analysis",
+        "code": "COCS70641",
+        "level": 7
+    },
+    {
+        "name": "Virtualisation",
+        "code": "COCS70665",
+        "level": 7
+    },
+    {
+        "name": "Network Security Technologies",
+        "code": "COCS70666",
+        "level": 7
+    },
+    {
+        "name": "Malware Analysis and Reverse Engineering",
+        "code": "COCS70684",
+        "level": 7
+    },
+    {
+        "name": "Research Methods for Networking",
+        "code": "COCS70686",
+        "level": 7
+    },
+    {
+        "name": "Digital Forensics Fundamentals",
+        "code": "COCS70704",
+        "level": 7
+    },
+    {
+        "name": "Professional Routed Networks",
+        "code": "COCS70705",
+        "level": 7
+    },
+    {
+        "name": "Advanced Quality of Service Techniques Over Converged Networks",
+        "code": "COCS70706",
+        "level": 7
+    },
+    {
+        "name": "Maintaining a Converged IP Based Network",
+        "code": "COCS70707",
+        "level": 7
+    },
+    {
+        "name": "Introduction to Professional and Academic Skills",
+        "code": "COIS30887",
+        "level": 3
+    },
+    {
+        "name": "Introduction to Web Technologies and Database Systems",
+        "code": "COIS31036",
+        "level": 3
+    },
+    {
+        "name": "Data Storage and Software Development",
+        "code": "COIS40889",
+        "level": 4
+    },
+    {
+        "name": "Dynamic Data Interchange",
+        "code": "COIS40890",
+        "level": 4
+    },
+    {
+        "name": "Open Source Database Programming",
+        "code": "COIS40892",
+        "level": 4
+    },
+    {
+        "name": "Professional and Business Skills",
+        "code": "COIS40896",
+        "level": 4
+    },
+    {
+        "name": "Skills for Computing Professionals",
+        "code": "COIS40897",
+        "level": 4
+    },
+    {
+        "name": "Social Media For Business - HCI and Usability",
+        "code": "COIS40898",
+        "level": 4
+    },
+    {
+        "name": "Social Media For Business (Taught with COIS40898)",
+        "code": "COIS40899",
+        "level": 4
+    },
+    {
+        "name": "Successful Study with Quantitative Tools for Computing",
+        "code": "COIS41008",
+        "level": 4
+    },
+    {
+        "name": "Business Information Systems in Organisations",
+        "code": "COIS41020",
+        "level": 4
+    },
+    {
+        "name": "Structured Systems Analysis and Design",
+        "code": "COIS41060",
+        "level": 4
+    },
+    {
+        "name": "Applied Software Development Life Cycles",
+        "code": "COIS41063",
+        "level": 4
+    },
+    {
+        "name": "Knowledge Management in Organisations (Taught with COIS60779)",
+        "code": "COIS50911",
+        "level": 5
+    },
+    {
+        "name": "Professional Computing for Information Systems (Taught with COIS40896)",
+        "code": "COIS50912",
+        "level": 5
+    },
+    {
+        "name": "Project Proposal and Professionalism",
+        "code": "COIS50948",
+        "level": 5
+    },
+    {
+        "name": "Strategic Information Systems Management",
+        "code": "COIS50950",
+        "level": 5
+    },
+    {
+        "name": "Professional Computing",
+        "code": "COIS51030",
+        "level": 5
+    },
+    {
+        "name": "E-Business Management",
+        "code": "COIS51031",
+        "level": 5
+    },
+    {
+        "name": "Project and Risk Management - Soft and Agile Methods",
+        "code": "COIS51034",
+        "level": 5
+    },
+    {
+        "name": "Project Proposal, Professionalism and Supporting Skills",
+        "code": "COIS51041",
+        "level": 5
+    },
+    {
+        "name": "Enterprise Application Development",
+        "code": "COIS51045",
+        "level": 5
+    },
+    {
+        "name": "Database Administration and Management",
+        "code": "COIS51058",
+        "level": 5
+    },
+    {
+        "name": "Project Proposal and Professional Development (Taught with COIS50948)",
+        "code": "COIS51078",
+        "level": 5
+    },
+    {
+        "name": "Project Management",
+        "code": "COIS60717",
+        "level": 6
+    },
+    {
+        "name": "Information Systems Engineering in Industry",
+        "code": "COIS60760",
+        "level": 6
+    },
+    {
+        "name": "Knowledge Management in Organisations",
+        "code": "COIS60779",
+        "level": 6
+    },
+    {
+        "name": "Advanced Database Systems",
+        "code": "COIS60784",
+        "level": 6
+    },
+    {
+        "name": "Management of Database Systems",
+        "code": "COIS60785",
+        "level": 6
+    },
+    {
+        "name": "User Interface and Modelling",
+        "code": "COIS60812",
+        "level": 6
+    },
+    {
+        "name": "Project: Planning, Management, Communication and Appraisal",
+        "code": "COIS60876",
+        "level": 6
+    },
+    {
+        "name": "Entrepreneurship &amp; Negotiation",
+        "code": "COIS60982",
+        "level": 6
+    },
+    {
+        "name": "Entrepreneurship and Negotiation (EFREI APPRENTICES)",
+        "code": "COIS61007",
+        "level": 6
+    },
+    {
+        "name": "Collaborative Group Project",
+        "code": "COIS61019",
+        "level": 6
+    },
+    {
+        "name": "Data Analytics",
+        "code": "COIS61042",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Issues in IT",
+        "code": "COIS61048",
+        "level": 6
+    },
+    {
+        "name": "Management of Database Systems (Stuttgart)",
+        "code": "COIS61050",
+        "level": 6
+    },
+    {
+        "name": "Database Design &amp; Development",
+        "code": "COIS70929",
+        "level": 7
+    },
+    {
+        "name": "Knowledge Management",
+        "code": "COIS70997",
+        "level": 7
+    },
+    {
+        "name": "Professional Development",
+        "code": "COIS71024",
+        "level": 7
+    },
+    {
+        "name": "Project and Change Management",
+        "code": "COIS71025",
+        "level": 7
+    },
+    {
+        "name": "Operational &amp; Analytical Databases",
+        "code": "COIS71032",
+        "level": 7
+    },
+    {
+        "name": "Research Methods",
+        "code": "COIS71040",
+        "level": 7
+    },
+    {
+        "name": "Research Methods",
+        "code": "COIS71051",
+        "level": 7
+    },
+    {
+        "name": "Dissertation",
+        "code": "COIS71052",
+        "level": 7
+    },
+    {
+        "name": "Academic English",
+        "code": "COIS71160",
+        "level": 7
+    },
+    {
+        "name": "Introduction to Software Development and Computer Systems",
+        "code": "COSE30573",
+        "level": 3
+    },
+    {
+        "name": "Application Modelling",
+        "code": "COSE40574",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Programming",
+        "code": "COSE40576",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Software Development",
+        "code": "COSE40577",
+        "level": 4
+    },
+    {
+        "name": "Fundamentals of Game and Graphical Systems",
+        "code": "COSE40630",
+        "level": 4
+    },
+    {
+        "name": "Games Engine Creation",
+        "code": "COSE40638",
+        "level": 4
+    },
+    {
+        "name": "Web Programming with Servlets and Java Server Pages",
+        "code": "COSE50562",
+        "level": 5
+    },
+    {
+        "name": "Artificial Intelligence for Games",
+        "code": "COSE50578",
+        "level": 5
+    },
+    {
+        "name": "Further Games and Graphics Concepts",
+        "code": "COSE50581",
+        "level": 5
+    },
+    {
+        "name": "Object-Oriented Application Engineering",
+        "code": "COSE50582",
+        "level": 5
+    },
+    {
+        "name": "Task-Based Software Engineering",
+        "code": "COSE50584",
+        "level": 5
+    },
+    {
+        "name": "Web &amp; Mobile Application Development",
+        "code": "COSE50586",
+        "level": 5
+    },
+    {
+        "name": "Application Design and Development with C#",
+        "code": "COSE50618",
+        "level": 5
+    },
+    {
+        "name": "Application Design and Development with PHP",
+        "code": "COSE50619",
+        "level": 5
+    },
+    {
+        "name": "Mobile Technology Systems",
+        "code": "COSE50620",
+        "level": 5
+    },
+    {
+        "name": "Technical Games Production",
+        "code": "COSE50631",
+        "level": 5
+    },
+    {
+        "name": "Engineering Software Application",
+        "code": "COSE50637",
+        "level": 5
+    },
+    {
+        "name": "Advanced Games Engine Creation",
+        "code": "COSE50639",
+        "level": 5
+    },
+    {
+        "name": "Concurrent Programming in C# (EPITA)",
+        "code": "COSE50643",
+        "level": 5
+    },
+    {
+        "name": "Concurrent Network Applications",
+        "code": "COSE50647",
+        "level": 5
+    },
+    {
+        "name": "Software Development for Mobile Computing Applications 2 (Taught with COSE70612)",
+        "code": "COSE60474",
+        "level": 6
+    },
+    {
+        "name": "Multiplayer Game Software Engineering",
+        "code": "COSE60475",
+        "level": 6
+    },
+    {
+        "name": "Advanced Programming Language Concepts",
+        "code": "COSE60501",
+        "level": 6
+    },
+    {
+        "name": "Interactive Systems Development",
+        "code": "COSE60504",
+        "level": 6
+    },
+    {
+        "name": "Character AI",
+        "code": "COSE60505",
+        "level": 6
+    },
+    {
+        "name": "Low Level Graphics Concepts (Taught with COSE70601)",
+        "code": "COSE60506",
+        "level": 6
+    },
+    {
+        "name": "Algorithmics",
+        "code": "COSE60507",
+        "level": 6
+    },
+    {
+        "name": "3D Computer Graphics",
+        "code": "COSE60509",
+        "level": 6
+    },
+    {
+        "name": "Advanced Programming for 3D Applications",
+        "code": "COSE60510",
+        "level": 6
+    },
+    {
+        "name": "Artificial Intelligence Engines for Games",
+        "code": "COSE60511",
+        "level": 6
+    },
+    {
+        "name": "Advanced Windows Game Programming",
+        "code": "COSE60512",
+        "level": 6
+    },
+    {
+        "name": "Strategic and Tactical Thinking for Games",
+        "code": "COSE60569",
+        "level": 6
+    },
+    {
+        "name": "Enterprise Applications with Java Enterprise Edition",
+        "code": "COSE60571",
+        "level": 6
+    },
+    {
+        "name": "Enterprise Client-server Development with PHP",
+        "code": "COSE60622",
+        "level": 6
+    },
+    {
+        "name": "Design Patterns",
+        "code": "COSE60644",
+        "level": 6
+    },
+    {
+        "name": "Practical Game Strategies",
+        "code": "COSE60648",
+        "level": 6
+    },
+    {
+        "name": "Knowledge Discovery and Data Mining (EFREI)",
+        "code": "COSE70488",
+        "level": 7
+    },
+    {
+        "name": "Concurrent and Multiplayer Game Programming",
+        "code": "COSE70598",
+        "level": 7
+    },
+    {
+        "name": "Game Artificial Intelligence (Taught with COSE60511)",
+        "code": "COSE70599",
+        "level": 7
+    },
+    {
+        "name": "Low-Level Game Programming",
+        "code": "COSE70601",
+        "level": 7
+    },
+    {
+        "name": "Real-Time Graphics for Games",
+        "code": "COSE70603",
+        "level": 7
+    },
+    {
+        "name": "Location-Aware Mobile Application Development",
+        "code": "COSE70609",
+        "level": 7
+    },
+    {
+        "name": "Advanced Android Application Development",
+        "code": "COSE70610",
+        "level": 7
+    },
+    {
+        "name": "Android Application Development",
+        "code": "COSE70611",
+        "level": 7
+    },
+    {
+        "name": "Application Development for iOS Devices (Taught with COSE60474)",
+        "code": "COSE70612",
+        "level": 7
+    },
+    {
+        "name": "Engineering Internet Applications",
+        "code": "COSE70615",
+        "level": 7
+    },
+    {
+        "name": "Enterprise Mobility",
+        "code": "COSE70633",
+        "level": 7
+    },
+    {
+        "name": "Games Engine Programming &amp; Architecture",
+        "code": "COSE70635",
+        "level": 7
+    },
+    {
+        "name": "Professional Games Development and Research Techniques",
+        "code": "COSE70641",
+        "level": 7
+    },
+    {
+        "name": "Computing Fundamentals",
+        "code": "COSE70645",
+        "level": 7
+    },
+    {
+        "name": "Understanding and Researching Contemporary Art",
+        "code": "COST40191",
+        "level": 4
+    },
+    {
+        "name": "Fine Art Independent Studio Practice",
+        "code": "COST40192",
+        "level": 4
+    },
+    {
+        "name": "Professional Practice, Animation Debates",
+        "code": "COST50130",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice: The Politics of Cartoons",
+        "code": "COST50177",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice",
+        "code": "COST50213",
+        "level": 5
+    },
+    {
+        "name": "Creativity &amp; Innovation",
+        "code": "COST50229",
+        "level": 5
+    },
+    {
+        "name": "Design in Business",
+        "code": "COST50243",
+        "level": 5
+    },
+    {
+        "name": "Brand Management Research Report",
+        "code": "COST60231",
+        "level": 6
+    },
+    {
+        "name": "Design Project Report",
+        "code": "COST60232",
+        "level": 6
+    },
+    {
+        "name": "Catalogue Essay Project",
+        "code": "COST60238",
+        "level": 6
+    },
+    {
+        "name": "Research, Analysis and Communication Assignment",
+        "code": "COST60242",
+        "level": 6
+    },
+    {
+        "name": "Research, Analysis and Communication Assignment",
+        "code": "COST60242+(b)",
+        "level": 6
+    },
+    {
+        "name": "Digital Interaction Design",
+        "code": "COWB40363",
+        "level": 4
+    },
+    {
+        "name": "Digital Application Development",
+        "code": "COWB40364",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Web Programming",
+        "code": "COWB40385",
+        "level": 4
+    },
+    {
+        "name": "Web Concepts",
+        "code": "COWB40386",
+        "level": 4
+    },
+    {
+        "name": "Digital Media and the Web",
+        "code": "COWB50343",
+        "level": 5
+    },
+    {
+        "name": "Programming with HTML APls",
+        "code": "COWB50346",
+        "level": 5
+    },
+    {
+        "name": "Server Side Scripting",
+        "code": "COWB50347",
+        "level": 5
+    },
+    {
+        "name": "Visual Web Design",
+        "code": "COWB50348",
+        "level": 5
+    },
+    {
+        "name": "Digital Interaction Design (Taught with COWB40363)",
+        "code": "COWB50368",
+        "level": 5
+    },
+    {
+        "name": "Developing Interactive Multimedia",
+        "code": "COWB50369",
+        "level": 5
+    },
+    {
+        "name": "Web Project",
+        "code": "COWB50382",
+        "level": 5
+    },
+    {
+        "name": "Methods and Tools for Enhancing User Experience",
+        "code": "COWB50383",
+        "level": 5
+    },
+    {
+        "name": "Building Web Applications",
+        "code": "COWB50388",
+        "level": 5
+    },
+    {
+        "name": "Distributed Web Applications (Taugh with COWB50346)",
+        "code": "COWB60229",
+        "level": 6
+    },
+    {
+        "name": "2D and 3D Animation",
+        "code": "COWB60267",
+        "level": 6
+    },
+    {
+        "name": "Advanced 2D and 3D Animation",
+        "code": "COWB60268",
+        "level": 6
+    },
+    {
+        "name": "Web Application Programming",
+        "code": "COWB60269",
+        "level": 6
+    },
+    {
+        "name": "Mobile Web Programming",
+        "code": "COWB60299",
+        "level": 6
+    },
+    {
+        "name": "Web Design 2",
+        "code": "COWB60313",
+        "level": 6
+    },
+    {
+        "name": "Mobile Multimedia and Gaming",
+        "code": "COWB60315",
+        "level": 6
+    },
+    {
+        "name": "Web Project",
+        "code": "COWB60326",
+        "level": 6
+    },
+    {
+        "name": "Enterprise Web Applications",
+        "code": "COWB60353",
+        "level": 6
+    },
+    {
+        "name": "Developing Interactive Multimedia (Taught with COWB50369)",
+        "code": "COWB60370",
+        "level": 6
+    },
+    {
+        "name": "Further Web Media Programming (Taught with COWB50346)",
+        "code": "COWB60374",
+        "level": 6
+    },
+    {
+        "name": "Further Web Applications",
+        "code": "COWB60375",
+        "level": 6
+    },
+    {
+        "name": "Ubiquitous Computing",
+        "code": "COWB60381",
+        "level": 6
+    },
+    {
+        "name": "Real World Web Design",
+        "code": "COWB60387",
+        "level": 6
+    },
+    {
+        "name": "Media Editing and Multimedia Applications",
+        "code": "COWB70358",
+        "level": 7
+    },
+    {
+        "name": "Mobile Web and Multimedia",
+        "code": "COWB70359",
+        "level": 7
+    },
+    {
+        "name": "Programming for Web Applications",
+        "code": "COWB70372",
+        "level": 7
+    },
+    {
+        "name": "Multimedia Research",
+        "code": "COWB70380",
+        "level": 7
+    },
+    {
+        "name": "Material Enquiry: Form and Surface",
+        "code": "DESN40029",
+        "level": 4
+    },
+    {
+        "name": "Professional Practice",
+        "code": "DESN50028",
+        "level": 5
+    },
+    {
+        "name": "The Theatre Industry (Enhancing Career and Personal Success)",
+        "code": "DRAM40153",
+        "level": 4
+    },
+    {
+        "name": "Technical Theatre Arts",
+        "code": "DRAM40160",
+        "level": 4
+    },
+    {
+        "name": "Early Stages:  Drama from Sophocles to Ibsen",
+        "code": "DRAM40162",
+        "level": 4
+    },
+    {
+        "name": "Explorations in Acting and Performance",
+        "code": "DRAM40206",
+        "level": 4
+    },
+    {
+        "name": "Computer - aided Lighting Design",
+        "code": "DRAM40207",
+        "level": 4
+    },
+    {
+        "name": "Theatre Production",
+        "code": "DRAM40208",
+        "level": 4
+    },
+    {
+        "name": "Documentary and Verbatim Theatre",
+        "code": "DRAM50154",
+        "level": 5
+    },
+    {
+        "name": "Theatre Arts Project",
+        "code": "DRAM50156",
+        "level": 5
+    },
+    {
+        "name": "Nothing Natural:  20th Century Theatrical Explorations",
+        "code": "DRAM50172",
+        "level": 5
+    },
+    {
+        "name": "Theatre Practice: Play Production Project",
+        "code": "DRAM50198",
+        "level": 5
+    },
+    {
+        "name": "Introduction to Stage Design",
+        "code": "DRAM50199",
+        "level": 5
+    },
+    {
+        "name": "Music Theatre",
+        "code": "DRAM50203",
+        "level": 5
+    },
+    {
+        "name": "Physical Theatres",
+        "code": "DRAM50209",
+        "level": 5
+    },
+    {
+        "name": "Introduction to Theatre Directing",
+        "code": "DRAM50219",
+        "level": 5
+    },
+    {
+        "name": "Drama Research Project",
+        "code": "DRAM60171",
+        "level": 6
+    },
+    {
+        "name": "Professional Theatre Placement",
+        "code": "DRAM60174",
+        "level": 6
+    },
+    {
+        "name": "Drama &amp; Theatre Arts Dissertation",
+        "code": "DRAM60179",
+        "level": 6
+    },
+    {
+        "name": "Small-scale Theatre Project",
+        "code": "DRAM60192",
+        "level": 6
+    },
+    {
+        "name": "Musical Theatre",
+        "code": "DRAM60195",
+        "level": 6
+    },
+    {
+        "name": "One Voice: Theatre Monologues",
+        "code": "DRAM60210",
+        "level": 6
+    },
+    {
+        "name": "Playwriting Project",
+        "code": "DRAM60211",
+        "level": 6
+    },
+    {
+        "name": "Staging the Classics",
+        "code": "DRAM60213",
+        "level": 6
+    },
+    {
+        "name": "Negotiated Creative Project",
+        "code": "DRAM60214",
+        "level": 6
+    },
+    {
+        "name": "Contemporary British Drama",
+        "code": "DRAM60215",
+        "level": 6
+    },
+    {
+        "name": "Applied Theatre Practice",
+        "code": "DRAM60216",
+        "level": 6
+    },
+    {
+        "name": "Advanced Theatre Directing",
+        "code": "DRAM60218",
+        "level": 6
+    },
+    {
+        "name": "Economic Environment",
+        "code": "ECON40117",
+        "level": 4
+    },
+    {
+        "name": "Analysing Business &amp;  Environmental Information",
+        "code": "ECON40119",
+        "level": 4
+    },
+    {
+        "name": " Business  Negotiation Techniques",
+        "code": "ECON50113",
+        "level": 5
+    },
+    {
+        "name": "Analysing Business &amp;  Environmental Information",
+        "code": "ECON50119",
+        "level": 5
+    },
+    {
+        "name": "The Business of War &amp; Terrorism",
+        "code": "ECON60122",
+        "level": 6
+    },
+    {
+        "name": "Introduction to the History &amp; Philosophy of Childhood",
+        "code": "ECST40078",
+        "level": 4
+    },
+    {
+        "name": "Planning Cycle",
+        "code": "ECST40082",
+        "level": 4
+    },
+    {
+        "name": "Inclusive &amp; Enabling Environment",
+        "code": "ECST40083",
+        "level": 4
+    },
+    {
+        "name": "Play, Development &amp; Assessment",
+        "code": "ECST50293",
+        "level": 5
+    },
+    {
+        "name": "Personal, Professional &amp; Academic Development",
+        "code": "EDUC40232",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Young Children&apos;s Development",
+        "code": "EDUC40233",
+        "level": 4
+    },
+    {
+        "name": "The Learning Environment",
+        "code": "EDUC40234",
+        "level": 4
+    },
+    {
+        "name": "Inclusion, Rights Policy &amp; Practice",
+        "code": "EDUC40242",
+        "level": 4
+    },
+    {
+        "name": "Personal, Professional &amp; Academic Development",
+        "code": "EDUC40450",
+        "level": 4
+    },
+    {
+        "name": "Community &amp; Informal Education",
+        "code": "EDUC40460",
+        "level": 4
+    },
+    {
+        "name": "Behaviour for Learning in the Inclusive Organisation",
+        "code": "EDUC40461",
+        "level": 4
+    },
+    {
+        "name": "Teaching Learning &amp; Assessment in PCET",
+        "code": "EDUC40500",
+        "level": 4
+    },
+    {
+        "name": "Theories, Principles &amp; Medels in PCET",
+        "code": "EDUC40501",
+        "level": 4
+    },
+    {
+        "name": "Young Childrens Development Advanced Perspectives",
+        "code": "EDUC50236",
+        "level": 5
+    },
+    {
+        "name": "Planning the Learning Environment",
+        "code": "EDUC50237",
+        "level": 5
+    },
+    {
+        "name": "Safeguarding &amp; Child Protection",
+        "code": "EDUC50238",
+        "level": 5
+    },
+    {
+        "name": "Families &amp; Homes",
+        "code": "EDUC50309",
+        "level": 5
+    },
+    {
+        "name": "Understanding Young People and Adult Learners",
+        "code": "EDUC50487",
+        "level": 5
+    },
+    {
+        "name": "Supporting Learning and Inclusion",
+        "code": "EDUC50488",
+        "level": 5
+    },
+    {
+        "name": "Preparation for Teacher Training",
+        "code": "EDUC60230",
+        "level": 6
+    },
+    {
+        "name": "Professional Development Leading Practice",
+        "code": "EDUC60239",
+        "level": 6
+    },
+    {
+        "name": "Leadership &amp; Teams",
+        "code": "EDUC60240",
+        "level": 6
+    },
+    {
+        "name": "Independent Research Project",
+        "code": "EDUC60243",
+        "level": 6
+    },
+    {
+        "name": "The Reflective Practitioner",
+        "code": "EDUC60244",
+        "level": 6
+    },
+    {
+        "name": "Teaching Pedagogy &amp; Practice",
+        "code": "EDUC60245",
+        "level": 6
+    },
+    {
+        "name": "Action Research &amp; Wider Professional Practice in PCET",
+        "code": "EDUC70505",
+        "level": 7
+    },
+    {
+        "name": "IFP Academic English",
+        "code": "ELAN36836",
+        "level": 3
+    },
+    {
+        "name": "IFP Integrated Project",
+        "code": "ELAN36977",
+        "level": 3
+    },
+    {
+        "name": "IFP General English",
+        "code": "ELAN37021",
+        "level": 3
+    },
+    {
+        "name": "IFP English for Specific Academic Purposes",
+        "code": "ELAN37087",
+        "level": 3
+    },
+    {
+        "name": "English for  Academic Purposes",
+        "code": "ELAN50006",
+        "level": 5
+    },
+    {
+        "name": "English Language &amp; Culture",
+        "code": "ELAN50007",
+        "level": 5
+    },
+    {
+        "name": " IFP Communication Skills",
+        "code": "ELAN77020",
+        "level": 7
+    },
+    {
+        "name": "Engineering Science",
+        "code": "ELEC30230",
+        "level": 3
+    },
+    {
+        "name": "Electrical and Electronic Principles (Taught with ELEC40222)",
+        "code": "ELEC40221",
+        "level": 4
+    },
+    {
+        "name": "Introductory Electronics (Taught with ELEC40221)",
+        "code": "ELEC40222",
+        "level": 4
+    },
+    {
+        "name": "Professional Engineering Skills",
+        "code": "ELEC40223",
+        "level": 4
+    },
+    {
+        "name": "Communication Principles",
+        "code": "ELEC40237",
+        "level": 4
+    },
+    {
+        "name": "Digital Design and Embedded Software 1",
+        "code": "ELEC50218",
+        "level": 5
+    },
+    {
+        "name": "Signals, Systems and Communication",
+        "code": "ELEC50224",
+        "level": 5
+    },
+    {
+        "name": "Advanced Electrical/Electronic Simulation and Control",
+        "code": "ELEC50225",
+        "level": 5
+    },
+    {
+        "name": "Electrical Power, Machines &amp; Drives",
+        "code": "ELEC50229",
+        "level": 5
+    },
+    {
+        "name": "Signals, Systems and Embedded Software",
+        "code": "ELEC50401",
+        "level": 5
+    },
+    {
+        "name": "Power System and Engineering Analysis",
+        "code": "ELEC60219",
+        "level": 6
+    },
+    {
+        "name": "Digital Communications: Processing and Applications",
+        "code": "ELEC60220",
+        "level": 6
+    },
+    {
+        "name": "Power Electronics and Semiconductor Devices",
+        "code": "ELEC60227",
+        "level": 6
+    },
+    {
+        "name": "Enterprise and Entrepreneurship",
+        "code": "ELEC60228",
+        "level": 6
+    },
+    {
+        "name": "Analogue Electronics &amp; RF",
+        "code": "ELEC60274",
+        "level": 6
+    },
+    {
+        "name": "Advances in Electrical and Electronic Engineering",
+        "code": "ELEC60307",
+        "level": 6
+    },
+    {
+        "name": "Power Electronics and Embedded Software (Taught with ELEC60227 Sem 1 and COCS60430 Sem 2)",
+        "code": "ELEC60312",
+        "level": 6
+    },
+    {
+        "name": "Electronic Design and Testing",
+        "code": "ELEC60313",
+        "level": 6
+    },
+    {
+        "name": "Photovoltaic Technology",
+        "code": "ELEC70247",
+        "level": 7
+    },
+    {
+        "name": "Flexible AC Transmission Systems",
+        "code": "ELEC70263",
+        "level": 7
+    },
+    {
+        "name": "Power Electronics in Electric Utility Systems",
+        "code": "ELEC70264",
+        "level": 7
+    },
+    {
+        "name": "Wireless Navigation Systems",
+        "code": "ELEC70268",
+        "level": 7
+    },
+    {
+        "name": "Telecommunications",
+        "code": "ELEC70272",
+        "level": 7
+    },
+    {
+        "name": "Industrial Robotics and Control",
+        "code": "ELEC70280",
+        "level": 7
+    },
+    {
+        "name": "Digital Electronic Systems",
+        "code": "ELEC70287",
+        "level": 7
+    },
+    {
+        "name": "Optical Fibre Communication Systems",
+        "code": "ELEC70288",
+        "level": 7
+    },
+    {
+        "name": "Advanced Power System Analysis",
+        "code": "ELEC70295",
+        "level": 7
+    },
+    {
+        "name": "Power System Protection",
+        "code": "ELEC70296",
+        "level": 7
+    },
+    {
+        "name": "Cellular Network Planning Principles",
+        "code": "ELEC70308",
+        "level": 7
+    },
+    {
+        "name": "Voice &amp; Data Over Broadband Networks",
+        "code": "ELEC70309",
+        "level": 7
+    },
+    {
+        "name": "Control Systems",
+        "code": "ELEC70315",
+        "level": 7
+    },
+    {
+        "name": "Study Skills and Employability",
+        "code": "ELEC70320",
+        "level": 7
+    },
+    {
+        "name": "WSN &amp; IoT: Principles and Practices",
+        "code": "ELEC70325",
+        "level": 7
+    },
+    {
+        "name": "Imagining America:  Introduction to American Literature",
+        "code": "ENGL40324",
+        "level": 4
+    },
+    {
+        "name": "Early Modern Writing",
+        "code": "ENGL40325",
+        "level": 4
+    },
+    {
+        "name": "Early Modern Writing",
+        "code": "ENGL40356",
+        "level": 4
+    },
+    {
+        "name": "British Literature: 1945-Present",
+        "code": "ENGL40380",
+        "level": 4
+    },
+    {
+        "name": "Poetic Writing",
+        "code": "ENGL40447",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Creative Writing",
+        "code": "ENGL40448",
+        "level": 4
+    },
+    {
+        "name": "Introduction to English Studies",
+        "code": "ENGL40464",
+        "level": 4
+    },
+    {
+        "name": "Beat Writing",
+        "code": "ENGL50301",
+        "level": 5
+    },
+    {
+        "name": "Modernist Prose Writing",
+        "code": "ENGL50338",
+        "level": 5
+    },
+    {
+        "name": "Writing Identities",
+        "code": "ENGL50345",
+        "level": 5
+    },
+    {
+        "name": "Rewriting for Writers: Advanced Editing Techniques",
+        "code": "ENGL50346",
+        "level": 5
+    },
+    {
+        "name": "Shakespeare: From Comedy to Romance",
+        "code": "ENGL50349",
+        "level": 5
+    },
+    {
+        "name": "Victorian Poetry: Melancholy and Modernity",
+        "code": "ENGL50351",
+        "level": 5
+    },
+    {
+        "name": "Reading in Context:  Revenge Drama",
+        "code": "ENGL50353",
+        "level": 5
+    },
+    {
+        "name": "From Rage to Page",
+        "code": "ENGL50406",
+        "level": 5
+    },
+    {
+        "name": "Telling the Story: Genre, Myth, Magic, Realism",
+        "code": "ENGL50451",
+        "level": 5
+    },
+    {
+        "name": "Modernity/Postmodernity: The 20th Century",
+        "code": "ENGL50460",
+        "level": 5
+    },
+    {
+        "name": "Creative Non-Fiction",
+        "code": "ENGL60347",
+        "level": 6
+    },
+    {
+        "name": "Experimental Writing",
+        "code": "ENGL60348",
+        "level": 6
+    },
+    {
+        "name": "English Dissertation",
+        "code": "ENGL60376",
+        "level": 6
+    },
+    {
+        "name": "Creative Writing Project",
+        "code": "ENGL60469",
+        "level": 6
+    },
+    {
+        "name": "Management Skills(Enhancing your career &amp; personal success)",
+        "code": "ENTP40075",
+        "level": 4
+    },
+    {
+        "name": "Sustainable Business",
+        "code": "ENTP50030",
+        "level": 5
+    },
+    {
+        "name": "Enterprising Graduate 1",
+        "code": "ENTP50036",
+        "level": 5
+    },
+    {
+        "name": "Management the Entrepreneur and the Small Business Environment",
+        "code": "ENTP50037",
+        "level": 5
+    },
+    {
+        "name": "Professional Development(Ent,Entr&amp;Cit)",
+        "code": "ENTP50075",
+        "level": 5
+    },
+    {
+        "name": "Sustainable Business",
+        "code": "ENTP60031",
+        "level": 6
+    },
+    {
+        "name": "Tourism Management Project",
+        "code": "ENTP60049",
+        "level": 6
+    },
+    {
+        "name": "Practical Consultancy for Sustainability (30 credit)",
+        "code": "ENTP60055",
+        "level": 6
+    },
+    {
+        "name": "Digital Matte Painting 1: Environment Design",
+        "code": "FILM40125",
+        "level": 4
+    },
+    {
+        "name": "Pre-Production Technology",
+        "code": "FILM40134",
+        "level": 4
+    },
+    {
+        "name": "Production Technology 1",
+        "code": "FILM40135",
+        "level": 4
+    },
+    {
+        "name": "Post Production Technology",
+        "code": "FILM40136",
+        "level": 4
+    },
+    {
+        "name": "Business &amp; Production Management for Film &amp; TV 1",
+        "code": "FILM40216",
+        "level": 4
+    },
+    {
+        "name": "Character Concept Design 2",
+        "code": "FILM50126",
+        "level": 5
+    },
+    {
+        "name": "Studio Production Technology",
+        "code": "FILM50138",
+        "level": 5
+    },
+    {
+        "name": "Documentary Production Technology",
+        "code": "FILM50139",
+        "level": 5
+    },
+    {
+        "name": "Advanced Production Technology",
+        "code": "FILM50140",
+        "level": 5
+    },
+    {
+        "name": "Advanced Scriptwriting for Technologists",
+        "code": "FILM50204",
+        "level": 5
+    },
+    {
+        "name": "Business &amp; Production Management for Film &amp; TV 2",
+        "code": "FILM50215",
+        "level": 5
+    },
+    {
+        "name": "Film Technology 2",
+        "code": "FILM50224",
+        "level": 5
+    },
+    {
+        "name": "Post Production for Digital Film",
+        "code": "FILM50300",
+        "level": 5
+    },
+    {
+        "name": "Advanced Games Concept",
+        "code": "FILM60127",
+        "level": 6
+    },
+    {
+        "name": "Business Production &amp; Management for Film &amp; TV 3",
+        "code": "FILM60143",
+        "level": 6
+    },
+    {
+        "name": "Advanced Studio Production",
+        "code": "FILM60181",
+        "level": 6
+    },
+    {
+        "name": "Work Experience in the Film &amp; TV Industries",
+        "code": "FILM60195",
+        "level": 6
+    },
+    {
+        "name": "Video Recording &amp; Production",
+        "code": "FILM60200",
+        "level": 6
+    },
+    {
+        "name": "Group Film Production &amp; Television Project",
+        "code": "FILM60301",
+        "level": 6
+    },
+    {
+        "name": "Advanced Film Technology",
+        "code": "FILM70110",
+        "level": 7
+    },
+    {
+        "name": "Fine Art Studio Practice Introduction",
+        "code": "FINA40101",
+        "level": 4
+    },
+    {
+        "name": "Studio Practice and Context 2",
+        "code": "FINA50105",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice and Placement (Fine Art)",
+        "code": "FINA50106",
+        "level": 5
+    },
+    {
+        "name": "Personal Project Development and Professional Practice",
+        "code": "FINA60140",
+        "level": 6
+    },
+    {
+        "name": "Fine Art: Personal Project Resolution",
+        "code": "FINA60141",
+        "level": 6
+    },
+    {
+        "name": "Recording the Crime Scene",
+        "code": "FORE40239",
+        "level": 4
+    },
+    {
+        "name": "Science for Justice",
+        "code": "FORE40240",
+        "level": 4
+    },
+    {
+        "name": "Chemical Principles for Forensic Science",
+        "code": "FORE40244",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Forensic Science",
+        "code": "FORE40253",
+        "level": 4
+    },
+    {
+        "name": "Basic Chemical Concepts",
+        "code": "FORE40254",
+        "level": 4
+    },
+    {
+        "name": "Crime Scene Investigation",
+        "code": "FORE40255",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Policing",
+        "code": "FORE40256",
+        "level": 4
+    },
+    {
+        "name": "Facial Recognition",
+        "code": "FORE40257",
+        "level": 4
+    },
+    {
+        "name": "Crime Scene Documentation",
+        "code": "FORE40270",
+        "level": 4
+    },
+    {
+        "name": "Periodicity",
+        "code": "FORE40273",
+        "level": 4
+    },
+    {
+        "name": "Missing Persons",
+        "code": "FORE40329",
+        "level": 4
+    },
+    {
+        "name": "Research and Professional Skills",
+        "code": "FORE50241",
+        "level": 5
+    },
+    {
+        "name": "Research and Professional Skills",
+        "code": "FORE50247",
+        "level": 5
+    },
+    {
+        "name": "Crime and Dishonesty",
+        "code": "FORE50259",
+        "level": 5
+    },
+    {
+        "name": "Cyber Crime (Taught with FORE60350, FORE60351 &amp; FORE70349)",
+        "code": "FORE50263",
+        "level": 5
+    },
+    {
+        "name": "Investigative Skills",
+        "code": "FORE50269",
+        "level": 5
+    },
+    {
+        "name": "Bodies of Evidence",
+        "code": "FORE50281",
+        "level": 5
+    },
+    {
+        "name": "Methods of Chemical Analysis",
+        "code": "FORE50313",
+        "level": 5
+    },
+    {
+        "name": "Methods of Crime Detection",
+        "code": "FORE50314",
+        "level": 5
+    },
+    {
+        "name": "Forensic Science: Methods of Crime Detection",
+        "code": "FORE50315",
+        "level": 5
+    },
+    {
+        "name": "Drugs of Abuse",
+        "code": "FORE50316",
+        "level": 5
+    },
+    {
+        "name": "DNA Profiling + Forensic Biology",
+        "code": "FORE50317",
+        "level": 5
+    },
+    {
+        "name": "Vehicle Collision Investigation",
+        "code": "FORE50319",
+        "level": 5
+    },
+    {
+        "name": "Community Policing and Public Disorder",
+        "code": "FORE50326",
+        "level": 5
+    },
+    {
+        "name": "Forensic Archaeology",
+        "code": "FORE50327",
+        "level": 5
+    },
+    {
+        "name": "Case File To Court",
+        "code": "FORE60249",
+        "level": 6
+    },
+    {
+        "name": "Intelligence Led Policing and Major Crime",
+        "code": "FORE60251",
+        "level": 6
+    },
+    {
+        "name": "Expert Witness + Legal System",
+        "code": "FORE60311",
+        "level": 6
+    },
+    {
+        "name": "Analysis and Investigation of TEREFF Incidents",
+        "code": "FORE60320",
+        "level": 6
+    },
+    {
+        "name": "Techniques in Identification of Human Remains",
+        "code": "FORE60322",
+        "level": 6
+    },
+    {
+        "name": "Investigating and Reporting Crime Scenes",
+        "code": "FORE60332",
+        "level": 6
+    },
+    {
+        "name": "Practical Methods in Crime Detection",
+        "code": "FORE60333",
+        "level": 6
+    },
+    {
+        "name": "Cyber Crime (Taught with FORE50263)",
+        "code": "FORE60350",
+        "level": 6
+    },
+    {
+        "name": "Forensic Multimedia (Taught with FORE50263)",
+        "code": "FORE60351",
+        "level": 6
+    },
+    {
+        "name": "Forensic Chemical and Biological Techniques",
+        "code": "FORE70336",
+        "level": 7
+    },
+    {
+        "name": "Advanced Investigative Techniques",
+        "code": "FORE70337",
+        "level": 7
+    },
+    {
+        "name": "Advanced Research Methods",
+        "code": "FORE70338",
+        "level": 7
+    },
+    {
+        "name": "Forensic and Crime Science Placement",
+        "code": "FORE70339",
+        "level": 7
+    },
+    {
+        "name": "Forensic and Crime Science Research Assistantship",
+        "code": "FORE70340",
+        "level": 7
+    },
+    {
+        "name": "Forensic and Crime Science Research Assistantship in Policing and Criminal Investigation",
+        "code": "FORE70342",
+        "level": 7
+    },
+    {
+        "name": "Specialist Topics in Forensic Investigations",
+        "code": "FORE70343",
+        "level": 7
+    },
+    {
+        "name": "Forensic Multimedia (Taught with FORE50263)",
+        "code": "FORE70349",
+        "level": 7
+    },
+    {
+        "name": "Elements of Broadcasting",
+        "code": "FTVR40327",
+        "level": 4
+    },
+    {
+        "name": "Live Studio",
+        "code": "FTVR40328",
+        "level": 4
+    },
+    {
+        "name": "Principals and Practice of FTVRS",
+        "code": "FTVR40334",
+        "level": 4
+    },
+    {
+        "name": "Cinema:  Film Analysis",
+        "code": "FTVR40345",
+        "level": 4
+    },
+    {
+        "name": "Elements of Broadcasting",
+        "code": "FTVR40355",
+        "level": 4
+    },
+    {
+        "name": "Blockbuster! Film Analysis",
+        "code": "FTVR40372+(a)",
+        "level": 4
+    },
+    {
+        "name": "Blockbuster! Film Analysis",
+        "code": "FTVR40372+(b)",
+        "level": 4
+    },
+    {
+        "name": "R.E.A.D. (rewrite, edit, adapt, develop)",
+        "code": "FTVR40406",
+        "level": 4
+    },
+    {
+        "name": "Rights, Rules and Reality",
+        "code": "FTVR40439",
+        "level": 4
+    },
+    {
+        "name": "Practical Radio Skills",
+        "code": "FTVR40440",
+        "level": 4
+    },
+    {
+        "name": "Principles and Practice of Studying Radio",
+        "code": "FTVR40441",
+        "level": 4
+    },
+    {
+        "name": "Writing Narratives",
+        "code": "FTVR40474",
+        "level": 4
+    },
+    {
+        "name": "Broadcast Genre and Audiences",
+        "code": "FTVR50324",
+        "level": 5
+    },
+    {
+        "name": "Documentary TV / Film Production",
+        "code": "FTVR50325",
+        "level": 5
+    },
+    {
+        "name": "Drama / TV Film Production",
+        "code": "FTVR50326",
+        "level": 5
+    },
+    {
+        "name": "Radio Drama: Exploration to Production",
+        "code": "FTVR50343",
+        "level": 5
+    },
+    {
+        "name": "Radio Documentary Production 1",
+        "code": "FTVR50365",
+        "level": 5
+    },
+    {
+        "name": "Live Radio Presentation",
+        "code": "FTVR50430",
+        "level": 5
+    },
+    {
+        "name": "Music Industries in the Twenty First Century",
+        "code": "FTVR50431",
+        "level": 5
+    },
+    {
+        "name": "To Boldly Go: Science Fiction on Film, TV and Radio",
+        "code": "FTVR50434",
+        "level": 5
+    },
+    {
+        "name": "Live Magazine",
+        "code": "FTVR50435",
+        "level": 5
+    },
+    {
+        "name": "Radio Documentary",
+        "code": "FTVR50445",
+        "level": 5
+    },
+    {
+        "name": "Introduction to Screenwriting",
+        "code": "FTVR50453",
+        "level": 5
+    },
+    {
+        "name": "Radio Production and Presentation",
+        "code": "FTVR50454",
+        "level": 5
+    },
+    {
+        "name": "Writing Pictures",
+        "code": "FTVR50466",
+        "level": 5
+    },
+    {
+        "name": "Film History and Film Theory 2",
+        "code": "FTVR50469",
+        "level": 5
+    },
+    {
+        "name": "Radio Drama Project",
+        "code": "FTVR60305",
+        "level": 6
+    },
+    {
+        "name": "Broadcasting Work Placement",
+        "code": "FTVR60309",
+        "level": 6
+    },
+    {
+        "name": "Video Documentary Project",
+        "code": "FTVR60363",
+        "level": 6
+    },
+    {
+        "name": "Pop Will Eat Itself",
+        "code": "FTVR60376",
+        "level": 6
+    },
+    {
+        "name": "Film/ TV Drama Project",
+        "code": "FTVR60389",
+        "level": 6
+    },
+    {
+        "name": "Individual Negotiated Programme Of Study (Part A) : Film / Programme Pre-Production",
+        "code": "FTVR60395",
+        "level": 6
+    },
+    {
+        "name": "Media: Entertainment: Performance and Drama",
+        "code": "FTVR60446",
+        "level": 6
+    },
+    {
+        "name": "Adaptation",
+        "code": "FTVR60447",
+        "level": 6
+    },
+    {
+        "name": "Media Employment Research Project",
+        "code": "FTVR60448",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Practices in the Radio Industry",
+        "code": "FTVR60450",
+        "level": 6
+    },
+    {
+        "name": "American and International Cinema",
+        "code": "FTVR60451",
+        "level": 6
+    },
+    {
+        "name": "Screenwriting: Feature Film",
+        "code": "FTVR60457",
+        "level": 6
+    },
+    {
+        "name": "Commercial Radio",
+        "code": "FTVR60460",
+        "level": 6
+    },
+    {
+        "name": "Screenwriting: Feature Film",
+        "code": "FTVR60468",
+        "level": 6
+    },
+    {
+        "name": "Programme Days",
+        "code": "FTVR60473",
+        "level": 6
+    },
+    {
+        "name": "Character Concept Design 1",
+        "code": "FVFX40150",
+        "level": 4
+    },
+    {
+        "name": "Digital Photography for VFX",
+        "code": "FVFX40153",
+        "level": 4
+    },
+    {
+        "name": "Introduction to CGI",
+        "code": "FVFX40154",
+        "level": 4
+    },
+    {
+        "name": "Digital Presentation 1",
+        "code": "FVFX40166",
+        "level": 4
+    },
+    {
+        "name": "Digital Pipeline 1",
+        "code": "FVFX40167",
+        "level": 4
+    },
+    {
+        "name": "Introduction to VFX: Visual Effects and Concept Design",
+        "code": "FVFX40171",
+        "level": 4
+    },
+    {
+        "name": "Digital Compositing 1",
+        "code": "FVFX40207",
+        "level": 4
+    },
+    {
+        "name": "Digital Compositing for Film",
+        "code": "FVFX40218",
+        "level": 4
+    },
+    {
+        "name": "Digital Image Production",
+        "code": "FVFX40225",
+        "level": 4
+    },
+    {
+        "name": "Career Development for Games Concepts",
+        "code": "FVFX40300",
+        "level": 4
+    },
+    {
+        "name": "Production Skills for VFX",
+        "code": "FVFX40301",
+        "level": 4
+    },
+    {
+        "name": "Digital Matte Painting 2",
+        "code": "FVFX50155",
+        "level": 5
+    },
+    {
+        "name": "3D Modelling for VFX",
+        "code": "FVFX50156",
+        "level": 5
+    },
+    {
+        "name": "Digital Compositing 2",
+        "code": "FVFX50157",
+        "level": 5
+    },
+    {
+        "name": "Junior VFX Project",
+        "code": "FVFX50158",
+        "level": 5
+    },
+    {
+        "name": "Lighting &amp; Rendering",
+        "code": "FVFX50159",
+        "level": 5
+    },
+    {
+        "name": "Set Design",
+        "code": "FVFX50170",
+        "level": 5
+    },
+    {
+        "name": "Digital Pipeline 2",
+        "code": "FVFX50172",
+        "level": 5
+    },
+    {
+        "name": "Digital Presentation 2",
+        "code": "FVFX50179",
+        "level": 5
+    },
+    {
+        "name": "Future Lifestyles",
+        "code": "FVFX50206",
+        "level": 5
+    },
+    {
+        "name": "Senior Team VFX Project",
+        "code": "FVFX60162",
+        "level": 6
+    },
+    {
+        "name": "Scripting for VFX",
+        "code": "FVFX60163",
+        "level": 6
+    },
+    {
+        "name": "Negotiated Programme of Study Part A",
+        "code": "FVFX60173",
+        "level": 6
+    },
+    {
+        "name": "Negotiated Programme of Study Part B",
+        "code": "FVFX60174",
+        "level": 6
+    },
+    {
+        "name": "Team production Project",
+        "code": "FVFX60175",
+        "level": 6
+    },
+    {
+        "name": "Advanced Negotiated Entertainment Project",
+        "code": "FVFX60190",
+        "level": 6
+    },
+    {
+        "name": "Advanced 3D Modelling &amp; Animation",
+        "code": "FVFX60194",
+        "level": 6
+    },
+    {
+        "name": "DVD Technology",
+        "code": "FVFX60213",
+        "level": 6
+    },
+    {
+        "name": "Streaming Media Technology",
+        "code": "FVFX60300",
+        "level": 6
+    },
+    {
+        "name": "Dynamics &amp; Simulation",
+        "code": "FVFX60302",
+        "level": 6
+    },
+    {
+        "name": "Game Theory &amp; Mechanics",
+        "code": "GAME30160",
+        "level": 3
+    },
+    {
+        "name": "Photoshop for Game Development",
+        "code": "GAME30161",
+        "level": 3
+    },
+    {
+        "name": "2D Games Engines",
+        "code": "GAME30229",
+        "level": 3
+    },
+    {
+        "name": "Computer Games in Society",
+        "code": "GAME30245",
+        "level": 3
+    },
+    {
+        "name": "Introductory Modelling &amp; Rendering",
+        "code": "GAME30268",
+        "level": 3
+    },
+    {
+        "name": "Introduction to Animation &amp; Mocap",
+        "code": "GAME40212",
+        "level": 4
+    },
+    {
+        "name": "Introduction to 3D Games Engines",
+        "code": "GAME40213",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Games Design",
+        "code": "GAME40214",
+        "level": 4
+    },
+    {
+        "name": "Narratology for Games",
+        "code": "GAME40246",
+        "level": 4
+    },
+    {
+        "name": "Rapid Games Prototyping",
+        "code": "GAME40250",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Scripting for 3D Applications",
+        "code": "GAME40260",
+        "level": 4
+    },
+    {
+        "name": "Art Fundamentals for Games",
+        "code": "GAME40262",
+        "level": 4
+    },
+    {
+        "name": "Computer Games in Society and the Workplace",
+        "code": "GAME40264",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Realism in Games &amp; Militainment",
+        "code": "GAME40361",
+        "level": 4
+    },
+    {
+        "name": "Introduction to 3D Modelling for Games",
+        "code": "GAME40400",
+        "level": 4
+    },
+    {
+        "name": "3D Character Modelling for Games",
+        "code": "GAME50168",
+        "level": 5
+    },
+    {
+        "name": "Junior/Senior Collaborative Game Development &amp; Testing",
+        "code": "GAME50170/GAME60247",
+        "level": 5
+    },
+    {
+        "name": "Game Shaders &amp; Texturing",
+        "code": "GAME50171",
+        "level": 5
+    },
+    {
+        "name": "Gameplay Applications",
+        "code": "GAME50172",
+        "level": 5
+    },
+    {
+        "name": "Advanced 3D Games Engines &amp; Scripting",
+        "code": "GAME50180",
+        "level": 5
+    },
+    {
+        "name": "Social &amp; Mobile Game Development (taught with GAME60252)",
+        "code": "GAME50251",
+        "level": 5
+    },
+    {
+        "name": "Rapid Games Prototyping",
+        "code": "GAME50253",
+        "level": 5
+    },
+    {
+        "name": "Game Interface Design &amp; Implementation",
+        "code": "GAME50261",
+        "level": 5
+    },
+    {
+        "name": "Character Animation &amp; MOCAP for Games",
+        "code": "GAME50265",
+        "level": 5
+    },
+    {
+        "name": "Games Audio",
+        "code": "GAME50270",
+        "level": 5
+    },
+    {
+        "name": "3D Hard Surface Modelling for Games",
+        "code": "GAME50356",
+        "level": 5
+    },
+    {
+        "name": "Advanced 3D Modelling",
+        "code": "GAME60174",
+        "level": 6
+    },
+    {
+        "name": "Advanced Games Prototyping &amp; AI Scripting",
+        "code": "GAME60175",
+        "level": 6
+    },
+    {
+        "name": "MMOG Design Communities &amp; Narratology",
+        "code": "GAME60177",
+        "level": 6
+    },
+    {
+        "name": "Individual Games Technology Project",
+        "code": "GAME60193",
+        "level": 6
+    },
+    {
+        "name": "Social &amp; Mobile Games Development",
+        "code": "GAME60252",
+        "level": 6
+    },
+    {
+        "name": "Individual Games Technology Portfolio",
+        "code": "GAME60271",
+        "level": 6
+    },
+    {
+        "name": "Military Games Design Development &amp; Philosophy",
+        "code": "GAME60282",
+        "level": 6
+    },
+    {
+        "name": "Advanced Games Environment Design &amp; Research",
+        "code": "GAME70254",
+        "level": 7
+    },
+    {
+        "name": "Advanced Character Prototyping",
+        "code": "GAME70255",
+        "level": 7
+    },
+    {
+        "name": "Advanced Vehicle &amp; Weapon Prototyping",
+        "code": "GAME70256",
+        "level": 7
+    },
+    {
+        "name": "Mobile Games Development",
+        "code": "GAME70257",
+        "level": 7
+    },
+    {
+        "name": "Environmental Issues &amp; Case Study - Taught with GEOG40430",
+        "code": "GEOG40373",
+        "level": 4
+    },
+    {
+        "name": "Societies and Settlements",
+        "code": "GEOG40375",
+        "level": 4
+    },
+    {
+        "name": "Sustainable Lifestyles &amp; Communities",
+        "code": "GEOG40376",
+        "level": 4
+    },
+    {
+        "name": "World Regions",
+        "code": "GEOG40377",
+        "level": 4
+    },
+    {
+        "name": "The Dynamic Earth",
+        "code": "GEOG40378",
+        "level": 4
+    },
+    {
+        "name": "Environmental Issues",
+        "code": "GEOG40430",
+        "level": 4
+    },
+    {
+        "name": "Outdoor Skills",
+        "code": "GEOG40444",
+        "level": 4
+    },
+    {
+        "name": "Investigating Geography and the Environment",
+        "code": "GEOG40445",
+        "level": 4
+    },
+    {
+        "name": "Geography and the Environment Tutorials",
+        "code": "GEOG40446",
+        "level": 4
+    },
+    {
+        "name": "Mountain Leader Training",
+        "code": "GEOG50331",
+        "level": 5
+    },
+    {
+        "name": "Geography and the Environment in Practice",
+        "code": "GEOG50332",
+        "level": 5
+    },
+    {
+        "name": "UK Geog and Env Fieldwork",
+        "code": "GEOG50333",
+        "level": 5
+    },
+    {
+        "name": "This Changing Earth",
+        "code": "GEOG50334",
+        "level": 5
+    },
+    {
+        "name": "Resources &amp; Risks",
+        "code": "GEOG50335",
+        "level": 5
+    },
+    {
+        "name": "Urban Worlds",
+        "code": "GEOG50336",
+        "level": 5
+    },
+    {
+        "name": "Environmental Policy, Legislation and Regulation",
+        "code": "GEOG50536",
+        "level": 5
+    },
+    {
+        "name": "Global Cities",
+        "code": "GEOG60338",
+        "level": 6
+    },
+    {
+        "name": "Geography &amp; Environment Independent Research Project",
+        "code": "GEOG60340",
+        "level": 6
+    },
+    {
+        "name": "Geography &amp; Environment In The Workplace Project - Taught with GEOG60340",
+        "code": "GEOG60341",
+        "level": 6
+    },
+    {
+        "name": "Advanced Geography and Environment Fieldwork",
+        "code": "GEOG60342",
+        "level": 6
+    },
+    {
+        "name": "Ice Age Britain",
+        "code": "GEOG60343",
+        "level": 6
+    },
+    {
+        "name": "Cities &amp; Nature",
+        "code": "GEOG60344",
+        "level": 6
+    },
+    {
+        "name": "Professional Practice and Careers for Geography and Environment Graduates",
+        "code": "GEOG60345",
+        "level": 6
+    },
+    {
+        "name": "The Geomorphology of Cold Environments",
+        "code": "GEOG60351",
+        "level": 6
+    },
+    {
+        "name": "Sustainability Policy and Planning a Water Perspective",
+        "code": "GEOG60374",
+        "level": 6
+    },
+    {
+        "name": "Mountain Leader Assessment",
+        "code": "GEOG60462",
+        "level": 6
+    },
+    {
+        "name": "Food Agriculture and Sustainability",
+        "code": "GEOG60531",
+        "level": 6
+    },
+    {
+        "name": "Geographic Information Systems (GIS)",
+        "code": "GEOG60532",
+        "level": 6
+    },
+    {
+        "name": "Planning for Climate Change",
+        "code": "GEOG60533",
+        "level": 6
+    },
+    {
+        "name": "Masters Dissertation/Project",
+        "code": "GEOG70247",
+        "level": 7
+    },
+    {
+        "name": "Visual Communication",
+        "code": "GRAP40078",
+        "level": 4
+    },
+    {
+        "name": "Type &amp; Image",
+        "code": "GRAP40101",
+        "level": 4
+    },
+    {
+        "name": "Visual Application",
+        "code": "GRAP40106",
+        "level": 4
+    },
+    {
+        "name": "Visual Exploration",
+        "code": "GRAP50079",
+        "level": 5
+    },
+    {
+        "name": "Experimental Formats",
+        "code": "GRAP50095",
+        "level": 5
+    },
+    {
+        "name": "Illustration and Communication",
+        "code": "GRAP50104",
+        "level": 5
+    },
+    {
+        "name": "Design Futures for Graphics/ Illustration",
+        "code": "GRAP60100",
+        "level": 6
+    },
+    {
+        "name": "Negotiated Programme 1",
+        "code": "GRAP60107",
+        "level": 6
+    },
+    {
+        "name": "Creative Practice in Context",
+        "code": "GRAP60109",
+        "level": 6
+    },
+    {
+        "name": "Consumer Society and the Industrial Revolution",
+        "code": "HIPO40021",
+        "level": 4
+    },
+    {
+        "name": "Modern World History",
+        "code": "HIPO40036",
+        "level": 4
+    },
+    {
+        "name": "History of Political Thought",
+        "code": "HIPO40345",
+        "level": 4
+    },
+    {
+        "name": "World Politics",
+        "code": "HIPO40348",
+        "level": 4
+    },
+    {
+        "name": "The USA and the World from Washington to Bush JR",
+        "code": "HIPO40357",
+        "level": 4
+    },
+    {
+        "name": "Issue in World Politics",
+        "code": "HIPO40427",
+        "level": 4
+    },
+    {
+        "name": "Interrogating the Modern",
+        "code": "HIPO50019",
+        "level": 5
+    },
+    {
+        "name": "Advanced Historical Practice",
+        "code": "HIPO50026",
+        "level": 5
+    },
+    {
+        "name": "Britain and the End of Empire, 1919-1997",
+        "code": "HIPO50027",
+        "level": 5
+    },
+    {
+        "name": "Germany: 1871-1945",
+        "code": "HIPO50037",
+        "level": 5
+    },
+    {
+        "name": "History Work Placement L5",
+        "code": "HIPO50380",
+        "level": 5
+    },
+    {
+        "name": "Women in History",
+        "code": "HIPO50418",
+        "level": 5
+    },
+    {
+        "name": "International Society from Westphalia to the present",
+        "code": "HIPO50430",
+        "level": 5
+    },
+    {
+        "name": "Modern Italy",
+        "code": "HIPO60005",
+        "level": 6
+    },
+    {
+        "name": "Refugees and Immigrants",
+        "code": "HIPO60031",
+        "level": 6
+    },
+    {
+        "name": "Conflict &amp; Journalism",
+        "code": "HIPO60351",
+        "level": 6
+    },
+    {
+        "name": "US Power and the Global Economy",
+        "code": "HIPO60352",
+        "level": 6
+    },
+    {
+        "name": "Modern and International History Dissertation",
+        "code": "HIPO60362",
+        "level": 6
+    },
+    {
+        "name": "Modern History Dissertation",
+        "code": "HIPO60363",
+        "level": 6
+    },
+    {
+        "name": "Governments, Intelligence Agencies C20th",
+        "code": "HIPO60368",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Italy: Mafia, Football &amp; Belusconi c.1945-Present Day",
+        "code": "HIPO60399",
+        "level": 6
+    },
+    {
+        "name": "History Work Placement L6",
+        "code": "HIPO60407",
+        "level": 6
+    },
+    {
+        "name": "Resourcing the Organisation",
+        "code": "HRMG40021Fin",
+        "level": 4
+    },
+    {
+        "name": "Resourcing the Organisations",
+        "code": "HRMG40021HNC",
+        "level": 4
+    },
+    {
+        "name": " Resourcing The Organisation",
+        "code": "HRMG40021HR",
+        "level": 4
+    },
+    {
+        "name": "Resourcing the Organisation",
+        "code": "HRMG40021Ops",
+        "level": 4
+    },
+    {
+        "name": "Resourcing Events &amp; Tourism Organisation",
+        "code": "HRMG40027",
+        "level": 4
+    },
+    {
+        "name": "Designing &amp; Managing Effective Organisations",
+        "code": "HRMG50051",
+        "level": 5
+    },
+    {
+        "name": "The Impact of HR",
+        "code": "HRMG58628",
+        "level": 5
+    },
+    {
+        "name": "Clinical Skills in Nursing",
+        "code": "HSNM50102-4",
+        "level": 5
+    },
+    {
+        "name": "Adult Nursing Practice",
+        "code": "HSNM50103-4",
+        "level": 5
+    },
+    {
+        "name": "Mental Health Nursing Practice",
+        "code": "HSNM50105-4",
+        "level": 5
+    },
+    {
+        "name": "Promoting Women&apos;s Health and Wellbeing",
+        "code": "HSNM50123-5",
+        "level": 5
+    },
+    {
+        "name": "Contemporary Midwifery Practice and Leadership",
+        "code": "HSNM50129-6",
+        "level": 5
+    },
+    {
+        "name": "Promoting Neonatal Health",
+        "code": "HSNM50132-6",
+        "level": 5
+    },
+    {
+        "name": "Return to Practice Programme (Nursing)",
+        "code": "HSNM62111-5/HSNM63155-6",
+        "level": 6
+    },
+    {
+        "name": "Enabling Learning in Nursing Practice (NMC Practice Teacher)",
+        "code": "HSNM63169-6/HSNM58238-7",
+        "level": 6
+    },
+    {
+        "name": "The Application and Removal of Orthopaedic Casts",
+        "code": "HSNM63175-6",
+        "level": 6
+    },
+    {
+        "name": "Assessment and Management of the Acutely Ill",
+        "code": "HSNM63176-6",
+        "level": 6
+    },
+    {
+        "name": "Research Appreciation for Health and Social Care",
+        "code": "HSNM63186-6",
+        "level": 6
+    },
+    {
+        "name": "Communication and Professional Issues for Paramedic Practice",
+        "code": "HSSAP61087-4",
+        "level": 0
+    },
+    {
+        "name": "Introduction to Biological Sciences and Phamacology for Paramedic Practice",
+        "code": "HSSAP61089-4",
+        "level": 0
+    },
+    {
+        "name": "Evidence Based Practice - Paramedic Science",
+        "code": "HSSAP62108-5",
+        "level": 0
+    },
+    {
+        "name": "Applied Anaesthetic Care",
+        "code": "HSSAP63150-6",
+        "level": 0
+    },
+    {
+        "name": "Promoting Excellence in Practice; Building Resilience Families &amp; Communities",
+        "code": "HSSAP73168-4",
+        "level": 0
+    },
+    {
+        "name": "The TRIAD &amp; International Business",
+        "code": "IBUS50006",
+        "level": 5
+    },
+    {
+        "name": "International Culture &amp; Communications",
+        "code": "IBUS50007",
+        "level": 5
+    },
+    {
+        "name": "The Role of Emerging Economies in International Business",
+        "code": "IBUS60011",
+        "level": 6
+    },
+    {
+        "name": "Reporting and Writing (with shorthand)",
+        "code": "JOUR40303",
+        "level": 4
+    },
+    {
+        "name": "Journalism in Practice 1",
+        "code": "JOUR40304",
+        "level": 4
+    },
+    {
+        "name": "Essential Law and Public Affairs for Journalists",
+        "code": "JOUR40305",
+        "level": 4
+    },
+    {
+        "name": "Thinking Journalism",
+        "code": "JOUR40319",
+        "level": 4
+    },
+    {
+        "name": "The British Press",
+        "code": "JOUR40320",
+        "level": 4
+    },
+    {
+        "name": "Broadcast Journalism News Day",
+        "code": "JOUR40327",
+        "level": 4
+    },
+    {
+        "name": "Report and Writing",
+        "code": "JOUR40336",
+        "level": 4
+    },
+    {
+        "name": "Sports Journalism in Practice",
+        "code": "JOUR40339",
+        "level": 4
+    },
+    {
+        "name": "Broadcast Journalism Newsday",
+        "code": "JOUR40371",
+        "level": 4
+    },
+    {
+        "name": "Accredited Shorthand",
+        "code": "JOUR40378",
+        "level": 4
+    },
+    {
+        "name": "Sports Reporting and Commentary",
+        "code": "JOUR40394",
+        "level": 4
+    },
+    {
+        "name": "Law for Journalists 1",
+        "code": "JOUR40408",
+        "level": 4
+    },
+    {
+        "name": "Law and Regulation",
+        "code": "JOUR40438",
+        "level": 4
+    },
+    {
+        "name": "Law and Journalism Studies",
+        "code": "JOUR40442",
+        "level": 4
+    },
+    {
+        "name": "Shorthand",
+        "code": "JOUR40445",
+        "level": 4
+    },
+    {
+        "name": "PR Practices",
+        "code": "JOUR40475",
+        "level": 4
+    },
+    {
+        "name": "Entrepreneurial Journalism",
+        "code": "JOUR50289",
+        "level": 5
+    },
+    {
+        "name": "Behind the Headlines: Journalism Studies",
+        "code": "JOUR50302",
+        "level": 5
+    },
+    {
+        "name": "Reporting Courts and Councils",
+        "code": "JOUR50307",
+        "level": 5
+    },
+    {
+        "name": "Professional Sports Writing",
+        "code": "JOUR50326",
+        "level": 5
+    },
+    {
+        "name": "Politics and Broadcast Journalism",
+        "code": "JOUR50330",
+        "level": 5
+    },
+    {
+        "name": "Magazine Writing an Business Practices",
+        "code": "JOUR50338",
+        "level": 5
+    },
+    {
+        "name": "Shorthand 2",
+        "code": "JOUR50352",
+        "level": 5
+    },
+    {
+        "name": "Professional Sportswriting",
+        "code": "JOUR50357",
+        "level": 5
+    },
+    {
+        "name": "Theory &amp; Practice 3",
+        "code": "JOUR50364",
+        "level": 5
+    },
+    {
+        "name": "Theory &amp; Practice 4",
+        "code": "JOUR50365",
+        "level": 5
+    },
+    {
+        "name": "Review &amp; Lifestyle Journalism:  Practices &amp; Markets",
+        "code": "JOUR50366",
+        "level": 5
+    },
+    {
+        "name": "Editing and Production 1",
+        "code": "JOUR50369",
+        "level": 5
+    },
+    {
+        "name": "Broadcast Journalism Newsday",
+        "code": "JOUR50372",
+        "level": 5
+    },
+    {
+        "name": "Writing Sports Columns (blended)",
+        "code": "JOUR50374",
+        "level": 5
+    },
+    {
+        "name": "Law for Journalists 2 (Court Reporting)",
+        "code": "JOUR50380",
+        "level": 5
+    },
+    {
+        "name": "Video &amp; Audio Journalism",
+        "code": "JOUR50386",
+        "level": 5
+    },
+    {
+        "name": "Public Affairs for Journalists",
+        "code": "JOUR50391",
+        "level": 5
+    },
+    {
+        "name": "Web Based Journalism",
+        "code": "JOUR50393",
+        "level": 5
+    },
+    {
+        "name": "Sports Broadcasting",
+        "code": "JOUR50407",
+        "level": 5
+    },
+    {
+        "name": "Understanding Photojournalism",
+        "code": "JOUR50432",
+        "level": 5
+    },
+    {
+        "name": "Magazine Design, Development and Production",
+        "code": "JOUR50433",
+        "level": 5
+    },
+    {
+        "name": "Screening Journalism",
+        "code": "JOUR50435",
+        "level": 5
+    },
+    {
+        "name": "PR Operations",
+        "code": "JOUR50436",
+        "level": 5
+    },
+    {
+        "name": "Photojournalism: Work Placement",
+        "code": "JOUR50444",
+        "level": 5
+    },
+    {
+        "name": "Entrepreneurial web-based Journalism",
+        "code": "JOUR50466",
+        "level": 5
+    },
+    {
+        "name": "The Review, Lifestyle and Magazine Writing and Business Practices",
+        "code": "JOUR50476",
+        "level": 5
+    },
+    {
+        "name": "Pro PR",
+        "code": "JOUR60324",
+        "level": 6
+    },
+    {
+        "name": "Editing and Production 2",
+        "code": "JOUR60368",
+        "level": 6
+    },
+    {
+        "name": "Broadcast Journalism Newsday",
+        "code": "JOUR60373",
+        "level": 6
+    },
+    {
+        "name": "Sports Broadcasting 2",
+        "code": "JOUR60383",
+        "level": 6
+    },
+    {
+        "name": "Web Based Journalism",
+        "code": "JOUR60390",
+        "level": 6
+    },
+    {
+        "name": "Newsdays",
+        "code": "JOUR60400",
+        "level": 6
+    },
+    {
+        "name": "Career Development",
+        "code": "JOUR60406",
+        "level": 6
+    },
+    {
+        "name": "Shorthand 3",
+        "code": "JOUR60416",
+        "level": 6
+    },
+    {
+        "name": "Shorthand 3 (MA)",
+        "code": "JOUR60416+(MA)",
+        "level": 6
+    },
+    {
+        "name": "Live Music Media",
+        "code": "JOUR60421",
+        "level": 6
+    },
+    {
+        "name": "Broadcast Law &amp; Ethics",
+        "code": "JOUR60437",
+        "level": 6
+    },
+    {
+        "name": "Theory &amp; Practice 2",
+        "code": "JOUR60439",
+        "level": 6
+    },
+    {
+        "name": "Staffs Live Sport",
+        "code": "JOUR60463",
+        "level": 6
+    },
+    {
+        "name": "Understanding Photojournalism",
+        "code": "JOUR60469",
+        "level": 6
+    },
+    {
+        "name": "The Philosophy of Journalism",
+        "code": "JOUR60471",
+        "level": 6
+    },
+    {
+        "name": "Screening Journalism",
+        "code": "JOUR60472",
+        "level": 6
+    },
+    {
+        "name": "Magazine Design, Development &amp; Production",
+        "code": "JOUR60473",
+        "level": 6
+    },
+    {
+        "name": "Sports Broadcast Studies",
+        "code": "JOUR70409",
+        "level": 7
+    },
+    {
+        "name": "Convergent Newsdays",
+        "code": "JOUR70414",
+        "level": 7
+    },
+    {
+        "name": "Legal, Ethical and Regulatory Issues for Journalists",
+        "code": "JOUR70418",
+        "level": 7
+    },
+    {
+        "name": "Journalism Studies",
+        "code": "JOUR70450",
+        "level": 7
+    },
+    {
+        "name": "Government, Politics and Journalism",
+        "code": "JOUR70455",
+        "level": 7
+    },
+    {
+        "name": "Principles of English Law",
+        "code": "LAWS31247",
+        "level": 3
+    },
+    {
+        "name": "Crime in Context",
+        "code": "LAWS31248",
+        "level": 3
+    },
+    {
+        "name": "Law of Obligations",
+        "code": "LAWS31249",
+        "level": 3
+    },
+    {
+        "name": "Legal Methods",
+        "code": "LAWS31250",
+        "level": 3
+    },
+    {
+        "name": "Business Law",
+        "code": "LAWS40078",
+        "level": 4
+    },
+    {
+        "name": "Law of Contract",
+        "code": "LAWS41036",
+        "level": 4
+    },
+    {
+        "name": "Law of Contract Block Teaching",
+        "code": "LAWS41038",
+        "level": 4
+    },
+    {
+        "name": " Criminal Law Block Teaching",
+        "code": "LAWS41098",
+        "level": 4
+    },
+    {
+        "name": "English Legal System &amp; Legal Skills",
+        "code": "LAWS41100",
+        "level": 4
+    },
+    {
+        "name": "Constitutional and Administrative Law",
+        "code": "LAWS41201",
+        "level": 4
+    },
+    {
+        "name": "Criminal Law 4",
+        "code": "LAWS41300",
+        "level": 4
+    },
+    {
+        "name": "Tort (Block Teaching)",
+        "code": "LAWS50589",
+        "level": 5
+    },
+    {
+        "name": "Land Law",
+        "code": "LAWS51195",
+        "level": 5
+    },
+    {
+        "name": "Equity &amp; Trusts (Block Teaching)",
+        "code": "LAWS51204",
+        "level": 5
+    },
+    {
+        "name": "Equity &amp; Trusts",
+        "code": "LAWS51205",
+        "level": 5
+    },
+    {
+        "name": "Business Law with LAWS40078",
+        "code": "LAWS51266",
+        "level": 5
+    },
+    {
+        "name": "Law In Context",
+        "code": "LAWS51269",
+        "level": 5
+    },
+    {
+        "name": "European Union Law Level 5",
+        "code": "LAWS51274",
+        "level": 5
+    },
+    {
+        "name": "Legal Enterprise and Innovation",
+        "code": "LAWS51602",
+        "level": 5
+    },
+    {
+        "name": "Sport &amp; the Individual Block",
+        "code": "LAWS60907",
+        "level": 6
+    },
+    {
+        "name": "Company Law Block",
+        "code": "LAWS61016",
+        "level": 6
+    },
+    {
+        "name": "Commercial Property",
+        "code": "LAWS70650",
+        "level": 7
+    },
+    {
+        "name": "Employment Law",
+        "code": "LAWS70651",
+        "level": 7
+    },
+    {
+        "name": "Private Client Practice",
+        "code": "LAWS70652",
+        "level": 7
+    },
+    {
+        "name": "Wills &amp; Administration of Estates",
+        "code": "LAWS70667",
+        "level": 7
+    },
+    {
+        "name": "Advocacy Skills",
+        "code": "LAWS70668",
+        "level": 7
+    },
+    {
+        "name": "Writing Skills",
+        "code": "LAWS70669",
+        "level": 7
+    },
+    {
+        "name": "Drafting Skills",
+        "code": "LAWS70670",
+        "level": 7
+    },
+    {
+        "name": "Interviewing &amp; Advising",
+        "code": "LAWS70671",
+        "level": 7
+    },
+    {
+        "name": "Business Law &amp; Practice",
+        "code": "LAWS70672",
+        "level": 7
+    },
+    {
+        "name": "LAWS70672  BLP1 Blended Leanring",
+        "code": "LAWS70672+BLP1+Blended+Learning",
+        "level": 7
+    },
+    {
+        "name": "LAWS70672 BLP2 Blended Leanring",
+        "code": "LAWS70672+BLP2+Blended+Learning+(copy)",
+        "level": 7
+    },
+    {
+        "name": "Litigation",
+        "code": "LAWS70673",
+        "level": 7
+    },
+    {
+        "name": "LAWS70673 Litigation Blended Leanring",
+        "code": "LAWS70673+Litigation+Blended+Learning+(copy+2)",
+        "level": 7
+    },
+    {
+        "name": "Solicitors Accounts",
+        "code": "LAWS70674",
+        "level": 7
+    },
+    {
+        "name": "Professional Conduct &amp; Regulation",
+        "code": "LAWS70675",
+        "level": 7
+    },
+    {
+        "name": "Property Law &amp; Practice",
+        "code": "LAWS70676",
+        "level": 7
+    },
+    {
+        "name": "LAWS70676 PLP Blended Leanring",
+        "code": "LAWS70676+PLP+Blended+Learning+(copy)",
+        "level": 7
+    },
+    {
+        "name": "Advanced Criminal Practice",
+        "code": "LAWS70745",
+        "level": 7
+    },
+    {
+        "name": "Advanced Litigation &amp; Dispute Resolution",
+        "code": "LAWS70746",
+        "level": 7
+    },
+    {
+        "name": "Practical Legal Research Skills",
+        "code": "LAWS70786",
+        "level": 7
+    },
+    {
+        "name": "Family Law &amp; Practice",
+        "code": "LAWS70787",
+        "level": 7
+    },
+    {
+        "name": "The Corporate &amp; Commercial Client",
+        "code": "LAWS71013",
+        "level": 7
+    },
+    {
+        "name": "Public Child Law",
+        "code": "LAWS71151",
+        "level": 7
+    },
+    {
+        "name": "Introductory Mathematics",
+        "code": "MATH30367",
+        "level": 3
+    },
+    {
+        "name": "Foundation Quantitative Methods",
+        "code": "MATH30395",
+        "level": 3
+    },
+    {
+        "name": "Applied Mathematical Methods (Taught with MATH50293)",
+        "code": "MATH40294",
+        "level": 4
+    },
+    {
+        "name": "Mathematical Software",
+        "code": "MATH40295/MATH50413",
+        "level": 4
+    },
+    {
+        "name": "Personal and Academic Development",
+        "code": "MATH40298",
+        "level": 4
+    },
+    {
+        "name": "Mathematical Principles",
+        "code": "MATH40309",
+        "level": 4
+    },
+    {
+        "name": "Maths Foundations for Engineers",
+        "code": "MATH40312",
+        "level": 4
+    },
+    {
+        "name": "Balancing Mathematics for Engineering",
+        "code": "MATH40313",
+        "level": 4
+    },
+    {
+        "name": "Quantitative Methods",
+        "code": "MATH40324",
+        "level": 4
+    },
+    {
+        "name": "Applied Mathematics",
+        "code": "MATH40360",
+        "level": 4
+    },
+    {
+        "name": "Maths for Technical Computing",
+        "code": "MATH40384",
+        "level": 4
+    },
+    {
+        "name": "Introductory Statistics and Probability",
+        "code": "MATH40398",
+        "level": 4
+    },
+    {
+        "name": "Quantitative Tools for Computing",
+        "code": "MATH40409",
+        "level": 4
+    },
+    {
+        "name": "Engineering Mathematics with Applications",
+        "code": "MATH50293",
+        "level": 5
+    },
+    {
+        "name": "Modelling and Planning in Business",
+        "code": "MATH50299",
+        "level": 5
+    },
+    {
+        "name": "Mathematical Modelling and Operational Research",
+        "code": "MATH50300",
+        "level": 5
+    },
+    {
+        "name": "Probability and Statistics",
+        "code": "MATH50345",
+        "level": 5
+    },
+    {
+        "name": "Further Mathematics and Algorithmics",
+        "code": "MATH50369",
+        "level": 5
+    },
+    {
+        "name": "Probability Modelling (Stuttgart)",
+        "code": "MATH50380",
+        "level": 5
+    },
+    {
+        "name": "Mathematical Techniques (EPITA)",
+        "code": "MATH50381",
+        "level": 5
+    },
+    {
+        "name": "Questionnaire and Data Analysis (Taught with MATH60383)",
+        "code": "MATH50382",
+        "level": 5
+    },
+    {
+        "name": "Survey Design and Statistical Inference",
+        "code": "MATH50400",
+        "level": 5
+    },
+    {
+        "name": "Deterministic Operational Research Techniques",
+        "code": "MATH50405",
+        "level": 5
+    },
+    {
+        "name": "Maths and Stats Project",
+        "code": "MATH60304",
+        "level": 6
+    },
+    {
+        "name": "Experimental Design and Statistical Modelling",
+        "code": "MATH60310",
+        "level": 6
+    },
+    {
+        "name": "Mathematical Methods and Fluid Mechanics",
+        "code": "MATH60311",
+        "level": 6
+    },
+    {
+        "name": "Simulation Modelling",
+        "code": "MATH60320",
+        "level": 6
+    },
+    {
+        "name": "Spreadsheet Automation with VBA",
+        "code": "MATH60323",
+        "level": 6
+    },
+    {
+        "name": "Vehicle Aerodynamics 2 (Taught with MECH60455)",
+        "code": "MATH60342",
+        "level": 6
+    },
+    {
+        "name": "Survey Design and Analysis (Taught with MATH50382)",
+        "code": "MATH60383",
+        "level": 6
+    },
+    {
+        "name": "Coding &amp; Transformations",
+        "code": "MATH60396",
+        "level": 6
+    },
+    {
+        "name": "Survey Design &amp; Statistical Data Analysis",
+        "code": "MATH70372",
+        "level": 7
+    },
+    {
+        "name": "Mathematical Applications for Engineering",
+        "code": "MATH70380",
+        "level": 7
+    },
+    {
+        "name": "Design and Communication",
+        "code": "MECH30487",
+        "level": 3
+    },
+    {
+        "name": "Principles of Materials",
+        "code": "MECH30502",
+        "level": 3
+    },
+    {
+        "name": "Engineering And Technology  Applications",
+        "code": "MECH30686",
+        "level": 3
+    },
+    {
+        "name": "Design Technologies",
+        "code": "MECH40457",
+        "level": 4
+    },
+    {
+        "name": "Fundamentals of Technology",
+        "code": "MECH40462",
+        "level": 4
+    },
+    {
+        "name": "Introductory Mechanics &amp; Fluids",
+        "code": "MECH40463",
+        "level": 4
+    },
+    {
+        "name": "Thermodynamics",
+        "code": "MECH40471",
+        "level": 4
+    },
+    {
+        "name": "Race Car Design &amp; Preparation",
+        "code": "MECH40538",
+        "level": 4
+    },
+    {
+        "name": "Practical Aviation Studies",
+        "code": "MECH40539",
+        "level": 4
+    },
+    {
+        "name": "Mechanical Fundamentals (Taught with MECH40463 in Semester 1)",
+        "code": "MECH40552",
+        "level": 4
+    },
+    {
+        "name": "Measurements and Design",
+        "code": "MECH40553",
+        "level": 4
+    },
+    {
+        "name": "The Motorsport Industry &amp; Team Logistics",
+        "code": "MECH40572",
+        "level": 4
+    },
+    {
+        "name": "Transport Propulsion Systems",
+        "code": "MECH40630",
+        "level": 4
+    },
+    {
+        "name": "Automotive Engineering Studies (Taught with MECH50447)",
+        "code": "MECH40700",
+        "level": 4
+    },
+    {
+        "name": "Motorsport Studies (Taught with MECH50562 &amp; MECH50575)",
+        "code": "MECH50446",
+        "level": 5
+    },
+    {
+        "name": "Automotive Studies (Taught with MECH50674 Sem 1 &amp; MECH50641 Sem 2)",
+        "code": "MECH50447",
+        "level": 5
+    },
+    {
+        "name": "Mechanics and Materials (Taught with MECH40700 Sem 1 and MECH50642 Sem 2)",
+        "code": "MECH50448",
+        "level": 5
+    },
+    {
+        "name": "Mechanical and Fluid Systems",
+        "code": "MECH50449",
+        "level": 5
+    },
+    {
+        "name": "Engineered Systems",
+        "code": "MECH50450",
+        "level": 5
+    },
+    {
+        "name": "Design Reflection and Analysis (Taught with MECH50534 in Sem 2)",
+        "code": "MECH50451",
+        "level": 5
+    },
+    {
+        "name": "Advanced Design Technologies",
+        "code": "MECH50458",
+        "level": 5
+    },
+    {
+        "name": "Environmental Impact",
+        "code": "MECH50472",
+        "level": 5
+    },
+    {
+        "name": "Flight Technology",
+        "code": "MECH50479",
+        "level": 5
+    },
+    {
+        "name": "Applications of Control",
+        "code": "MECH50481",
+        "level": 5
+    },
+    {
+        "name": "Logistics &amp; Manufacturing Strategy",
+        "code": "MECH50531",
+        "level": 5
+    },
+    {
+        "name": "Design Analysis (Taught with MECH50451)",
+        "code": "MECH50534",
+        "level": 5
+    },
+    {
+        "name": "Mechanical Technology",
+        "code": "MECH50536",
+        "level": 5
+    },
+    {
+        "name": "The Motorsport Industry",
+        "code": "MECH50537",
+        "level": 5
+    },
+    {
+        "name": "Motorsport Physics &amp; Data Acquisition",
+        "code": "MECH50544",
+        "level": 5
+    },
+    {
+        "name": "Vehicle Aerodynamics 1 (Taught with MECH50446)",
+        "code": "MECH50562",
+        "level": 5
+    },
+    {
+        "name": "Aerodynamics (Taught with MECH60455)",
+        "code": "MECH50575",
+        "level": 5
+    },
+    {
+        "name": "CAM &amp; Rapid Prototyping",
+        "code": "MECH50594",
+        "level": 5
+    },
+    {
+        "name": "Using Planning Software to Increase Liability",
+        "code": "MECH50611",
+        "level": 5
+    },
+    {
+        "name": "Crash Investigation &amp; Measurement",
+        "code": "MECH50639",
+        "level": 5
+    },
+    {
+        "name": "Digital Clay",
+        "code": "MECH50640",
+        "level": 5
+    },
+    {
+        "name": "Engine Design 1 (Taught with MECH50447)",
+        "code": "MECH50641",
+        "level": 5
+    },
+    {
+        "name": "Materials for Technologists (Taught with MECH50448)",
+        "code": "MECH50642",
+        "level": 5
+    },
+    {
+        "name": "User Interface Design",
+        "code": "MECH50643",
+        "level": 5
+    },
+    {
+        "name": "Motorsport Work Based Project Portfolio",
+        "code": "MECH50650",
+        "level": 5
+    },
+    {
+        "name": "Transport Technology (Taught with MECH50447)",
+        "code": "MECH50674",
+        "level": 5
+    },
+    {
+        "name": "Introduction to Robots",
+        "code": "MECH50676",
+        "level": 5
+    },
+    {
+        "name": "Business, Innovation And Enterprise in Engineering",
+        "code": "MECH50699",
+        "level": 5
+    },
+    {
+        "name": "Automotive Vehicle Design (Taught with MECH60461)",
+        "code": "MECH50701",
+        "level": 5
+    },
+    {
+        "name": "Mechanical Engineering Design",
+        "code": "MECH50702",
+        "level": 5
+    },
+    {
+        "name": "Systems Engineering",
+        "code": "MECH60366",
+        "level": 6
+    },
+    {
+        "name": "Modern Powerplant Technology",
+        "code": "MECH60452",
+        "level": 6
+    },
+    {
+        "name": "Advanced Engineering Analysis",
+        "code": "MECH60454",
+        "level": 6
+    },
+    {
+        "name": "Advanced Motorsport Studies (Taught with MATH60619 in Sem 1)",
+        "code": "MECH60455",
+        "level": 6
+    },
+    {
+        "name": "Advanced Vehicle Design",
+        "code": "MECH60461",
+        "level": 6
+    },
+    {
+        "name": "Manufacturing Operations",
+        "code": "MECH60465",
+        "level": 6
+    },
+    {
+        "name": "Quality &amp; Systems Engineering",
+        "code": "MECH60466",
+        "level": 6
+    },
+    {
+        "name": "Advanced Flight Technology",
+        "code": "MECH60478",
+        "level": 6
+    },
+    {
+        "name": "Energy Management",
+        "code": "MECH60480",
+        "level": 6
+    },
+    {
+        "name": "Design in Practice and for Presentation",
+        "code": "MECH60490",
+        "level": 6
+    },
+    {
+        "name": "Manufacturing Management",
+        "code": "MECH60566",
+        "level": 6
+    },
+    {
+        "name": "Engineering Team Project",
+        "code": "MECH60567",
+        "level": 6
+    },
+    {
+        "name": "Design for Quality",
+        "code": "MECH60588",
+        "level": 6
+    },
+    {
+        "name": "Forensic Accident Reconstruction",
+        "code": "MECH60617",
+        "level": 6
+    },
+    {
+        "name": "Aerodynamics 2",
+        "code": "MECH60619",
+        "level": 6
+    },
+    {
+        "name": "Intelligent Robotics",
+        "code": "MECH60620",
+        "level": 6
+    },
+    {
+        "name": "Advanced Robotics &amp; Factory Automation",
+        "code": "MECH60621",
+        "level": 6
+    },
+    {
+        "name": "Digital Styling Project",
+        "code": "MECH60622",
+        "level": 6
+    },
+    {
+        "name": "Management Planning &amp; Control of Production",
+        "code": "MECH60623",
+        "level": 6
+    },
+    {
+        "name": "The Professional Technologist",
+        "code": "MECH60658",
+        "level": 6
+    },
+    {
+        "name": "Designing for Presentation, Display &amp; Exhibition (Taught with MECH60490)",
+        "code": "MECH60688",
+        "level": 6
+    },
+    {
+        "name": "Robotic Systems",
+        "code": "MECH60704",
+        "level": 6
+    },
+    {
+        "name": "Project",
+        "code": "MECH60714",
+        "level": 6
+    },
+    {
+        "name": "Unmanned Aerial Vehicles",
+        "code": "MECH60716",
+        "level": 6
+    },
+    {
+        "name": "Aircarft Propulsion Systems",
+        "code": "MECH70378",
+        "level": 7
+    },
+    {
+        "name": "Advanced Aeronautical Principles",
+        "code": "MECH70379",
+        "level": 7
+    },
+    {
+        "name": "Advanced Engineering Materials",
+        "code": "MECH70535",
+        "level": 7
+    },
+    {
+        "name": "Research Methods and Project Management",
+        "code": "MECH70568",
+        "level": 7
+    },
+    {
+        "name": "Advanced Vehicle Aerodynamics",
+        "code": "MECH70577",
+        "level": 7
+    },
+    {
+        "name": "Advanced Vehicle Dynamics",
+        "code": "MECH70578",
+        "level": 7
+    },
+    {
+        "name": "Digital Signal Processing",
+        "code": "MECH70581",
+        "level": 7
+    },
+    {
+        "name": "Applied Structural Integrity",
+        "code": "MECH70590",
+        "level": 7
+    },
+    {
+        "name": "Advanced Engine Design",
+        "code": "MECH70599",
+        "level": 7
+    },
+    {
+        "name": "Sustainable Design &amp; Manufacture",
+        "code": "MECH70610",
+        "level": 7
+    },
+    {
+        "name": "Design Technologies for Masters",
+        "code": "MECH70624",
+        "level": 7
+    },
+    {
+        "name": "Energy Management Studies",
+        "code": "MECH70625",
+        "level": 7
+    },
+    {
+        "name": "Structural Integrity",
+        "code": "MECH70647",
+        "level": 7
+    },
+    {
+        "name": "Engineering Principles For Masters",
+        "code": "MECH70725",
+        "level": 7
+    },
+    {
+        "name": "Studying Film and Media Production",
+        "code": "MEDP40070",
+        "level": 4
+    },
+    {
+        "name": "Crew : Production Process",
+        "code": "MEDP40102",
+        "level": 4
+    },
+    {
+        "name": "Professional Film Practice",
+        "code": "MEDP50072",
+        "level": 5
+    },
+    {
+        "name": "Creativity For Sound And Moving Image",
+        "code": "MEDP50073",
+        "level": 5
+    },
+    {
+        "name": "Individual : Preproduction &amp; Film / Programme Production",
+        "code": "MEDP50108",
+        "level": 5
+    },
+    {
+        "name": "Individual Negotiated Film Project",
+        "code": "MEDP60114",
+        "level": 6
+    },
+    {
+        "name": "Birth and the Midwife",
+        "code": "MIDW40057",
+        "level": 4
+    },
+    {
+        "name": "Developing Skills for Midwifery Practice",
+        "code": "MIDW40058",
+        "level": 4
+    },
+    {
+        "name": "Prenatal Care and the Midwife",
+        "code": "MIDW40059",
+        "level": 4
+    },
+    {
+        "name": "Transition to Parenthood",
+        "code": "MIDW40060",
+        "level": 4
+    },
+    {
+        "name": "Promoting Women&apos;s Health and Wellbeing",
+        "code": "MIDW50061",
+        "level": 5
+    },
+    {
+        "name": "Developing Evidence-based Midwifery Care",
+        "code": "MIDW50062",
+        "level": 5
+    },
+    {
+        "name": "Introduction to Medicine and Surgery",
+        "code": "MIDW50063",
+        "level": 5
+    },
+    {
+        "name": "Partnerships in Practice",
+        "code": "MIDW50064",
+        "level": 5
+    },
+    {
+        "name": "Contemporary Midwifery Practice and Leadership",
+        "code": "MIDW60065",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Midwifery Practice and Leadership",
+        "code": "MIDW60065/MIDW70072",
+        "level": 6
+    },
+    {
+        "name": "Developing Effective Midwifery Practice",
+        "code": "MIDW60066/MIDW70092",
+        "level": 6
+    },
+    {
+        "name": "Introduction to Professional Midwifery",
+        "code": "MIDW60067/MIDW70124",
+        "level": 6
+    },
+    {
+        "name": "Promoting Neonatal Health",
+        "code": "MIDW60068",
+        "level": 6
+    },
+    {
+        "name": "Research Methods and Appraisal for Midwifery Practice",
+        "code": "MIDW60069",
+        "level": 6
+    },
+    {
+        "name": "Neonatal Health and Wellbeing",
+        "code": "MIDW60085/MIDW70071",
+        "level": 6
+    },
+    {
+        "name": "Research Methods &amp; Methodologies for Midwifery Practice",
+        "code": "MIDW60086/MIDW70070",
+        "level": 6
+    },
+    {
+        "name": "Examination of the Neonate",
+        "code": "MIDW60091",
+        "level": 6
+    },
+    {
+        "name": "Developing Effective Midwifery Practice/Introduction To Professional Midwifery/Research Methods And Methodologies For Midwifery Practice",
+        "code": "MIDW70092/70124/70070",
+        "level": 7
+    },
+    {
+        "name": "Introduction to Tourism &amp; Events",
+        "code": "MKTG40249",
+        "level": 4
+    },
+    {
+        "name": "Entrepreneurial Marketing",
+        "code": "MKTG40299",
+        "level": 4
+    },
+    {
+        "name": "Global Marketing in Action",
+        "code": "MKTG50173",
+        "level": 5
+    },
+    {
+        "name": "Managing Mass &amp; Direct Marketing  Communications",
+        "code": "MKTG50174",
+        "level": 5
+    },
+    {
+        "name": "New Media  Marketing",
+        "code": "MKTG50175",
+        "level": 5
+    },
+    {
+        "name": "Principles of Persuasive Copywriting",
+        "code": "MKTG50177",
+        "level": 5
+    },
+    {
+        "name": "Services &amp; Relationship Marketing",
+        "code": "MKTG50178",
+        "level": 5
+    },
+    {
+        "name": "The Business Environment &amp; Marketing Responses",
+        "code": "MKTG50267",
+        "level": 5
+    },
+    {
+        "name": "Marketing Planning for Business",
+        "code": "MKTG60081",
+        "level": 6
+    },
+    {
+        "name": "Applied Business Research",
+        "code": "MKTG60121",
+        "level": 6
+    },
+    {
+        "name": "Global Business Directions",
+        "code": "MKTG60258",
+        "level": 6
+    },
+    {
+        "name": "Marketing Metrics",
+        "code": "MKTG60259",
+        "level": 6
+    },
+    {
+        "name": "International  Tourism Marketing",
+        "code": "MKTG60290",
+        "level": 6
+    },
+    {
+        "name": "Marketing Strategy &amp; Decision Making",
+        "code": "MKTG60292",
+        "level": 6
+    },
+    {
+        "name": "Marketing Research &amp; Information",
+        "code": "MKTG60293",
+        "level": 6
+    },
+    {
+        "name": "Managing Events Communications",
+        "code": "MKTG60297",
+        "level": 6
+    },
+    {
+        "name": "Brand Identities and Communities",
+        "code": "MKTG60301",
+        "level": 6
+    },
+    {
+        "name": "Instrument Technology",
+        "code": "MUSI40128/MUSI40181",
+        "level": 4
+    },
+    {
+        "name": "Music Law",
+        "code": "MUSI40154",
+        "level": 4
+    },
+    {
+        "name": "Audio Visual Technology",
+        "code": "MUSI40182",
+        "level": 4
+    },
+    {
+        "name": "The Music Business",
+        "code": "MUSI40183",
+        "level": 4
+    },
+    {
+        "name": "Audio Processing",
+        "code": "MUSI40188",
+        "level": 4
+    },
+    {
+        "name": "Computer Sound",
+        "code": "MUSI40272",
+        "level": 4
+    },
+    {
+        "name": "Music Media &amp; the Web",
+        "code": "MUSI40300",
+        "level": 4
+    },
+    {
+        "name": "Computer Sound - taught with MUSI40272",
+        "code": "MUSI40344",
+        "level": 4
+    },
+    {
+        "name": "Acoustics in Music Technology",
+        "code": "MUSI50129",
+        "level": 5
+    },
+    {
+        "name": "Studio Technology &amp; Techniques",
+        "code": "MUSI50131",
+        "level": 5
+    },
+    {
+        "name": "Event Management Marketing &amp; Promotion",
+        "code": "MUSI50133",
+        "level": 5
+    },
+    {
+        "name": "Introduction to Film Sound - taught with MUSI50194",
+        "code": "MUSI50146",
+        "level": 5
+    },
+    {
+        "name": "Digital Performance Applications 1 - taught with MUSI50275",
+        "code": "MUSI50148",
+        "level": 5
+    },
+    {
+        "name": "Studio Technology - taught with MUSI50131",
+        "code": "MUSI50163",
+        "level": 5
+    },
+    {
+        "name": "Principles of Acoustics - taught with MUSI50129",
+        "code": "MUSI50191",
+        "level": 5
+    },
+    {
+        "name": "Music Promotion &amp; Marketing - taught with MUSI50133",
+        "code": "MUSI50192",
+        "level": 5
+    },
+    {
+        "name": "Sound Design for Film",
+        "code": "MUSI50194",
+        "level": 5
+    },
+    {
+        "name": "Digital Audio Workstation Production Techniques",
+        "code": "MUSI50195",
+        "level": 5
+    },
+    {
+        "name": "Digital Performance Applications",
+        "code": "MUSI50275",
+        "level": 5
+    },
+    {
+        "name": "Sound Synthesis &amp; MIDI",
+        "code": "MUSI50278",
+        "level": 5
+    },
+    {
+        "name": "Contemporary Composition",
+        "code": "MUSI50370",
+        "level": 5
+    },
+    {
+        "name": "Contemporary Composition - taught with MUSI50370",
+        "code": "MUSI50371",
+        "level": 5
+    },
+    {
+        "name": "Commercial Recording Management",
+        "code": "MUSI60130",
+        "level": 6
+    },
+    {
+        "name": "Audio Visual Composition",
+        "code": "MUSI60138",
+        "level": 6
+    },
+    {
+        "name": "Mixing &amp; Mastering Technology",
+        "code": "MUSI60139",
+        "level": 6
+    },
+    {
+        "name": "Sound Design for Mobile Devices",
+        "code": "MUSI60150",
+        "level": 6
+    },
+    {
+        "name": "Individual Music Technology Project",
+        "code": "MUSI60152",
+        "level": 6
+    },
+    {
+        "name": "Audio for Computer Games",
+        "code": "MUSI60157",
+        "level": 6
+    },
+    {
+        "name": "Mixing &amp; Production Techniques - taught with MUSI60139",
+        "code": "MUSI60193",
+        "level": 6
+    },
+    {
+        "name": "The Music Entrepreneur",
+        "code": "MUSI60197",
+        "level": 6
+    },
+    {
+        "name": "Advanced Pro Tools HD Techniques",
+        "code": "MUSI60279",
+        "level": 6
+    },
+    {
+        "name": "Mastering &amp; Signal Processing in Music",
+        "code": "MUSI70160",
+        "level": 7
+    },
+    {
+        "name": "Creative Music Software Design",
+        "code": "MUSI70169",
+        "level": 7
+    },
+    {
+        "name": "Research Methods for Music Technology",
+        "code": "MUSI70170",
+        "level": 7
+    },
+    {
+        "name": "Interactive Music Performance &amp; Composition",
+        "code": "MUSI70172",
+        "level": 7
+    },
+    {
+        "name": "Applied Acoustics",
+        "code": "MUSI70173",
+        "level": 7
+    },
+    {
+        "name": "Advanced Recording Techniques",
+        "code": "MUSI70174",
+        "level": 7
+    },
+    {
+        "name": "Electronics for Musicians",
+        "code": "MUSI70185",
+        "level": 7
+    },
+    {
+        "name": "Pro Tools for Music Production",
+        "code": "MUSI70325",
+        "level": 7
+    },
+    {
+        "name": "Negotiated Study in Music Technology",
+        "code": "MUSI70334",
+        "level": 7
+    },
+    {
+        "name": "Modern Composition in Context",
+        "code": "MUSI70357",
+        "level": 7
+    },
+    {
+        "name": "Professional Values, Attitudes and Behaviour",
+        "code": "NURS40110",
+        "level": 4
+    },
+    {
+        "name": "Clinical Skills in Nursing",
+        "code": "NURS40111",
+        "level": 4
+    },
+    {
+        "name": "Evidence in Contemporary Health Care",
+        "code": "NURS40385",
+        "level": 4
+    },
+    {
+        "name": "Adult Nursing Practice",
+        "code": "NURS40386",
+        "level": 4
+    },
+    {
+        "name": "Children&apos;s Nursing Practice",
+        "code": "NURS40387",
+        "level": 4
+    },
+    {
+        "name": "Mental Health Nursing Practice",
+        "code": "NURS40388",
+        "level": 4
+    },
+    {
+        "name": "Caring Communication",
+        "code": "NURS40483",
+        "level": 4
+    },
+    {
+        "name": "Healthy Individuals and Society",
+        "code": "NURS40533",
+        "level": 4
+    },
+    {
+        "name": "Behaviour Family Therapy",
+        "code": "NURS40690",
+        "level": 4
+    },
+    {
+        "name": "Evidence Based Nursing Practice Skills",
+        "code": "NURS50112",
+        "level": 5
+    },
+    {
+        "name": "Valuing and Protecting Children",
+        "code": "NURS50113",
+        "level": 5
+    },
+    {
+        "name": "Community Based Care",
+        "code": "NURS50389",
+        "level": 5
+    },
+    {
+        "name": "Care of the Older Person",
+        "code": "NURS50390",
+        "level": 5
+    },
+    {
+        "name": "Developing Adult Nursing Practice",
+        "code": "NURS50397",
+        "level": 5
+    },
+    {
+        "name": "Developing Children&apos;s Nursing Practice",
+        "code": "NURS50398",
+        "level": 5
+    },
+    {
+        "name": "Developing Mental Health Nursing Practice",
+        "code": "NURS50399",
+        "level": 5
+    },
+    {
+        "name": "Customer and Stakeholder Engagement",
+        "code": "NURS50529",
+        "level": 5
+    },
+    {
+        "name": "Return to Practice Programme (Nursing)",
+        "code": "NURS50556/NURS60557",
+        "level": 5
+    },
+    {
+        "name": "Infection Prevention and Control",
+        "code": "NURS50644",
+        "level": 5
+    },
+    {
+        "name": "Medication Management",
+        "code": "NURS50693/NURS60694",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice of District Nursing",
+        "code": "NURS60009",
+        "level": 6
+    },
+    {
+        "name": "Managing Professional Nursing Practice",
+        "code": "NURS60116",
+        "level": 6
+    },
+    {
+        "name": "Principles of Assessment &amp; Management of Patients with Minor Injuries",
+        "code": "NURS60415",
+        "level": 6
+    },
+    {
+        "name": "The Integration of Adult Nursing Care",
+        "code": "NURS60429",
+        "level": 6
+    },
+    {
+        "name": "The Integration of Childrens Nursing Care",
+        "code": "NURS60430",
+        "level": 6
+    },
+    {
+        "name": "The Integration of Mental Health Nursing Care",
+        "code": "NURS60431",
+        "level": 6
+    },
+    {
+        "name": "Mentorship in Health Care Settings",
+        "code": "NURS60509/NURS50369",
+        "level": 6
+    },
+    {
+        "name": "Evidence Based Practice Development",
+        "code": "NURS60522",
+        "level": 6
+    },
+    {
+        "name": "Leadership in Health Studies",
+        "code": "NURS60527",
+        "level": 6
+    },
+    {
+        "name": "Leadership",
+        "code": "NURS60554",
+        "level": 6
+    },
+    {
+        "name": "Tissue Viability",
+        "code": "NURS60566",
+        "level": 6
+    },
+    {
+        "name": "Symptom Management in Advanced Disease",
+        "code": "NURS70641",
+        "level": 7
+    },
+    {
+        "name": "Foundations of Anaesthetic and Recovery Practice",
+        "code": "ODPR40010",
+        "level": 4
+    },
+    {
+        "name": "Foundations of Professional Practice",
+        "code": "ODPR40011",
+        "level": 4
+    },
+    {
+        "name": "Foundations of Biological Sciences and Pharmacology",
+        "code": "ODPR40016",
+        "level": 4
+    },
+    {
+        "name": "Law &amp; Ethics for Surgical Support Practitioners",
+        "code": "ODPR40100",
+        "level": 4
+    },
+    {
+        "name": "Biological Sciences for Surgical Support Practitioners",
+        "code": "ODPR40101",
+        "level": 4
+    },
+    {
+        "name": "Surgical Practice for Surgical Support Practitioners",
+        "code": "ODPR40102",
+        "level": 4
+    },
+    {
+        "name": "Foundations of Surgical Practice",
+        "code": "ODPR40108",
+        "level": 4
+    },
+    {
+        "name": "Applied Anaesthetic and Recovery Practice",
+        "code": "ODPR50012",
+        "level": 5
+    },
+    {
+        "name": "Preparation for Professional Practice",
+        "code": "ODPR50013",
+        "level": 5
+    },
+    {
+        "name": "Applied Surgical Practice",
+        "code": "ODPR50109",
+        "level": 5
+    },
+    {
+        "name": "Enhancing Peri Operative care",
+        "code": "ODPR60014",
+        "level": 6
+    },
+    {
+        "name": "Effective Organisational Purchasing",
+        "code": "OPSM50014",
+        "level": 5
+    },
+    {
+        "name": "Tourism &amp; Events Services Operations Management",
+        "code": "OPSM50015",
+        "level": 5
+    },
+    {
+        "name": "International Supply Chain Management",
+        "code": "OPSM60021",
+        "level": 6
+    },
+    {
+        "name": " Project Management",
+        "code": "OPSM70011",
+        "level": 7
+    },
+    {
+        "name": "Managing Employees through Performance &amp; Reward",
+        "code": "ORGB50197",
+        "level": 5
+    },
+    {
+        "name": "Managing &amp; Co-ordintating the HR Function",
+        "code": "ORGB60306",
+        "level": 6
+    },
+    {
+        "name": "Learning Knowledge &amp;  Performance",
+        "code": "ORGB60353",
+        "level": 6
+    },
+    {
+        "name": "Clinical Osteopathy 1",
+        "code": "OSTE40029",
+        "level": 4
+    },
+    {
+        "name": "REPS 1",
+        "code": "OSTE40035",
+        "level": 4
+    },
+    {
+        "name": "Form &amp; Function",
+        "code": "OSTE40036",
+        "level": 4
+    },
+    {
+        "name": "Introduction to OTP",
+        "code": "OSTE40037",
+        "level": 4
+    },
+    {
+        "name": "Tissue Function &amp; Dysfunction",
+        "code": "OSTE40039",
+        "level": 4
+    },
+    {
+        "name": "Applications of OTP",
+        "code": "OSTE40040",
+        "level": 4
+    },
+    {
+        "name": "Dysfunction &amp; Diease",
+        "code": "OSTE50031",
+        "level": 5
+    },
+    {
+        "name": "Analysis of OTP",
+        "code": "OSTE50032",
+        "level": 5
+    },
+    {
+        "name": "Clinical Osteopathy 2",
+        "code": "OSTE50034",
+        "level": 5
+    },
+    {
+        "name": "REPS 2",
+        "code": "OSTE50038",
+        "level": 5
+    },
+    {
+        "name": "Natural Therapeutics for Osteopaths",
+        "code": "OSTE50042",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice",
+        "code": "OSTE60017",
+        "level": 6
+    },
+    {
+        "name": "Professional Practice",
+        "code": "OSTE60017",
+        "level": 6
+    },
+    {
+        "name": "Reflection of Osteopathy",
+        "code": "OSTE60018",
+        "level": 6
+    },
+    {
+        "name": "REPS 3",
+        "code": "OSTE60020",
+        "level": 6
+    },
+    {
+        "name": "Intergration of OTP",
+        "code": "OSTE60028",
+        "level": 6
+    },
+    {
+        "name": "Clinical Osteopathy 4",
+        "code": "OSTE60030",
+        "level": 6
+    },
+    {
+        "name": "Clinical Osteopathy 3",
+        "code": "OSTE60041",
+        "level": 6
+    },
+    {
+        "name": "Analysis of Dysfunction &amp; Disease",
+        "code": "OSTE60043",
+        "level": 6
+    },
+    {
+        "name": "Clinical Osteopathy 5",
+        "code": "OSTE60044",
+        "level": 6
+    },
+    {
+        "name": "Foundations for Paramedic Practice",
+        "code": "PARA40012",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Clinical Skills for Pararmedic Practice",
+        "code": "PARA40013",
+        "level": 4
+    },
+    {
+        "name": "Clinical Skills for Paramedic Practice",
+        "code": "PARA50014",
+        "level": 5
+    },
+    {
+        "name": "Evidence Based Practice - Paramedic Science",
+        "code": "PARA50015",
+        "level": 5
+    },
+    {
+        "name": "Pathophysiology &amp; Pharmacology for Paramedic Practice",
+        "code": "PARA50016",
+        "level": 5
+    },
+    {
+        "name": "Professional Paramedic Practice",
+        "code": "PARA50017",
+        "level": 5
+    },
+    {
+        "name": "Ancient Philosophical Texts",
+        "code": "PHIL50192",
+        "level": 5
+    },
+    {
+        "name": "The History of Modern Ideas 1",
+        "code": "PHIL50255",
+        "level": 5
+    },
+    {
+        "name": "Recent European Philosophical Texts",
+        "code": "PHIL60197",
+        "level": 6
+    },
+    {
+        "name": "Metaphysics",
+        "code": "PHIL60204",
+        "level": 6
+    },
+    {
+        "name": "Philosophical Ethics",
+        "code": "PHIL60214",
+        "level": 6
+    },
+    {
+        "name": "Professional Studies in Philosophy",
+        "code": "PHIL60249",
+        "level": 6
+    },
+    {
+        "name": "Image Technologies 2",
+        "code": "PHOT40104",
+        "level": 4
+    },
+    {
+        "name": "Visual Communication",
+        "code": "PHOT40106",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Photojournalism",
+        "code": "PHOT40112",
+        "level": 4
+    },
+    {
+        "name": "Image Technologies 1",
+        "code": "PHOT40150",
+        "level": 4
+    },
+    {
+        "name": "The Photographer&apos;s Eye",
+        "code": "PHOT40151",
+        "level": 4
+    },
+    {
+        "name": "Photography: Photographic Practices",
+        "code": "PHOT50105",
+        "level": 5
+    },
+    {
+        "name": "Working with Photographs",
+        "code": "PHOT50107",
+        "level": 5
+    },
+    {
+        "name": "History, Theory and Practice of Photojournalism",
+        "code": "PHOT50109",
+        "level": 5
+    },
+    {
+        "name": "Photography: Environments",
+        "code": "PHOT50143",
+        "level": 5
+    },
+    {
+        "name": "Fashion Photography",
+        "code": "PHOT50144",
+        "level": 5
+    },
+    {
+        "name": "Fine Art Photography",
+        "code": "PHOT50145",
+        "level": 5
+    },
+    {
+        "name": "Photography: Documentary",
+        "code": "PHOT50146",
+        "level": 5
+    },
+    {
+        "name": "Professional Practice",
+        "code": "PHOT50147",
+        "level": 5
+    },
+    {
+        "name": "Inside Photojournalism",
+        "code": "PHOT50149",
+        "level": 5
+    },
+    {
+        "name": "Writing to Pictures",
+        "code": "PHOT60115",
+        "level": 6
+    },
+    {
+        "name": "Dialogues with Photography",
+        "code": "PHOT60128",
+        "level": 6
+    },
+    {
+        "name": "Individual Practice 1",
+        "code": "PHOT60154",
+        "level": 6
+    },
+    {
+        "name": "Individual Practice 2: Consolidations",
+        "code": "PHOT60155",
+        "level": 6
+    },
+    {
+        "name": "Professional Directions",
+        "code": "PHOT60156",
+        "level": 6
+    },
+    {
+        "name": "Photojournalism in Context",
+        "code": "PHOT60157",
+        "level": 6
+    },
+    {
+        "name": "Photography:  Careers and Enterprise",
+        "code": "PHOT60158",
+        "level": 6
+    },
+    {
+        "name": "Introduction to Public Health",
+        "code": "PPDE40239",
+        "level": 4
+    },
+    {
+        "name": "Health Policy and Politics",
+        "code": "PPDE50242",
+        "level": 5
+    },
+    {
+        "name": "Principles of Public Health Epidemiology and Biostatistics",
+        "code": "PPDE50243/PUBL60661",
+        "level": 5
+    },
+    {
+        "name": "Research Methods in Health Studies",
+        "code": "PPDE50262",
+        "level": 5
+    },
+    {
+        "name": "Planning and Managing Change",
+        "code": "PPDE60222",
+        "level": 6
+    },
+    {
+        "name": "Research Appreciation for Health and Social Care",
+        "code": "PPDE60268",
+        "level": 6
+    },
+    {
+        "name": "Introduction to Hypnosis: Underpinning Theory and Principles",
+        "code": "PPDE60286",
+        "level": 6
+    },
+    {
+        "name": "Diploma in Mental Health in Primary Care",
+        "code": "PPDE60696/PPDE60699/PPDE60705",
+        "level": 6
+    },
+    {
+        "name": "Risk, Decision Making and Uncertainty",
+        "code": "PPDE70109-7",
+        "level": 7
+    },
+    {
+        "name": "Digital Design Project",
+        "code": "PROD40088",
+        "level": 4
+    },
+    {
+        "name": "Core Skills for Product Design",
+        "code": "PROD40089",
+        "level": 4
+    },
+    {
+        "name": "Course Introduction",
+        "code": "PROD40092",
+        "level": 4
+    },
+    {
+        "name": "Industrial Design",
+        "code": "PROD40093",
+        "level": 4
+    },
+    {
+        "name": "Design Realisation",
+        "code": "PROD50087",
+        "level": 5
+    },
+    {
+        "name": "Ergonomics and Design",
+        "code": "PROD50090",
+        "level": 5
+    },
+    {
+        "name": "Design Concepts",
+        "code": "PROD50094",
+        "level": 5
+    },
+    {
+        "name": "Automotive Skills",
+        "code": "PROD50095",
+        "level": 5
+    },
+    {
+        "name": "Design Futures for Product &amp; Transport Design",
+        "code": "PROD60091",
+        "level": 6
+    },
+    {
+        "name": "Professional Project",
+        "code": "PROD60096",
+        "level": 6
+    },
+    {
+        "name": "External Brief",
+        "code": "PROD60097",
+        "level": 6
+    },
+    {
+        "name": "Counselling Theory, Ethics &amp; Professional Issues",
+        "code": "PSYC40500/PSYC40501",
+        "level": 4
+    },
+    {
+        "name": "Foundations of Psychology",
+        "code": "PSYC40641",
+        "level": 4
+    },
+    {
+        "name": "Perspectives in Psychology",
+        "code": "PSYC40642",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Research Methods",
+        "code": "PSYC40643",
+        "level": 4
+    },
+    {
+        "name": "Growing and Changing",
+        "code": "PSYC40644",
+        "level": 4
+    },
+    {
+        "name": "Comparative Basis of Behaviour",
+        "code": "PSYC40645",
+        "level": 4
+    },
+    {
+        "name": "People Behaving Badly",
+        "code": "PSYC40646",
+        "level": 4
+    },
+    {
+        "name": "Core Counselling Skills",
+        "code": "PSYC40660",
+        "level": 4
+    },
+    {
+        "name": "Cognitive and Biological Determinants of Behaviour",
+        "code": "PSYC50672",
+        "level": 5
+    },
+    {
+        "name": "Understanding The Social World",
+        "code": "PSYC50673",
+        "level": 5
+    },
+    {
+        "name": "Childhood Context and Applications/Childhood Context",
+        "code": "PSYC50674/PSYC50679",
+        "level": 5
+    },
+    {
+        "name": "Contemporary Issues in Psychology",
+        "code": "PSYC50675",
+        "level": 5
+    },
+    {
+        "name": "Psychology of Crime and Criminal Justice",
+        "code": "PSYC50676/PSYC50677",
+        "level": 5
+    },
+    {
+        "name": "Counselling Theory, Ethics &amp; Personal Development",
+        "code": "PSYC50678",
+        "level": 5
+    },
+    {
+        "name": "Research Assistantship Module",
+        "code": "PSYC50680",
+        "level": 5
+    },
+    {
+        "name": "Further Research Methods",
+        "code": "PSYC50684",
+        "level": 5
+    },
+    {
+        "name": "Psychotherapueutic Counselling",
+        "code": "PSYC60502",
+        "level": 6
+    },
+    {
+        "name": "From Theory to Practice",
+        "code": "PSYC60528",
+        "level": 6
+    },
+    {
+        "name": "Psychology Project",
+        "code": "PSYC60541",
+        "level": 6
+    },
+    {
+        "name": "Psychology in The Justice System",
+        "code": "PSYC60546",
+        "level": 6
+    },
+    {
+        "name": "Personal Development and Skills in Counselling",
+        "code": "PSYC60558",
+        "level": 6
+    },
+    {
+        "name": "Development Psychology",
+        "code": "PSYC60573",
+        "level": 6
+    },
+    {
+        "name": "Theoretical &amp; Professional Perspectives in Counselling",
+        "code": "PSYC60613",
+        "level": 6
+    },
+    {
+        "name": "Dealing with Difference",
+        "code": "PSYC60615",
+        "level": 6
+    },
+    {
+        "name": "Forensic Psychology Applications",
+        "code": "PSYC60622",
+        "level": 6
+    },
+    {
+        "name": "Issues in Infancy",
+        "code": "PSYC60625",
+        "level": 6
+    },
+    {
+        "name": "Behavioural Medicine to Autism Spectrum Conditions",
+        "code": "PSYC60647",
+        "level": 6
+    },
+    {
+        "name": "Psychological Interventions",
+        "code": "PSYC60648",
+        "level": 6
+    },
+    {
+        "name": "Neurological Disorders",
+        "code": "PSYC60650",
+        "level": 6
+    },
+    {
+        "name": "Children and  Pictures",
+        "code": "PSYC60652",
+        "level": 6
+    },
+    {
+        "name": "Health Psychology",
+        "code": "PSYC60653",
+        "level": 6
+    },
+    {
+        "name": "Advanced Research Methods",
+        "code": "PSYC60654",
+        "level": 6
+    },
+    {
+        "name": "Theory, Research and Professional Issues in Counselling 1",
+        "code": "PSYC70509",
+        "level": 7
+    },
+    {
+        "name": "MSc Psychology Counselling Courses",
+        "code": "PSYC70534/PSYC70535",
+        "level": 7
+    },
+    {
+        "name": "Placement 1",
+        "code": "PSYC70542",
+        "level": 7
+    },
+    {
+        "name": "Psychological Models 1",
+        "code": "PSYC70552",
+        "level": 7
+    },
+    {
+        "name": "Personal &amp; Professional Issues 1",
+        "code": "PSYC70572",
+        "level": 7
+    },
+    {
+        "name": "Research Methods for Clinical Psychology",
+        "code": "PSYC70575",
+        "level": 7
+    },
+    {
+        "name": "Society &amp; Context1",
+        "code": "PSYC70600",
+        "level": 7
+    },
+    {
+        "name": "Health Psychology Core Issues",
+        "code": "PSYC70690",
+        "level": 7
+    },
+    {
+        "name": "Communication Issues in Health Care etc",
+        "code": "PSYC70691/PSYC70689/PSYC70692/PSYC70690",
+        "level": 7
+    },
+    {
+        "name": "Psychological Research Methods",
+        "code": "PSYC70693",
+        "level": 7
+    },
+    {
+        "name": "Placement 2",
+        "code": "PSYC80530",
+        "level": 8
+    },
+    {
+        "name": "Personal &amp; Professional Issues 2",
+        "code": "PSYC80576",
+        "level": 8
+    },
+    {
+        "name": "Psychological Models 2",
+        "code": "PSYC80587",
+        "level": 8
+    },
+    {
+        "name": "Society &amp; Context 2",
+        "code": "PSYC80588",
+        "level": 8
+    },
+    {
+        "name": "Assessing Psychological Prosesses",
+        "code": "PSYC80631",
+        "level": 8
+    },
+    {
+        "name": "Developing Skills in Higher Education",
+        "code": "PUBL40011",
+        "level": 4
+    },
+    {
+        "name": "Physical Activity, Exercise and Health",
+        "code": "PUBL40076",
+        "level": 4
+    },
+    {
+        "name": "Professional Issues in Health Studies",
+        "code": "PUBL50075",
+        "level": 5
+    },
+    {
+        "name": "Transcultural Health Issues",
+        "code": "PUBL60070",
+        "level": 6
+    },
+    {
+        "name": "Health Studies Project",
+        "code": "PUBL60659",
+        "level": 6
+    },
+    {
+        "name": "Introduction to Social Policy",
+        "code": "SOCY40263",
+        "level": 4
+    },
+    {
+        "name": "Studying Social Life",
+        "code": "SOCY40314",
+        "level": 4
+    },
+    {
+        "name": "The Sociology of Policy and Problems",
+        "code": "SOCY40315",
+        "level": 4
+    },
+    {
+        "name": "Surveillance and Security",
+        "code": "SOCY40320",
+        "level": 4
+    },
+    {
+        "name": "Big Brother is Watching You: Security and Surveillance",
+        "code": "SOCY40323",
+        "level": 4
+    },
+    {
+        "name": "Living in Society 1",
+        "code": "SOCY40328",
+        "level": 4
+    },
+    {
+        "name": "Crime, Deviance and Punishment 1",
+        "code": "SOCY40345",
+        "level": 4
+    },
+    {
+        "name": "Crime &amp; Deviance 1 (Crime, Deviance and Punishment)",
+        "code": "SOCY40350",
+        "level": 4
+    },
+    {
+        "name": "Studying Other Cultures",
+        "code": "SOCY40377",
+        "level": 4
+    },
+    {
+        "name": "Contemporary Social Problems",
+        "code": "SOCY40386",
+        "level": 4
+    },
+    {
+        "name": "Sociological Theory and Practice",
+        "code": "SOCY40389",
+        "level": 4
+    },
+    {
+        "name": "Researching Social Life",
+        "code": "SOCY50317",
+        "level": 5
+    },
+    {
+        "name": "Equality and Diversity",
+        "code": "SOCY50318",
+        "level": 5
+    },
+    {
+        "name": "An Anthropology of Evil:  Deviance, Conformity, Morality &amp; Responsibility",
+        "code": "SOCY50344",
+        "level": 5
+    },
+    {
+        "name": "Commercial Sex Ind 1: Prostitution",
+        "code": "SOCY50352",
+        "level": 5
+    },
+    {
+        "name": "Equality Matters",
+        "code": "SOCY50356",
+        "level": 5
+    },
+    {
+        "name": "Equality Matters: Issues for a Diverse Population",
+        "code": "SOCY50357",
+        "level": 5
+    },
+    {
+        "name": "An Anthrapology of Evil: Deviance, Conformity, Morality &amp; Responsibility",
+        "code": "SOCY50366",
+        "level": 5
+    },
+    {
+        "name": "Transforming the Self and Society:  Humanity and Community",
+        "code": "SOCY50368",
+        "level": 5
+    },
+    {
+        "name": "Terrorism and Crime",
+        "code": "SOCY50391",
+        "level": 5
+    },
+    {
+        "name": "Sociological Theory and Practice 2",
+        "code": "SOCY50410",
+        "level": 5
+    },
+    {
+        "name": "Forensic Anthropology:  Criminal Investigations &amp; Police Work",
+        "code": "SOCY60339",
+        "level": 6
+    },
+    {
+        "name": "Doing Drugs: Policing Illegal Drug Use",
+        "code": "SOCY60341",
+        "level": 6
+    },
+    {
+        "name": "Commercial Sex Industry: Pornography",
+        "code": "SOCY60360",
+        "level": 6
+    },
+    {
+        "name": "Transnational Organised Crime",
+        "code": "SOCY60370",
+        "level": 6
+    },
+    {
+        "name": "Commericial Sex Industry - Prostitution",
+        "code": "SOCY60381",
+        "level": 6
+    },
+    {
+        "name": "The War on Terror Explained",
+        "code": "SOCY60396",
+        "level": 6
+    },
+    {
+        "name": "Professional Practice Placement",
+        "code": "SOCY60401",
+        "level": 6
+    },
+    {
+        "name": "Global Sociology",
+        "code": "SOCY60406",
+        "level": 6
+    },
+    {
+        "name": "The Life Course",
+        "code": "SOCY60407",
+        "level": 6
+    },
+    {
+        "name": "Global Crime",
+        "code": "SOCY60408",
+        "level": 6
+    },
+    {
+        "name": "Values and Ethics and Multidimensional Diversity",
+        "code": "SOWK40115",
+        "level": 4
+    },
+    {
+        "name": "Readiness for Supervised Practice - Portfolio",
+        "code": "SOWK40303",
+        "level": 4
+    },
+    {
+        "name": "An Introduction to Social Work Theory &amp; Knowledge",
+        "code": "SOWK40305",
+        "level": 4
+    },
+    {
+        "name": "Rights, Justice and Equality",
+        "code": "SOWK40306",
+        "level": 4
+    },
+    {
+        "name": "Relationship Based Practice",
+        "code": "SOWK40307",
+        "level": 4
+    },
+    {
+        "name": "An Introduction to Study Skills for Socail Work &amp; Social Care",
+        "code": "SOWK40331",
+        "level": 4
+    },
+    {
+        "name": "Social Work Practice Learning 1",
+        "code": "SOWK50119",
+        "level": 5
+    },
+    {
+        "name": "Working with and Safeguarding Children  at Risk",
+        "code": "SOWK50320",
+        "level": 5
+    },
+    {
+        "name": "Working with and Safeguarding Adults at Risk",
+        "code": "SOWK50321",
+        "level": 5
+    },
+    {
+        "name": "Lifespan, Human Growth and Development",
+        "code": "SOWK50322",
+        "level": 5
+    },
+    {
+        "name": "Practice Learning  (Social Work Level 6)",
+        "code": "SOWK60227",
+        "level": 6
+    },
+    {
+        "name": "Research Mindedness",
+        "code": "SOWK60244",
+        "level": 6
+    },
+    {
+        "name": "Current Themes and Issues: A Critical Appraisal of Practicel",
+        "code": "SOWK60249",
+        "level": 6
+    },
+    {
+        "name": "Social Work: Understanding Organisations &amp; Interprofessional Practice",
+        "code": "SOWK60273",
+        "level": 6
+    },
+    {
+        "name": "Modern Social Policy",
+        "code": "SOWK60296",
+        "level": 6
+    },
+    {
+        "name": "Reflections on Postgraduate Social Work Practice",
+        "code": "SOWK60308",
+        "level": 6
+    },
+    {
+        "name": "Enabling Learning in Practice Settings",
+        "code": "SOWK70298",
+        "level": 7
+    },
+    {
+        "name": "Educator in Social Work Practice (stage II)",
+        "code": "SOWK70299",
+        "level": 7
+    },
+    {
+        "name": "Leadership and Management in Social Work",
+        "code": "SOWK70300",
+        "level": 7
+    },
+    {
+        "name": "The Professional Self",
+        "code": "SOWK70301",
+        "level": 7
+    },
+    {
+        "name": "Advanced Social Work Practice",
+        "code": "SOWK70302",
+        "level": 7
+    },
+    {
+        "name": "Social Work with Vulnerable People",
+        "code": "SOWK70309",
+        "level": 7
+    },
+    {
+        "name": " Law Informed Social WorkPractice",
+        "code": "SOWK70310",
+        "level": 7
+    },
+    {
+        "name": "The Lifecourse Journey",
+        "code": "SOWK70311",
+        "level": 7
+    },
+    {
+        "name": "Critical Reflective Practioner in Context",
+        "code": "SOWK70315",
+        "level": 7
+    },
+    {
+        "name": "Risk Assessment In Management Social Work Practice",
+        "code": "SOWK70316",
+        "level": 7
+    },
+    {
+        "name": "Supporting Professional SW Practice/Assessing Professional Practice in SW",
+        "code": "SOWK70327/SOWK70328",
+        "level": 7
+    },
+    {
+        "name": "The Role of Sports Science in Understanding Sports Performance",
+        "code": "SPOR30736",
+        "level": 3
+    },
+    {
+        "name": "Coaching &amp; Teaching in Sport (Invasion Games &amp; Individual Sports)",
+        "code": "SPOR40500/SPOR40793",
+        "level": 4
+    },
+    {
+        "name": "Rehabilitation Tools &amp; Sports Massage",
+        "code": "SPOR40696",
+        "level": 4
+    },
+    {
+        "name": "Foundation of Sports Therapy",
+        "code": "SPOR40697",
+        "level": 4
+    },
+    {
+        "name": "Developing Research Skills",
+        "code": "SPOR40700/SPOR40795",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Sport Management &amp; UK Sport Policy",
+        "code": "SPOR40719",
+        "level": 4
+    },
+    {
+        "name": "Sport &amp; Culture in Global Context",
+        "code": "SPOR40738",
+        "level": 4
+    },
+    {
+        "name": "Strength &amp; Conditioning I",
+        "code": "SPOR40746",
+        "level": 4
+    },
+    {
+        "name": "Screening &amp; Assessment",
+        "code": "SPOR40747",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Phys. Biomechanic &amp; Nutrition",
+        "code": "SPOR40792/SPOR40745",
+        "level": 4
+    },
+    {
+        "name": "Introduction to Psych of Sport Exercise &amp; Phys Activity",
+        "code": "SPOR40796",
+        "level": 4
+    },
+    {
+        "name": "Teaching &amp; Coaching PE Nat Curric Activities",
+        "code": "SPOR40797",
+        "level": 4
+    },
+    {
+        "name": "Advanced Sport &amp; Exercise Psychology",
+        "code": "SPOR50511",
+        "level": 5
+    },
+    {
+        "name": "Sports Injury Assessment Treatment &amp; Rehab (lower) &amp; Upper",
+        "code": "SPOR50694/SPOR50695",
+        "level": 5
+    },
+    {
+        "name": "Marketing &amp; Sports Policy",
+        "code": "SPOR50720",
+        "level": 5
+    },
+    {
+        "name": "Social Cultural &amp; Historical Aspects of Sport",
+        "code": "SPOR50721",
+        "level": 5
+    },
+    {
+        "name": "Research &amp; Graduate Employability in Sport &amp; Exercise",
+        "code": "SPOR50723/SPOR50783",
+        "level": 5
+    },
+    {
+        "name": "Physiological Assessment &amp; Intervention",
+        "code": "SPOR50725",
+        "level": 5
+    },
+    {
+        "name": "Placement (Strength &amp; Conditioning)",
+        "code": "SPOR50748",
+        "level": 5
+    },
+    {
+        "name": "Periodisation &amp; Performance Lifestyle",
+        "code": "SPOR50749",
+        "level": 5
+    },
+    {
+        "name": "Biomechanics &amp; Kinesiology",
+        "code": "SPOR50782/SPOR50781",
+        "level": 5
+    },
+    {
+        "name": "Acquisition, Anaylyis &amp; Coaching of Sports Skills",
+        "code": "SPOR50798",
+        "level": 5
+    },
+    {
+        "name": "P E &amp; Youth Sport Theory, Practice &amp; Placement",
+        "code": "SPOR50799",
+        "level": 5
+    },
+    {
+        "name": "Personal &amp; Professional Development",
+        "code": "SPOR60520/SPOR60541",
+        "level": 6
+    },
+    {
+        "name": "Applied Biomechanics &amp; Kinesiology",
+        "code": "SPOR60521",
+        "level": 6
+    },
+    {
+        "name": "Sport &amp; Exercise Physiology for Health &amp; Fitness",
+        "code": "SPOR60522",
+        "level": 6
+    },
+    {
+        "name": "Sports Nutrition",
+        "code": "SPOR60523",
+        "level": 6
+    },
+    {
+        "name": "Business Enterprise &amp; Entrepreneuship",
+        "code": "SPOR60524",
+        "level": 6
+    },
+    {
+        "name": "Peripheral &amp; Vertebral Mobs",
+        "code": "SPOR60526",
+        "level": 6
+    },
+    {
+        "name": "Sports Therapy Practice",
+        "code": "SPOR60527",
+        "level": 6
+    },
+    {
+        "name": "Prof. Practice in Sports Therapy",
+        "code": "SPOR60528",
+        "level": 6
+    },
+    {
+        "name": "UK &amp; Global Sport",
+        "code": "SPOR60529",
+        "level": 6
+    },
+    {
+        "name": "Football Culture",
+        "code": "SPOR60530",
+        "level": 6
+    },
+    {
+        "name": "Celebrity Culture",
+        "code": "SPOR60531",
+        "level": 6
+    },
+    {
+        "name": "Personal &amp; Professional Development",
+        "code": "SPOR60532",
+        "level": 6
+    },
+    {
+        "name": "Inspiring Learning; PE Pedagogy",
+        "code": "SPOR60533",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Issues in Sport Coaching",
+        "code": "SPOR60534",
+        "level": 6
+    },
+    {
+        "name": "Children in Sport &amp; PE",
+        "code": "SPOR60535",
+        "level": 6
+    },
+    {
+        "name": "Fitness Instruction",
+        "code": "SPOR60536",
+        "level": 6
+    },
+    {
+        "name": "Drugs in Sport",
+        "code": "SPOR60537",
+        "level": 6
+    },
+    {
+        "name": "Psychology of Sport &amp; Competitive Performance",
+        "code": "SPOR60803",
+        "level": 6
+    },
+    {
+        "name": "Tissue Stress",
+        "code": "SPOR70756",
+        "level": 7
+    },
+    {
+        "name": "Podiatric Biomechanics",
+        "code": "SPOR70758",
+        "level": 7
+    },
+    {
+        "name": "Origins &amp; Principles of Podiatric Biomechanics",
+        "code": "SPOR70759",
+        "level": 7
+    },
+    {
+        "name": "Critical Appraisal Skills",
+        "code": "SPOR70760",
+        "level": 7
+    },
+    {
+        "name": "Gait Analysis",
+        "code": "SPOR70766",
+        "level": 7
+    },
+    {
+        "name": " Mechanics of the Diabetic Foot",
+        "code": "SPOR70767",
+        "level": 7
+    },
+    {
+        "name": "Spinal Mechanics",
+        "code": "SPOR70768",
+        "level": 7
+    },
+    {
+        "name": "Sports Biomechanics in Injury",
+        "code": "SPOR70769",
+        "level": 7
+    },
+    {
+        "name": "Therapies using Biomechanical Principles",
+        "code": "SPOR70776",
+        "level": 7
+    },
+    {
+        "name": "Research Methods",
+        "code": "SPOR70779",
+        "level": 7
+    },
+    {
+        "name": "Strategic Management in Organisations",
+        "code": "STRA60072",
+        "level": 6
+    },
+    {
+        "name": "Work Experience",
+        "code": "STRA60112",
+        "level": 6
+    },
+    {
+        "name": "Decorative Design Revisited",
+        "code": "SUPA40070",
+        "level": 4
+    },
+    {
+        "name": "Surface Pattern Design Course Introduction",
+        "code": "SUPA40071",
+        "level": 4
+    },
+    {
+        "name": "Visual Studies",
+        "code": "SUPA40073",
+        "level": 4
+    },
+    {
+        "name": "Colour in Design",
+        "code": "SUPA40076",
+        "level": 4
+    },
+    {
+        "name": "The New Artisan",
+        "code": "SUPA40077",
+        "level": 4
+    },
+    {
+        "name": "Commercial Opportunity",
+        "code": "SUPA50078",
+        "level": 5
+    },
+    {
+        "name": "The Stitched Surface",
+        "code": "SUPA50099",
+        "level": 5
+    },
+    {
+        "name": "Printed Textiles",
+        "code": "SUPA50104",
+        "level": 5
+    },
+    {
+        "name": "Advanced Programme of Study for Surface Pattern",
+        "code": "SUPA60100",
+        "level": 6
+    },
+    {
+        "name": "Design Futures for Textile Surfaces",
+        "code": "SUPA60107",
+        "level": 6
+    },
+    {
+        "name": "Tourist Destinations,  Leisure &amp; Culture",
+        "code": "TOUR50024",
+        "level": 5
+    },
+    {
+        "name": "Fundraising for Events Management",
+        "code": "TOUR50118",
+        "level": 5
+    },
+    {
+        "name": "New  Marketing in Tourism &amp; Events",
+        "code": "TOUR50176",
+        "level": 5
+    },
+    {
+        "name": "Touriism: Theories &amp; Perspectives",
+        "code": "TOUR50177",
+        "level": 5
+    },
+    {
+        "name": "Planning &amp; Staging Events",
+        "code": "TOUR60018",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Issues in Tourism &amp; Events(withTOUR60026)",
+        "code": "TOUR60025",
+        "level": 6
+    },
+    {
+        "name": "Contemporary Issues in Tourism &amp; Events(withTOUR60025)",
+        "code": "TOUR60026",
+        "level": 6
+    },
+    {
+        "name": "Events Management Project",
+        "code": "TOUR60105",
+        "level": 6
+    },
+    {
+        "name": "Tourism in Action",
+        "code": "TOUR60110",
+        "level": 6
+    }
+]

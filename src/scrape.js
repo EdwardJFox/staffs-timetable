@@ -10,6 +10,7 @@ var ModuleObj = require('./moduleobj');
 var Lesson = require('./lesson');
 var app = express();
 var data = [];
+var moduleData = [];
 var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/;
 var modNameRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/g;
 
@@ -178,7 +179,20 @@ async.series([
 	},
 	function(callback){
 		fs.writeFile('timetable.json', JSON.stringify(data, null, 4), function(err){
-			console.log('File successfully written! - Check your project directory for the timetable.json file');
+			console.log('Timetable file successfully written! - Check your project directory for the timetable.json file');
+		});
+		callback();
+	},
+	function(callback){
+		for(var i = 0; i < data.length; i++){
+			moduleData.push({
+				name : data[i].moduleName,
+				code : data[i].moduleCode,
+				level : data[i].level
+			});
+		}
+		fs.writeFile('modules.json', JSON.stringify(moduleData, null, 4), function(err){
+			console.log('Module file successfully written! - Check your project directory for the modules.json file');
 		});
 		callback();
 	}
