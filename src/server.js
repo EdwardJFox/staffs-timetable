@@ -12,7 +12,7 @@ var ModuleObj = require('./moduleobj');
 var Lesson = require('./lesson');
 var timetable = require('./api_timetable');
 var app = express();
-var FCETdata = JSON.parse(fs.readFileSync('./output.json', 'utf8'));
+var timeData = JSON.parse(fs.readFileSync('./timetable.json', 'utf8'));
 
 //app.set('json spaces', 4);
 //app.locals.pretty = true;
@@ -21,7 +21,7 @@ app.get('/timetable'), function(req, res){
 
 };
 app.get(/\/timetable\/(?:([\w|\/|\?|\=]+))\//, function(req, res){
-	timetable.response(req, res, moment, FCETdata);
+	timetable.response(req, res, moment, timeData);
 });
 
 app.listen(process.env.PORT || 5000);

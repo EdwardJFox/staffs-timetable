@@ -11,25 +11,22 @@ var Lesson = require('./lesson');
 var app = express();
 var data = [];
 var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/;
+var modNameRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/g;
 
 async.series([
 	function(callback){
 		var url = "http://crwnmis3.staffs.ac.uk/modules.htm";
 		request(url, function(error, response, html){
 			if(!error){
-				var n = 0;
 				var $ = cheerio.load(html);
 				$('select[name="identifier"] > option').each(function (i, row){
 					//Replace all the new line charactes with nothing, and replace spaces with +
 					var moduleCode = $(row).text().replace(/(\r\n|\n|\r)/gm,"").split(' ').join('+');
 					if(modRegex.test(moduleCode)){
-						console.log(moduleCode);
-						n++;
-						tempModule = new ModuleObj(moduleCode, moduleCode.charAt(4));
+						tempModule = new ModuleObj(moduleCode);
 						data.push(tempModule);
 					}
 				});
-				console.log("There are currently " + n + " modules at Staffordshire University");
 				callback();
 			}
 			else {
@@ -143,9 +140,55 @@ async.series([
 			}
 		}
 	},
+	//It's become necesary to go through the list, and for each of the "taught with" modules, copy and paste the
+	//lessons over to the one which doesn't have the modules in it
 	function(callback){
-		fs.writeFile('output.json', JSON.stringify(data, null, 4), function(err){
-			console.log('File successfully written! - Check your project directory for the output.json file');
-		})
+		for(var i = data.length-1; i >= 0; i--) {
+			if (data[i].moduleName == null) {
+				data.splice(i, 1);
+			}
+		}
+		for(var i = 0; i < data.length; i++) {
+			//You'll notice taught is missing a t, this is due to the fact there is a misspelling somewhere in the
+			//Uni's system itself
+			try {
+				var tempModName = data[i].moduleName;
+				if (tempModName.indexOf("with") > -1){
+					if(modRegex.test(tempModName)){
+						var temp;
+						while(temp = modNameRegex.exec(tempModName)){
+							var index = findModuleIndex(temp[0]);
+							if(index >= 0 ){
+								if(data[index].lessons.length == 0){
+									data[index].lessons = data[i].lessons.slice(0);
+								}
+								else if(data[i].lessons.length == 0){
+									data[i].lessons = data[index].lessons.slice(0);
+								}
+							}
+						}
+					}
+				}
+			}
+			catch (err) {
+				console.log(err);
+			}
+		}
+		callback();
+	},
+	function(callback){
+		fs.writeFile('timetable.json', JSON.stringify(data, null, 4), function(err){
+			console.log('File successfully written! - Check your project directory for the timetable.json file');
+		});
+		callback();
 	}
 ]);
+
+function findModuleIndex(moduleCode){
+	for(var i = 0; i < data.length; i++){
+		if(data[i].moduleCode == moduleCode){
+			return i;
+		}
+	}
+	return -1;
+}

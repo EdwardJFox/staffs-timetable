@@ -1,9 +1,9 @@
 // Constructor
-function ModuleObj(moduleCode, level) {
+function ModuleObj(moduleCode) {
 	// always initialize all instance properties
 	this.moduleName = "";
 	this.moduleCode = moduleCode;
-	this.level = level;
+	this.level = moduleCode.charAt(4);
 	this.lessons = [];
 }
 // class methods
