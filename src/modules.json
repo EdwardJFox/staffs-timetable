@@ -4235,7 +4235,7 @@
         "level": 3
     },
     {
-        "name": "Design Technologies",
+        "name": "Design Technologies (Taught with MECH40526)",
         "code": "MECH40457",
         "level": 4
     },
@@ -4252,6 +4252,11 @@
     {
         "name": "Thermodynamics",
         "code": "MECH40471",
+        "level": 4
+    },
+    {
+        "name": "Design Technologies -  Surface Modelling (Taught with MECH40457)",
+        "code": "MECH40526",
         "level": 4
     },
     {
@@ -4320,7 +4325,7 @@
         "level": 5
     },
     {
-        "name": "Advanced Design Technologies",
+        "name": "Advanced Design Technologies (Taught with MECH50597)",
         "code": "MECH50458",
         "level": 5
     },
@@ -4377,6 +4382,11 @@
     {
         "name": "CAM &amp; Rapid Prototyping",
         "code": "MECH50594",
+        "level": 5
+    },
+    {
+        "name": "Advanced Design Technologies  (Surface) (Taught with MECH50458)",
+        "code": "MECH50597",
         "level": 5
     },
     {

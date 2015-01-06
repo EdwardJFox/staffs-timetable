@@ -13,6 +13,7 @@ var data = [];
 var moduleData = [];
 var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/;
 var modNameRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/g;
+var lessonTypeRegex = /(([A-Z]|[a-z]){2,4}\d{5}-\d)/g;
 
 async.series([
 	function(callback){
@@ -46,7 +47,8 @@ async.series([
 		function scrapeTimes(i){
 			if(i < data.length){
 				//modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=" + week + "&days=1-5&periods=5-53";
-				modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=8-43&days=1-5&periods=5-53";
+				modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=7-23&days=1-5&periods=5-53";
+				//modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;COSE40577?&template=ModuleText2&weeks=7-23&days=1-5&periods=5-53";
 				console.log("i is currently " + i + " and length of data is " + data.length);
 				request(modUrl, function(err, response, html){
 					if( err ) {
@@ -67,17 +69,35 @@ async.series([
 										gIndex = 2;
 									}
 									else {
-										type = groups[gIndex];
+										type = 'undefined';
 									}
 								}
-								group = "";
-								if (type == "Prac" || type == "Tut" || type == "Lec") {
+								else if(lessonTypeRegex.test(groups[1])){
+									if(groups[2] !== 'undefined'){
+										type = groups[2];
+									}
+								}
+								//This is why there should be standards for serving content
+								else if(groups.length == 1 || groups[1].length < 3 || (!isNaN(parseInt(groups[1].charAt(0))))){
+									type = "";
+								}
+								else {
+									type = groups[1];
+								}
+								var group = "";
+								if (type == "Prac" || type == "Tut" || type == "Lec" || type === 'undefined'
+									|| type == "" || type == "Careers" || type == "Class Test" || type == "Demos"
+									|| type == "Drop-In" || type == "Exam" || type == "Fieldtrip"
+									|| type == "Fieldtrips" || type == "GIS Workshop" || type == "Ind"
+									|| type == "Review Session" || type == "Revision" || type == "Viva"
+									|| type == "Workshop" || type == "Training") {
+									//There was originally going to be code here, so it's staying until I know it can go
 								}
 								else {
 									if (type.substring(0, 4) == "Prac") {
 										group = type.charAt(4);
 										console.log("The group is: " + group);
-										type = "Prac"
+										type = "Prac";
 									}
 									else if (type.substring(0, 3) == "Tut") {
 										group = type.charAt(3);
@@ -136,9 +156,7 @@ async.series([
 					}
 				})
 			}
-			else {
-				callback();
-			}
+			else { callback(); }
 		}
 	},
 	//It's become necesary to go through the list, and for each of the "taught with" modules, copy and paste the
@@ -178,7 +196,7 @@ async.series([
 		callback();
 	},
 	function(callback){
-		fs.writeFile('timetable.json', JSON.stringify(data, null, 4), function(err){
+		fs.writeFile('timetableSem12014.json', JSON.stringify(data, null, 4), function(err){
 			console.log('Timetable file successfully written! - Check your project directory for the timetable.json file');
 		});
 		callback();
