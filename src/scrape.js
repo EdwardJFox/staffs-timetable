@@ -14,6 +14,12 @@ var moduleData = [];
 var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/;
 var modNameRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/g;
 var lessonTypeRegex = /(([A-Z]|[a-z]){2,4}\d{5}-\d)/g;
+var semester1Start = moment("2014-09-01");
+var semester1Finish = moment("2014-12-31");
+var semester2Start = moment("2015-01-01");
+var semester2Finish = moment("2015-03-21");
+var semester3Start = moment("2015-04-06");
+var semester3Finish = moment("2015-06-26");
 
 async.series([
 	function(callback){
@@ -47,7 +53,7 @@ async.series([
 		function scrapeTimes(i){
 			if(i < data.length){
 				//modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=" + week + "&days=1-5&periods=5-53";
-				modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=7-23&days=1-5&periods=5-53";
+				modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=7-43&days=1-5&periods=5-53";
 				//modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;COSE40577?&template=ModuleText2&weeks=7-23&days=1-5&periods=5-53";
 				console.log("i is currently " + i + " and length of data is " + data.length);
 				request(modUrl, function(err, response, html){
@@ -144,7 +150,19 @@ async.series([
 										day = "Friday";
 										break;
 								}
-								tempLesson = new Lesson(startTime, endTime, dates, day, room, type, group);
+								if (momDate.isAfter(semester1Start) && momDate.isBefore(semester1Finish)){
+									semester = 1;
+								}
+								else if (momDate.isAfter(semester2Start) && momDate.isBefore(semester2Finish)){
+									semester = 2;
+								}
+								else if (momDate.isAfter(semester3Start) && momDate.isBefore(semester3Finish)){
+									semester = 3;
+								}
+								else {
+									semester = null;
+								}
+								tempLesson = new Lesson(startTime, endTime, dates, day, room, type, group, semester);
 								data[i].addLesson(tempLesson);
 							});
 						}
@@ -196,7 +214,7 @@ async.series([
 		callback();
 	},
 	function(callback){
-		fs.writeFile('timetableSem12014.json', JSON.stringify(data, null, 4), function(err){
+		fs.writeFile('timetable.json', JSON.stringify(data, null, 4), function(err){
 			console.log('Timetable file successfully written! - Check your project directory for the timetable.json file');
 		});
 		callback();

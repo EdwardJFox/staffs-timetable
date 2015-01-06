@@ -1,5 +1,5 @@
 // Constructor
-function Lesson(startTime, endTime, date, day, room, type, group) {
+function Lesson(startTime, endTime, date, day, room, type, group, semester) {
 	// always initialize all instance properties
 	this.startTime = startTime;
 	this.endTime = endTime;
@@ -8,6 +8,7 @@ function Lesson(startTime, endTime, date, day, room, type, group) {
 	this.room = room;
 	this.lessonType = type;
 	this.group = group;
+	this.semester = semester;
 }
 
 // export the class
