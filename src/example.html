@@ -1,0 +1,848 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+    <title>Online One Page Module</title>
+    <style type="text/css">
+        body {
+            font: 10pt "Times New Roman", serif;
+        }
+
+        span.scientia-footer {
+            font: bold 150% "Times New Roman", serif;
+            color: rgb(255, 0, 0);
+        }
+
+        div.scientia-footer-message {
+            text-align: center
+        }
+
+        table.header-0-args {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table.header-1-args {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table.header-2-args {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table.header-3-args {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table.header-4-args {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table.header-5-args {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        table.header-border-args {
+        }
+
+        span.header-1-0-0 {
+        }
+
+        span.header-1-0-1 {
+            text-align: center;
+            vertical-align: middle;
+            color: rgb(255, 255, 255);
+            background-color: rgb(128, 0, 0);
+            font: bold 24pt "Arial", sans-serif;
+        }
+
+        span.header-1-0-2 {
+            text-align: center;
+            vertical-align: middle;
+            color: rgb(255, 255, 255);
+            background-color: rgb(128, 0, 0);
+            font: bold 24pt "Arial", sans-serif;
+        }
+
+        span.header-1-0-3 {
+            text-align: right;
+            vertical-align: middle;
+            color: rgb(255, 255, 255);
+            background-color: rgb(128, 0, 0);
+            font: bold 24pt "Arial", sans-serif;
+        }
+
+        span.header-3-0-0 {
+        }
+
+        span.header-3-0-1 {
+        }
+
+        table.footer-0-args {
+        }
+
+        table.footer-border-args {
+        }
+
+        span.footer-0-0-0 {
+            background-color: rgb(192, 192, 192);
+        }
+
+        td.cell-border {
+            border-left: 1pt solid rgb(0, 0, 0);
+            border-top: 1pt solid rgb(0, 0, 0)
+        }
+
+        td.object-cell-border {
+            border: 3pt outset rgb(255, 255, 255);
+            background-color: rgb(192, 192, 192);
+        }
+
+        table.object-cell-args {
+            text-align: center;
+            vertical-align: middle;
+            background-color: rgb(192, 192, 192);
+        }
+
+        table.grid-border-args {
+            border-right: 1pt solid rgb(0, 0, 0);
+            border-bottom: 1pt solid rgb(0, 0, 0)
+        }
+
+        col.object-cell-0-0 {
+            text-align: left;
+            width: auto;
+            text-align: center;
+            vertical-align: middle;
+            font: 9pt "Arial", sans-serif;
+        }
+
+        col.object-cell-0-1 {
+            text-align: center;
+        }
+
+        col.object-cell-0-2 {
+            text-align: right;
+        }
+
+        col.object-cell-1-0 {
+            text-align: left;
+        }
+
+        col.object-cell-1-1 {
+            text-align: center;
+            width: auto;
+            text-align: center;
+            vertical-align: middle;
+            font: 9pt "Arial", sans-serif;
+        }
+
+        col.object-cell-1-2 {
+            text-align: right;
+        }
+
+        col.object-cell-2-0 {
+            text-align: left;
+            width: auto;
+            text-align: center;
+            vertical-align: middle;
+            font: 9pt "Arial", sans-serif;
+        }
+
+        col.object-cell-2-1 {
+            text-align: center;
+        }
+
+        col.object-cell-2-2 {
+            text-align: right;
+            width: auto;
+            text-align: center;
+            vertical-align: middle;
+            font: 9pt "Arial", sans-serif;
+        }
+
+        td.row-label-one {
+            border-left: 1pt solid rgb(0, 0, 0);
+            border-top: 1pt solid rgb(0, 0, 0);
+            width: 5%;
+            white-space: pre;
+            text-align: center;
+            vertical-align: middle;
+            background-color: rgb(0, 255, 255);
+            font: 14pt "Arial", sans-serif;
+        }
+
+        td.row-label-two {
+            border-left: 1pt solid rgb(0, 0, 0);
+            border-top: 1pt solid rgb(0, 0, 0);
+            width: 5%;
+            white-space: pre;
+        }
+
+        td.col-label-one {
+            border-left: 1pt solid rgb(0, 0, 0);
+            border-top: 1pt solid rgb(0, 0, 0);
+            text-align: center;
+            vertical-align: middle;
+            background-color: rgb(0, 255, 255);
+            font: 9pt "Times New Roman", serif;
+        }
+
+        td.col-label-two {
+            border-left: 1pt solid rgb(0, 0, 0);
+            border-top: 1pt solid rgb(0, 0, 0);
+        }
+
+    </style>
+</head>
+
+<body>
+
+<!-- START REPORT HEADER -->
+<table class='header-border-args' border='0' cellspacing='0' width='100%'>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='header-0-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='header-1-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td><span
+                            class='header-1-0-0'>                                                            </span><span
+                            class='header-1-0-1'>Module: </span><span class='header-1-0-2'>COSE50582</span><span
+                            class='header-1-0-3'>Object-Oriented Application Engineering</span></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='header-2-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='header-3-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td><span
+                            class='header-3-0-0'>                                                                                     </span><span
+                            class='header-3-0-1'>                                                                                     </span>
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='header-4-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='header-5-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<!-- END REPORT HEADER -->
+
+<table class='grid-border-args' cellspacing='0'>
+
+    <!-- START COLUMN LABELS ONE -->
+    <tr>
+        <td></td>
+
+        <td class='col-label-one' colspan='1'>9:00</td>
+        <td class='col-label-one' colspan='1'>9:15</td>
+        <td class='col-label-one' colspan='1'>9:30</td>
+        <td class='col-label-one' colspan='1'>9:45</td>
+        <td class='col-label-one' colspan='1'>10:00</td>
+        <td class='col-label-one' colspan='1'>10:15</td>
+        <td class='col-label-one' colspan='1'>10:30</td>
+        <td class='col-label-one' colspan='1'>10:45</td>
+        <td class='col-label-one' colspan='1'>11:00</td>
+        <td class='col-label-one' colspan='1'>11:15</td>
+        <td class='col-label-one' colspan='1'>11:30</td>
+        <td class='col-label-one' colspan='1'>11:45</td>
+        <td class='col-label-one' colspan='1'>12:00</td>
+        <td class='col-label-one' colspan='1'>12:15</td>
+        <td class='col-label-one' colspan='1'>12:30</td>
+        <td class='col-label-one' colspan='1'>12:45</td>
+        <td class='col-label-one' colspan='1'>13:00</td>
+        <td class='col-label-one' colspan='1'>13:15</td>
+        <td class='col-label-one' colspan='1'>13:30</td>
+        <td class='col-label-one' colspan='1'>13:45</td>
+        <td class='col-label-one' colspan='1'>14:00</td>
+        <td class='col-label-one' colspan='1'>14:15</td>
+        <td class='col-label-one' colspan='1'>14:30</td>
+        <td class='col-label-one' colspan='1'>14:45</td>
+        <td class='col-label-one' colspan='1'>15:00</td>
+        <td class='col-label-one' colspan='1'>15:15</td>
+        <td class='col-label-one' colspan='1'>15:30</td>
+        <td class='col-label-one' colspan='1'>15:45</td>
+        <td class='col-label-one' colspan='1'>16:00</td>
+        <td class='col-label-one' colspan='1'>16:15</td>
+        <td class='col-label-one' colspan='1'>16:30</td>
+        <td class='col-label-one' colspan='1'>16:45</td>
+        <td class='col-label-one' colspan='1'>17:00</td>
+        <td class='col-label-one' colspan='1'>17:15</td>
+        <td class='col-label-one' colspan='1'>17:30</td>
+        <td class='col-label-one' colspan='1'>17:45</td>
+        <td class='col-label-one' colspan='1'>18:00</td>
+        <td class='col-label-one' colspan='1'>18:15</td>
+        <td class='col-label-one' colspan='1'>18:30</td>
+        <td class='col-label-one' colspan='1'>18:45</td>
+        <td class='col-label-one' colspan='1'>19:00</td>
+        <td class='col-label-one' colspan='1'>19:15</td>
+        <td class='col-label-one' colspan='1'>19:30</td>
+        <td class='col-label-one' colspan='1'>19:45</td>
+        <td class='col-label-one' colspan='1'>20:00</td>
+        <td class='col-label-one' colspan='1'>20:15</td>
+        <td class='col-label-one' colspan='1'>20:30</td>
+        <td class='col-label-one' colspan='1'>20:45</td>
+        <td class='col-label-one' colspan='1'>21:00</td>
+    </tr>
+
+    <!-- END COLUMN LABELS ONE -->
+
+    <!-- START ROW OUTPUT -->
+    <tr>
+        <td rowspan='1' class='row-label-one'>Mon</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Lec/Sem1</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Gillibrand D, Mansfield GD</td>
+                    <td align='right'>C340</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td rowspan='1' class='row-label-one'>Tue</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Lec/Sem2</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Gillibrand D, Mansfield GD</td>
+                    <td align='right'>C330</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Lec/Sem1/wk2-12</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Gillibrand D, Mansfield GD</td>
+                    <td align='right'>D117</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td rowspan='1' class='row-label-one'>Wed</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Prac/Sem2</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Gillibrand D, Mansfield GD</td>
+                    <td align='right'>K102</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td rowspan='2' class='row-label-one'>Thu</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Lec/Sem1/wk1</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Mansfield GD, Gillibrand D</td>
+                    <td align='right'>C317</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Lec/Sem2</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Mansfield GD, Gillibrand D</td>
+                    <td align='right'>Blue Lecture Theatre 2</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='4' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Prac/Sem1</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'>Mansfield GD, Gillibrand D</td>
+                    <td align='right'>F012B - IT Lab</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+    </tr>
+    <tr>
+        <td rowspan='1' class='row-label-one'>Fri</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='object-cell-border' colspan='10' rowspan='1'>
+            <!-- START OBJECT-CELL -->
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-0-0'/>
+                <tr>
+                    <td align='left'>COSE50582/Prac/Sem1</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-1-1'/>
+                <tr>
+                    <td align='center'>Object-Oriented Application Engineering</td>
+                </tr>
+            </table>
+            <table class='object-cell-args' cellspacing='0' border='0' width='100%'>
+                <col class='object-cell-2-0'/>
+                <col class='object-cell-2-2'/>
+                <tr>
+                    <td align='left'></td>
+                    <td align='right'>F012B - IT Lab</td>
+                </tr>
+            </table>
+            <!-- END OBJECT-CELL -->
+        </td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+        <td class='cell-border'>&nbsp;</td>
+    </tr>
+
+    <!-- END ROW OUTPUT -->
+</table>
+
+<!-- START REPORT FOOTER -->
+<table class='footer-border-args' border='0' cellspacing='0' width='100%'>
+    <tr>
+        <td>
+            <table cellspacing='0' border='0' width='100%' class='footer-0-args'>
+                <col align='left'/>
+                <col align='center'/>
+                <col align='right'/>
+                <tr>
+                    <td><span class='footer-0-0-0'><Click HERE to Edit Footer></span></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<!-- END REPORT FOOTER -->
+<hr/>

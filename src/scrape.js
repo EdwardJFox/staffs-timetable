@@ -14,231 +14,150 @@ var moduleData = [];
 var modRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/;
 var modNameRegex = /(([A-Z]|[a-z]){4}\d{5}\/?){1,4}/g;
 var lessonTypeRegex = /(([A-Z]|[a-z]){2,4}\d{5}-\d)/g;
-var semester1Start = moment("2014-09-01");
-var semester1Finish = moment("2014-12-31");
-var semester2Start = moment("2015-01-01");
-var semester2Finish = moment("2015-03-21");
-var semester3Start = moment("2015-04-06");
-var semester3Finish = moment("2015-06-26");
+var weekRegex = /wk/;
+var semesterRegex = /sem|Sem/;
+var typeRegex = /(Prac|1Prac|2Prac|Tut|Lec|undefined|Careers|Class Test|Demos|Drop-In|Exam|Fieldtrip|GIS Workshop|Ind|Review Session|Revision|Viva|Workshop|Training)$/;
+var typeGroupRegex = /Prac|1Prac|2Prac|Tut|Lec/;
+
 
 async.series([
-	function(callback){
-		var url = "http://crwnmis3.staffs.ac.uk/modules.htm";
-		request(url, function(error, response, html){
-			if(!error){
-				var $ = cheerio.load(html);
-				$('select[name="identifier"] > option').each(function (i, row){
-					//Replace all the new line charactes with nothing, and replace spaces with +
-					var moduleCode = $(row).text().replace(/(\r\n|\n|\r)/gm,"").split(' ').join('+');
-					if(modRegex.test(moduleCode)){
-						tempModule = new ModuleObj(moduleCode);
-						data.push(tempModule);
-					}
-				});
-				callback();
-			}
-			else {
-				console.log(error);
-			}
-		});
-	},
-	/*Scrape timetables*/
-	function(callback){
-		var weeksStart = moment("04/08/2014", "DD-MM-YYYY");
-		var now = moment();
-		var thisWeek = now.week();
-		var week = now.week() - weeksStart.week()+1;
-		week = 29;
-		scrapeTimes(0, week);
-		function scrapeTimes(i){
-			if(i < data.length){
-				//modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=" + week + "&days=1-5&periods=5-53";
-				modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;" + data[i].moduleCode +"?&template=ModuleText2&weeks=7-43&days=1-5&periods=5-53";
-				//modUrl = "http://crwnmis3.staffs.ac.uk/Reporting/TextReport;Modules;name;COSE40577?&template=ModuleText2&weeks=7-23&days=1-5&periods=5-53";
-				console.log("i is currently " + i + " and length of data is " + data.length);
-				request(modUrl, function(err, response, html){
-					if( err ) {
-						console.log('error: ' + err);
-					}
-					else {
-						try {
-							var $ = cheerio.load(html);
-							data[i].setModuleName($(".header-2-0-0").html());
-							console.log(data[i].getModuleName() + "\tcode: " + data[i].getModuleCode() + "\n");
-							$(".report-border-args").each(function () {
-								//Get the group that the current lesson being looked at is in, if any at all.
-								var groups = $(this).find(".report-1-0-0").html().split("/");
-								var type = "";
-								var gIndex = 1;
-								if(groups[1] === 'undefined'){
-									if (groups[1].length == 9) {
-										gIndex = 2;
-									}
-									else {
-										type = 'undefined';
-									}
-								}
-								else if(lessonTypeRegex.test(groups[1])){
-									if(groups[2] !== 'undefined'){
-										type = groups[2];
-									}
-								}
-								//This is why there should be standards for serving content
-								else if(groups.length == 1 || groups[1].length < 3 || (!isNaN(parseInt(groups[1].charAt(0))))){
-									type = "";
-								}
-								else {
-									type = groups[1];
-								}
-								var group = "";
-								if (type == "Prac" || type == "Tut" || type == "Lec" || type === 'undefined'
-									|| type == "" || type == "Careers" || type == "Class Test" || type == "Demos"
-									|| type == "Drop-In" || type == "Exam" || type == "Fieldtrip"
-									|| type == "Fieldtrips" || type == "GIS Workshop" || type == "Ind"
-									|| type == "Review Session" || type == "Revision" || type == "Viva"
-									|| type == "Workshop" || type == "Training") {
-									//There was originally going to be code here, so it's staying until I know it can go
-								}
-								else {
-									if (type.substring(0, 4) == "Prac") {
-										group = type.charAt(4);
-										console.log("The group is: " + group);
-										type = "Prac";
-									}
-									else if (type.substring(0, 3) == "Tut") {
-										group = type.charAt(3);
-										type = "Tut";
-									}
-									else if (type.substring(0, 3) == "Lec") {
-										group = type.charAt(3);
-										type = "Lec";
-									}
-								}
-								//Getting the dates of each of the lessons, then parsing it into a day of the current week
-								var dates = $(this).find(".report-2-0-0");
-								if (dates != null) {
-									dates = $(dates).html().split(",");
-								}
-								//Start Time
-								var startTime = $(this).find(".report-3-0-0").html();
-								//End Time
-								var endTime = $(this).find(".report-4-0-0").html();
-								//Room
-								var room = $(this).find(".report-5-0-0").text();
-								for (index in dates) {
-									//Just to get rid of the leading whitespace in the dates
-									dates[index] = dates[index].trim();
-									//console.log(startTime + endTime + date + room + type + group )
+    function(callback){
+        var url = "http://crwnmis3.staffs.ac.uk/modules.htm";
+        request(url, function(error, response, html){
+            if(!error){
+                var $ = cheerio.load(html);
+                $('select[name="identifier"] > option').each(function (i, row){
+                    //Replace all the new line charactes with nothing, and replace spaces with +
+                    var moduleCode = $(row).text().replace(/(\r\n|\n|\r)/gm,"").split(' ').join('+');
+                    if(modRegex.test(moduleCode)){
+                        tempModule = new ModuleObj(moduleCode);
+                        data.push(tempModule);
+                    }
+                });
+                callback();
+            }
+            else {
+                console.log(error);
+            }
+        });
+    },
+    /*Scrape timetables*/
+    function(callback){
+        var weeksStart = moment("04/08/2014", "DD-MM-YYYY");
+        var now = moment();
+        var thisWeek = now.week();
+        var week = now.week() - weeksStart.week()+1;
+        week = 29;
+        scrapeTimes(0, week);
+        function scrapeTimes(i){
+            if(i < data.length){
+                //var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;COSE50582?&template=Online%20One%20Page%20Module&weeks=7-48&days=1-5&periods=5-53&width=0&height=0";
+                var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;" + data[i].moduleCode +"?&template=Online%20One%20Page%20Module&weeks=7-48&days=1-5&periods=5-53&width=0&height=0";
+                console.log("i is currently " + i + " and length of data is " + data.length + " and is on " + data[i].moduleCode);
+                request(url, function(err, response, html) {
+                    if (err) {
+                        console.log('error: ' + err);
+                    }
+                    else {
+                        try {
+                            var $ = cheerio.load(html);
+                            //Give the associated module code it's proper module name
+                            //var dataIndex = findModuleIndex($('.header-1-0-2').text());
+                            data[i].moduleName = $('.header-1-0-3').text();
+                            var currentDay;
+                            $(".grid-border-args > tr").each(function () {
+                                var n = 0;
+                                $(this).find('td').each(function () {
+                                    if ($(this).hasClass("row-label-one")) {
+                                        currentDay = $(this).text().replace(/\s/g, "");
+                                    }
+                                    else {
+                                        if ($(this).hasClass('object-cell-border')) {
+                                            var lessonStartTime = decToTimeString(9 + (n * 0.25));
+                                            var lessonEndTime = decToTimeString((9 + (n * 0.25)) + (parseInt($(this).attr('colspan')) * 0.25));
+                                            //The first block of info in the box, giving the module code, type, and time
+                                            var moduleInfo = $(this).find(".object-cell-args").eq(0).text().replace(/\s/g, "").split("/");
+                                            var type = null, group = null, semester = null, weeks = null;
+                                            if(moduleInfo.length == 1){
+                                                type = "Lec";
+                                            }
+                                            else {
+                                                for (var j = 1; j < moduleInfo.length; j++){
+                                                    if(semesterRegex.test(moduleInfo[j])){
+                                                        semester = moduleInfo[j];
+                                                    }
+                                                    else if(weekRegex.test(moduleInfo[j])){
+                                                        weeks = moduleInfo[j]
+                                                    }
+                                                    else if(typeRegex.test(moduleInfo[j])){
+                                                        type = moduleInfo[j];
+                                                    }
+                                                    else if(typeGroupRegex.test(moduleInfo[j])){
+                                                        type = moduleInfo[j];
+                                                        if (type.substring(0, 4) == "Prac") {
+                                                            group = type.charAt(4);
+                                                            type = "Prac";
+                                                        }
+                                                        else if (type.substring(0, 3) == "Tut") {
+                                                            group = type.charAt(3);
+                                                            type = "Tut";
+                                                        }
+                                                        else if (type.substring(0, 3) == "Lec") {
+                                                            group = type.charAt(3);
+                                                            type = "Lec";
+                                                        }else if (type.substring(0, 5) == "1Prac") {
+                                                            group = type.charAt(5);
+                                                            type = "1Prac";
+                                                        }else if (type.substring(0, 5) == "2Prac") {
+                                                            group = type.charAt(5);
+                                                            type = "2Prac";
+                                                        }
+                                                    }
+                                                }
 
-								}
-								//Working out which day it's on
-								var momDate = moment(dates[0]);
-								switch (momDate.day()) {
-									case 1:
-										day = "Monday";
-										break;
-									case 2:
-										day = "Tuesday";
-										break;
-									case 3:
-										day = "Wednesday";
-										break;
-									case 4:
-										day = "Thursday";
-										break;
-									case 5:
-										day = "Friday";
-										break;
-								}
-								if (momDate.isAfter(semester1Start) && momDate.isBefore(semester1Finish)){
-									semester = 1;
-								}
-								else if (momDate.isAfter(semester2Start) && momDate.isBefore(semester2Finish)){
-									semester = 2;
-								}
-								else if (momDate.isAfter(semester3Start) && momDate.isBefore(semester3Finish)){
-									semester = 3;
-								}
-								else {
-									semester = null;
-								}
-								tempLesson = new Lesson(startTime, endTime, dates, day, room, type, group, semester);
-								data[i].addLesson(tempLesson);
-							});
-						}
-						catch(err){
-							console.log(err + "\n");
-						}
-						scrapeTimes(i+1);
-						return;
-					}
-				})
-			}
-			else { callback(); }
-		}
-	},
-	//It's become necesary to go through the list, and for each of the "taught with" modules, copy and paste the
-	//lessons over to the one which doesn't have the modules in it
-	function(callback){
-		for(var i = data.length-1; i >= 0; i--) {
-			if (data[i].moduleName == null) {
-				data.splice(i, 1);
-			}
-		}
-		for(var i = 0; i < data.length; i++) {
-			//You'll notice taught is missing a t, this is due to the fact there is a misspelling somewhere in the
-			//Uni's system itself
-			try {
-				var tempModName = data[i].moduleName;
-				if (tempModName.indexOf("with") > -1){
-					if(modRegex.test(tempModName)){
-						var temp;
-						while(temp = modNameRegex.exec(tempModName)){
-							var index = findModuleIndex(temp[0]);
-							if(index >= 0 ){
-								if(data[index].lessons.length == 0){
-									data[index].lessons = data[i].lessons.slice(0);
-								}
-								else if(data[i].lessons.length == 0){
-									data[i].lessons = data[index].lessons.slice(0);
-								}
-							}
-						}
-					}
-				}
-			}
-			catch (err) {
-				console.log(err);
-			}
-		}
-		callback();
-	},
-	function(callback){
-		fs.writeFile('timetable.json', JSON.stringify(data, null, 4), function(err){
-			console.log('Timetable file successfully written! - Check your project directory for the timetable.json file');
-		});
-		callback();
-	},
-	function(callback){
-		for(var i = 0; i < data.length; i++){
-			moduleData.push({
-				name : data[i].moduleName,
-				code : data[i].moduleCode,
-				level : data[i].level
-			});
-		}
-		fs.writeFile('modules.json', JSON.stringify(moduleData, null, 4), function(err){
-			console.log('Module file successfully written! - Check your project directory for the modules.json file');
-		});
-		callback();
-	}
+                                            }
+                                            var teacher = (((t = $(this).find(".object-cell-args").eq(2).find("td[align='left']").text()) == "") ? null : t);
+                                            var room = (((r = $(this).find(".object-cell-args").eq(2).find("td[align='right']").text()) == "") ? null : r);
+                                            //Lessons
+                                            data[i].lessons.push(new Lesson(lessonStartTime, lessonEndTime, weeks, currentDay, room, type, group, semester, teacher));
+                                            //console.log("Type : " + type + "\t Day : " + currentDay + "\t Time : " + lessonStartTime + "\t Group : " + group + "\t Room : " + room + "\t Teacher : " + teacher);
+                                            n--;
+                                        }
+                                        n++;
+                                    }
+                                });
+                            });
+                        }
+                        catch (err) {
+                            console.log(err);
+                        }
+                        scrapeTimes(i+1);
+                        return;
+                    }
+                })
+            }
+            else { callback(); }
+        }
+    },
+    function(callback){
+        fs.writeFile('timetableTest.json', JSON.stringify(data, null, 4), function(err){
+            console.log('Timetable file successfully written! - Check your project directory for the timetableTest.json file');
+        });
+        callback();
+    }
 ]);
-
+//Find the index of module code in the module data
 function findModuleIndex(moduleCode){
-	for(var i = 0; i < data.length; i++){
-		if(data[i].moduleCode == moduleCode){
-			return i;
-		}
-	}
-	return -1;
+    for(var i = 0; i < data.length; i++){
+        if(data[i].moduleCode == moduleCode){
+            return i;
+        }
+    }
+    return -1;
+}
+//Converts the decimal to a standard time format of HH:MM
+function decToTimeString(dec){
+    var temp = dec.toString().split(".");
+    if(temp.length == 2){ return temp[0] + ":" + temp[1] * 6; }
+    else { return temp[0] + ":00"; }
 }

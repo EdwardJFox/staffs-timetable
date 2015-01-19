@@ -25,6 +25,7 @@ app.get('/', function (req, res) {
 
 //GET a list of all modules available
 app.get('/timetable', function(req, res){
+	res.header('Access-Control-Allow-Origin', "*");
 	res.json(modData);
 });
 

@@ -10,6 +10,7 @@ module.exports = {
 		if(reqMod[0] == "timetable"){ reqMod.splice(0, 1); }
 		if(reqMod[reqMod.length-1] == ""){ reqMod.splice(reqMod.length-1, 1); }
 		var resJSON = getModules(reqMod, FCETdata);
+		res.header('Access-Control-Allow-Origin', "*");
 		res.json(resJSON);
 	}
 };
