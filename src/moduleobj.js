@@ -7,24 +7,14 @@ function ModuleObj(moduleCode) {
 	if(!isNaN(parseInt(tempChar))){
 		this.level = parseInt(tempChar);
 	}
+	else if(this.moduleCode.indexOf("-") > 0){
+		this.level = parseInt(this.moduleCode.charAt(this.moduleCode.indexOf("-") + 1));
+	}
 	else {
 		this.level = 0;
 	}
 	this.lessons = [];
 }
-// class methods
-ModuleObj.prototype.addLesson = function(lesson) {
-	this.lessons.push(lesson);
-};
-ModuleObj.prototype.setModuleName = function(name){
-	this.moduleName = name;
-};
-ModuleObj.prototype.getModuleName = function(){
-	return this.moduleName;
-};
-ModuleObj.prototype.getModuleCode = function(){
-	return this.moduleCode;
-};
 
 // export the class
 module.exports = ModuleObj;

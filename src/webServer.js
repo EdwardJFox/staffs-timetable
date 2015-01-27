@@ -8,7 +8,7 @@ var crypto = require('crypto');
 var moment = require('moment');
 moment().format();
 
-var ModuleObj = require('./moduleobj');
+var ModuleObj = require('./moduleObj');
 var Lesson = require('./lesson');
 var app = express();
 var FCETdata = JSON.parse(fs.readFileSync('./output.json', 'utf8'));

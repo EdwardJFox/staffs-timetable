@@ -6,7 +6,7 @@ var async = require('async');
 var moment = require('moment');
 moment().format();
 
-var ModuleObj = require('./moduleobj');
+var ModuleObj = require('./moduleObj');
 var Lesson = require('./lesson');
 var app = express();
 var data = [];
@@ -27,8 +27,8 @@ async.series([
             if(!error){
                 var $ = cheerio.load(html);
                 $('select[name="identifier"] > option').each(function (i, row){
-                    //Replace all the new line charactes with nothing, and replace spaces with +
-                    var moduleCode = $(row).text().replace(/(\r\n|\n|\r)/gm,"").split(' ').join('+');
+                    //Replace all the new line charactes with nothing, and replace spaces and / with with +
+                    var moduleCode = $(row).text().replace(/(\r\n|\n|\r)/gm,"").split(' ').join('+').replace("/", "+");
                     if(modRegex.test(moduleCode)){
                         tempModule = new ModuleObj(moduleCode);
                         data.push(tempModule);
@@ -48,11 +48,15 @@ async.series([
         var thisWeek = now.week();
         var week = now.week() - weeksStart.week()+1;
         week = 29;
-        scrapeTimes(0, week);
+        scrapeTimes(0);
         function scrapeTimes(i){
             if(i < data.length){
-                //var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;COSE50582?&template=Online%20One%20Page%20Module&weeks=7-48&days=1-5&periods=5-53&width=0&height=0";
-                var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;" + data[i].moduleCode +"?&template=Online%20One%20Page%20Module&weeks=7-48&days=1-5&periods=5-53&width=0&height=0";
+                //var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;COIS51030?&template=Online%20One%20Page%20Module&weeks=7-48&days=1-5&periods=5-53&width=0&height=0";
+                //This will get all semesters in the same timetable
+                var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;" + data[i].moduleCode.replace("+", "/") +"?&template=Online%20One%20Page%20Module&weeks=7-48&days=1-5&periods=5-53&width=0&height=0";
+                //This will get just semester 2
+                //var url = "http://crwnmis3.staffs.ac.uk/Reporting/Individual;Modules;name;" + data[i].moduleCode.replace("+", "/") +"?&template=Online%20One%20Page%20Module&weeks=24-42&days=1-5&periods=5-53&width=0&height=0";
+                console.log(url);
                 console.log("i is currently " + i + " and length of data is " + data.length + " and is on " + data[i].moduleCode);
                 request(url, function(err, response, html) {
                     if (err) {
@@ -62,8 +66,7 @@ async.series([
                         try {
                             var $ = cheerio.load(html);
                             //Give the associated module code it's proper module name
-                            //var dataIndex = findModuleIndex($('.header-1-0-2').text());
-                            data[i].moduleName = $('.header-1-0-3').text();
+                            data[i].moduleName = $('.header-1-0-3').text().replace("/", "+");
                             var currentDay;
                             $(".grid-border-args > tr").each(function () {
                                 var n = 0;
@@ -84,7 +87,13 @@ async.series([
                                             else {
                                                 for (var j = 1; j < moduleInfo.length; j++){
                                                     if(semesterRegex.test(moduleInfo[j])){
-                                                        semester = moduleInfo[j];
+                                                        var tempSemester = moduleInfo[j];
+                                                        if(tempSemester.substring(0,2) == "04" || tempSemester.substring(0,2) == "10" || tempSemester.substring(0,2) == "11" || tempSemester.substring(0,2) == "12" || tempSemester.substring(0,2) == "13" || tempSemester.substring(0,2) == "14"){
+                                                            semester = parseInt(tempSemester.substr(5,1));
+                                                        }
+                                                        else {
+                                                            semester = parseInt(tempSemester.replace( /^\D+/g, ''));
+                                                        }
                                                     }
                                                     else if(weekRegex.test(moduleInfo[j])){
                                                         weeks = moduleInfo[j]
@@ -97,12 +106,10 @@ async.series([
                                                         if (type.substring(0, 4) == "Prac") {
                                                             group = type.charAt(4);
                                                             type = "Prac";
-                                                        }
-                                                        else if (type.substring(0, 3) == "Tut") {
+                                                        }else if (type.substring(0, 3) == "Tut") {
                                                             group = type.charAt(3);
                                                             type = "Tut";
-                                                        }
-                                                        else if (type.substring(0, 3) == "Lec") {
+                                                        }else if (type.substring(0, 3) == "Lec") {
                                                             group = type.charAt(3);
                                                             type = "Lec";
                                                         }else if (type.substring(0, 5) == "1Prac") {
@@ -114,7 +121,6 @@ async.series([
                                                         }
                                                     }
                                                 }
-
                                             }
                                             var teacher = (((t = $(this).find(".object-cell-args").eq(2).find("td[align='left']").text()) == "") ? null : t);
                                             var room = (((r = $(this).find(".object-cell-args").eq(2).find("td[align='right']").text()) == "") ? null : r);
@@ -122,6 +128,9 @@ async.series([
                                             data[i].lessons.push(new Lesson(lessonStartTime, lessonEndTime, weeks, currentDay, room, type, group, semester, teacher));
                                             //console.log("Type : " + type + "\t Day : " + currentDay + "\t Time : " + lessonStartTime + "\t Group : " + group + "\t Room : " + room + "\t Teacher : " + teacher);
                                             n--;
+                                            if(parseInt($(this).attr('colspan'))*0.25 > 1){
+                                                n = n + (parseInt(($(this).attr('colspan'))*0.25)-1)*4;
+                                            }
                                         }
                                         n++;
                                     }
@@ -140,8 +149,21 @@ async.series([
         }
     },
     function(callback){
-        fs.writeFile('timetableTest.json', JSON.stringify(data, null, 4), function(err){
+        fs.writeFile('timetable.json', JSON.stringify(data, null, 4), function(err){
             console.log('Timetable file successfully written! - Check your project directory for the timetableTest.json file');
+        });
+        callback();
+    },
+    function(callback){
+        for(var i = 0; i < data.length; i++){
+            moduleData.push({
+                name : data[i].moduleName,
+                code : data[i].moduleCode,
+                level : data[i].level
+            });
+        }
+        fs.writeFile('modules.json', JSON.stringify(moduleData, null, 4), function(err){
+            console.log('Module file successfully written! - Check your project directory for the modules.json file');
         });
         callback();
     }

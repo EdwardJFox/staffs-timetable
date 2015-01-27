@@ -8,7 +8,7 @@ var crypto = require('crypto');
 var moment = require('moment');
 moment().format();
 
-var ModuleObj = require('./moduleobj');
+var ModuleObj = require('./moduleObj');
 var Lesson = require('./lesson');
 var timetable = require('./api_timetable');
 var app = express();

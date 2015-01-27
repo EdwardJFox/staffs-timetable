@@ -6,7 +6,7 @@ var async = require('async');
 var moment = require('moment');
 moment().format();
 
-var ModuleObj = require('./moduleobj');
+var ModuleObj = require('./moduleObj');
 var Lesson = require('./lesson');
 var app = express();
 var data = [];
