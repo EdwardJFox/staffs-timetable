@@ -10,7 +10,9 @@
     "cheerio": "latest",
     "async": "latest",
     "moment": "latest",
-    "jade": "latest"
+    "jade": "latest",
+    "chokidar": "latest",
+    "universal-analytics": "latest"
   },
   "engines": {
     "node": "0.10.x"

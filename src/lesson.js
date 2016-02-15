@@ -8,7 +8,8 @@ function Lesson(startTime, endTime, weeks, day, room, type, group, semester, tea
 	this.room = room;
 	this.lessonType = type;
 	this.group = group;
-	this.semester = semester;
+	//this.semester = semester;
+	this.semester = null; // Work around due to some mislabeled semesters, and the fact we're scraping only semesters as they come and go
 	this.teacher = teacher;
 
 	for(var property in this) {
@@ -21,7 +22,7 @@ function Lesson(startTime, endTime, weeks, day, room, type, group, semester, tea
 //Returns an array with the number of weeks
 function getWeeks(input) {
 	if (input.split("&").length > 1) {
-		var t = input.split("&");
+		var t = input.split(/&|,/g);
 		var a = [];
 		for (var i = 0; i < t.length; i++) {
 			t[i].replace(/^\D+/g, '');
